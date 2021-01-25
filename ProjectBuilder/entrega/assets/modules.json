@@ -1,0 +1,51 @@
+[
+    {
+        "path": "criteriosrem",
+        "location": "./assets/criteriosrem.umd.js",
+        "moduleName": "CriteriosremModule",
+        "description": "Tela de Criterios Remuneração",
+        "registered": false
+    },
+    {
+        "path": "fechamentosrem",
+        "location": "./assets/fechamentosrem.umd.js",
+        "moduleName": "FechamentosremModule",
+        "description": "Tela para controle do fechamento de Remuneração",
+        "registered": false
+    },
+    {
+        "path": "empresas",
+        "location": "./assets/empresas.umd.js",
+        "moduleName": "EmpresasModule",
+        "description": "Tela de Cadastro de Empresas",
+        "registered": false
+    },
+    {
+        "path": "fasecobranca",
+        "location": "./assets/fasecobranca.umd.js",
+        "moduleName": "FasecobrancaModule",
+        "description": "Tela Fase de Cobrança",
+        "registered": false
+    },
+    {
+        "path": "historico",
+        "location": "./assets/historico.umd.js",
+        "moduleName": "HistoricoModule",
+        "description": "Consulta Mov Historico",
+        "registered": false
+    },
+    {
+        "path": "bureau",
+        "location": "./assets/bureau.umd.js",
+        "moduleName": "BureauModule",
+        "description": "Cadastro Bureau",
+        "registered": false
+    },
+    {
+        "path": "politica",
+        "location": "./assets/politica.umd.js",
+        "moduleName": "PoliticaModule",
+        "description": "Cadastro Politica Bureau",
+        "registered": false
+    }
+]

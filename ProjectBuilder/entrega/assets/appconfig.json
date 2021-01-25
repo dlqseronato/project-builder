@@ -1,0 +1,28 @@
+{
+    "cliente": "CYBER",
+    "modulos_cliente": [
+    ],
+    "modulos_padrao": [
+        "aceite-acordo",
+        "bureau",
+        "criteriosrem",
+        "empresa-bureau",
+        "empresas",
+        "extrator-web",
+        "fasecobranca",
+        "fechamentosrem",
+        "historico",
+        "politica",
+        "updownload"
+    ],
+    "package": "conppwPadraoC9-war",
+    "consoleEndpoint": "/cyberconsole/",
+    "conppwPadraoEndpoint": "/conppwPadraoC9-war/ppwpadrao/v9/",
+    "extratorEndpoint": "/extratorWeb/api/v9/",
+    "allowedDomains": [
+        ""
+    ],
+    "disallowedRoutes": [
+        ""
+    ]
+}

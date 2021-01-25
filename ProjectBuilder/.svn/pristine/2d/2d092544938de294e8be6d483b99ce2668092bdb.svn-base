@@ -1,0 +1,20 @@
+02/12/2020 20:17:41,34 - ANGULAR_BUILD_PROD - INICIO 
+02/12/2020 20:17:41,45 - ANGULAR_BUILD_PROD - INFORMACAO - Iniciando tentativa de build numero 1 
+02/12/2020 20:18:09,76 - ANGULAR_BUILD_PROD - 02/12/2020 20:17:41,34 - ANGULAR_BUILD_PROD - INICIO  
+02/12/2020 20:18:09,76 - ANGULAR_BUILD_PROD - 02/12/2020 20:17:41,45 - ANGULAR_BUILD_PROD - INFORMACAO - Iniciando tentativa de build numero 1  
+02/12/2020 20:18:09,76 - ANGULAR_BUILD_PROD - > conppw-padrao-c9-ui@9.0.0 ng C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI 
+02/12/2020 20:18:09,76 - ANGULAR_BUILD_PROD - > ng "build" 
+02/12/2020 20:18:09,76 - ANGULAR_BUILD_PROD - Browserslist: caniuse-lite is outdated. Please run next command `npm update` 
+02/12/2020 20:18:09,76 - ANGULAR_BUILD_PROD - Date: 2020-12-02T23:18:09.516Z 
+02/12/2020 20:18:09,76 - ANGULAR_BUILD_PROD - Hash: 0ef9f5575a998b4796b6 
+02/12/2020 20:18:09,76 - ANGULAR_BUILD_PROD - Time: 21112ms 
+02/12/2020 20:18:09,76 - ANGULAR_BUILD_PROD - chunk {main} main.js, main.js.map (main) 197 kB [initial] [rendered] 
+02/12/2020 20:18:09,76 - ANGULAR_BUILD_PROD - chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 444 kB [initial] [rendered] 
+02/12/2020 20:18:09,76 - ANGULAR_BUILD_PROD - chunk {runtime} runtime.js, runtime.js.map (runtime) 6.08 kB [entry] [rendered] 
+02/12/2020 20:18:09,76 - ANGULAR_BUILD_PROD - chunk {scripts} scripts.js, scripts.js.map (scripts) 495 kB [entry] [rendered] 
+02/12/2020 20:18:09,76 - ANGULAR_BUILD_PROD - chunk {styles} styles.js, styles.js.map (styles) 1.75 MB [initial] [rendered] 
+02/12/2020 20:18:09,76 - ANGULAR_BUILD_PROD - chunk {vendor} vendor.js, vendor.js.map (vendor) 9.68 MB [initial] [rendered] 
+02/12/2020 20:18:09,98 - ANGULAR_BUILD_PROD - INFORMACAO -  
+02/12/2020 20:18:10,29 - ANGULAR_BUILD_PROD - SUCESSO - TERMO NAO ENCONTRADO 
+02/12/2020 20:18:10,43 - ANGULAR_BUILD_PROD - SUCESSO - Build realizado com sucesso 
+02/12/2020 20:18:10,73 - ANGULAR_BUILD_PROD - SUCESSO - TERMO NAO ENCONTRADO 

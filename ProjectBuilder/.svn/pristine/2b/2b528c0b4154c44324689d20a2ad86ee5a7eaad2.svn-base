@@ -1,0 +1,21 @@
+02/12/2020 20:17:41,34 - ANGULAR_BUILD_PROD - INICIO 
+02/12/2020 20:17:41,45 - ANGULAR_BUILD_PROD - INFORMACAO - Iniciando tentativa de build numero 1 
+
+> conppw-padrao-c9-ui@9.0.0 ng C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI
+> ng "build"
+
+Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+
+Date: 2020-12-02T23:18:09.516Z
+Hash: 0ef9f5575a998b4796b6
+Time: 21112ms
+chunk {main} main.js, main.js.map (main) 197 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 444 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.08 kB [entry] [rendered]
+chunk {scripts} scripts.js, scripts.js.map (scripts) 495 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 1.75 MB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 9.68 MB [initial] [rendered]
+02/12/2020 20:18:09,98 - ANGULAR_BUILD_PROD - INFORMACAO -  
+02/12/2020 20:18:10,29 - ANGULAR_BUILD_PROD - SUCESSO - TERMO NAO ENCONTRADO 
+02/12/2020 20:18:10,43 - ANGULAR_BUILD_PROD - SUCESSO - Build realizado com sucesso 
+02/12/2020 20:18:10,74 - ANGULAR_BUILD_PROD - SUCESSO - TERMO NAO ENCONTRADO 

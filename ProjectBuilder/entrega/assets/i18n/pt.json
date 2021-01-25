@@ -1,0 +1,250 @@
+{
+  "exampleTranslation" : "Este é um exemplo de um texto traduzido",
+  "invalidConstraintField" : "A restrição contém um campo inválido",
+  "invalidConstraintValue" : "A restrição contém um valor incorreto",
+  "constraintsRequired" : "É necessário pelo menos uma restrição",
+  "CriteriosremModule" : "Critérios de Remuneração",
+  "FechamentosremModule" : "Fechamento de Remuneração",
+  "EmpresasModule" : "Cadastro de Assessorias",
+  "FasecobrancaModule": "Fase de Cobrança",
+  "HistoricoModule": "Consulta Hist Movimentação",
+  "BureauModule": "Cadastro Bureau",
+  "PoliticaModule": "Cadastro Politica Bureau",
+  "UpdownloadModule": "Gestão de Arquivos",
+  "EmpresaBureauModule":"Cadastro Empresa",
+  "PPW": {
+    "APP": {
+      "WINDOWTITLE": "Cyber PPW"
+    },
+    "PADRAO": {
+      "VERSION": "conppwPadraoC9 (pt) - v9.0.0 - 09/08/2019",
+      "LANGUAGE": "Linguagem",
+      "MENU": "Menu",
+      "PLUGINS_LOAD": "Carregar Plugins",
+      "BUTTON_OK": "Aceitar",
+      "BUTTON_SEND": "Enviar",
+      "BUTTON_SEARCH": "Procurar",
+      "BUTTON_CANCEL": "Cancelar",
+      "BUTTON_RETURN": "Voltar",
+      "BUTTON_HISTORY": "Histórico",
+      "BUTTON_CLEAR": "Limpar",
+      "BUTTON_PRINT": "Imprimir",
+      "BUTTON_CLOSE": "Fechar",
+      "BUTTON_LOGOUT": "Sair",
+      "BUTTON_CREATE": "Incluir",
+      "BUTTON_CHANGE": "Modificar",
+      "BUTTON_REMOVE": "Remover",
+      "BUTTON_SAVE": "Salvar",
+	    "BUTTON_REFRESH": "Atualizar",
+	    "BUTTON_UPLOAD": "Enviar",
+      "PANEL_ADDRESS": "Endereços",
+      "PANEL_PHONE": "Telefones",
+      "USER": "Usuário",
+      "DEBTORTYPE":"Tipo de Devedor",
+      "QUEUE": "Fila",
+      "CODE": "Código",
+      "ACTION": "Ação",
+      "SENDDATE": "Envio",
+      "BUREAUS": "Bureaus",
+      "BUREAU": "Bureau",
+      "ASSETS":"Ativos",
+      "EXTERNAL":"Externo",
+      "QUERY":"Consulta",
+      "NEGATIVITY":"Negativação",
+      "SHIPMENT":"Remessa",
+      "CPF":"CPF",
+      "RETURNDATE": "Retorno",
+      "STATUS": "Status",
+      "DESCRIPTION": "Descrição",
+      "PERMANENCY": "Permanência",
+      "DAYSOFPERMANENCY": "Dias Permanência",
+      "SCORE_VALUE": "Valor Pontuação",
+      "AVAILABLE_CODES": "Códigos Disponíveis:",
+      "SEARCHBYNAME_WINDOWTITLE": "Pesquisa por nome",
+      "SEARCHBYNAME_INPUTTEXT": "Digite o nome",
+      "SEARCHBYACCOUNT_WINDOWTITLE": "Pesquisa por grupo e contrato",
+      "SEARCHBYACCOUNT_INPUTTEXT": "Digite o grupo e contrato",
+      "SEARCHBYCLIENTNUMBER_WINDOWTITLE": "Pesquisa por número do documento",
+      "SEARCHBYCLIENTNUMBER_INPUTTEXT": "Digite o no. do documento",
+      "SEARCHBYDESCRIPTION_WINDOWTITLE": "Procura por descrição",
+      "SEARCHBYDESCRIPTION_INPUTTEXT": "Digite a descrição",
+      "SEARCHRESULTS_WINDOWTITLE": "Resultados",
+      "CONTENT_GROUP": "Grupo",
+      "CONTENT_ACCOUNT": "Contrato",
+      "CONTENT_CLIENT": "Cliente",
+      "CONTENT_ADDRESS": "Endereço",
+      "CONTENT_TELEPHONE": "Tel.",
+      "CONTENT_TOTDELAY": "Total em atraso",
+      "CONTENT_TOTBALANCE": "Total Saldo",
+      "CONTENT_TOTDEMANDED": "Total Exigível",
+      "CONTENT_DATEDELAY": "Data de atraso",
+      "CONTENT_DAYSDELAY": "Dias de atraso",
+      "CONTENT_LASTPAYMENT": "Último Pagamento",
+      "CONTENT_AMOUNT": "Valor",
+      "CONTENT_TOTAL": "Total",
+      "CONTENT_AGENCY": "Assessoria",
+      "CONTENT_PERIOD": "Período",
+      "CONTENT_ID": "Id",
+      "CONTENT_QTYREC":"Qtd Pagtos Recuperados",
+      "CONTENT_VLREC":"Valor Recuperado",
+      "CONTENT_REM":"Remuneração",
+      "CONTENT_PREVIEW": "Prévia",
+      "CONTENT_ITEMS_PERPAGE": "items p/pagina",
+      "CONTENT_CRITERIA":"Critério",
+      "CONTENT_COMMIT_TYPE":"Tipo",
+      "CONTENT_RANGE_START":"Faixa Inicio",
+      "CONTENT_RANGE_END":"Faixa fim",
+      "CONTENT_VALIDITY_START":"Vigência Inicio",
+      "CONTENT_VALIDITY_END":"Vigência Fim",
+      "CONTENT_LOADING":"Carregando...",
+      "CONTENT_ACTION": "Ações",
+      "CONTENT_COMM_TYPE": "Tipo Comissão",
+      "CONTENT_NAME":"Nome",
+      "CONTENT_AGENCY_DOC":"CNPJ",
+      "CONTENT_BANK":"Banco",
+      "CONTENT_SIZE":"Tamanho",
+      "CONTENT_FILE": "Nome do arquivo",
+      "ERROR_MENUHANDLER_INVALIDOPTION": "Seleçâo inválida.",
+      "ERROR_REQUIERED": "Faltam dados obrigatórios.",
+      "ERROR_SELECTITEM": "Por favor selecione um elemento.",
+      "ERROR_EMPTY_GROUP": "O Código do Grupo é obrigatório!",
+      "ERROR_EMPTY_CRITERIA": "O Critério é obrigatório!",
+      "ERROR_EMPTY_COMM_TYPE": "O Tipo de Comissão é obrigatório!",
+      "ERROR_EMPTY_VLREM": "O valor de Remuneração é obrigatório!",
+      "ERROR_EMPTY_VALIDITY_START": "A Data Inicial da Vigência é obrigatória!",
+      "ERROR_EMPTY_VALIDITY_END": "A Data Final da Vigência é obrigatória!",
+      "ERROR_EMPTY_RANGE_START": "A Faixa de Calculo Inicial é obrigatória!",
+      "ERROR_EMPTY_RANGE_END": "A Faixa de Calculo Final é obrigatória!",
+      "MODAL_ACTIVITIES_TITLE": "Localização de esforços",
+      "MODAL_ADDRELATION_TITLE": "Adicionar Relação",
+      "CONFIRM_DELETE_WARNINGLINE": "A relação será eliminada.",
+      "CONFIRM_DELETE_WARNINGLINE2": "Deseja continuar?",
+      "CONFIRM_DELETE": "Deseja excluir o registro?",
+      "CONFIRM_YES": "Sim",
+      "CONFIRM_NO": "Não",
+      "SERVICE_ERROR": "O serviço não retornou os dados requisitados",
+      "SERVICE_DELETE_SUCCESS": "Item removido com êxito",
+      "SERVICE_INSERT_SUCCESS": "Item incluido com êxito",
+      "SERVICE_UPDATE_SUCCESS": "Item atualizado com êxito"
+    },
+    "DASHBOARD": {
+      "LABEL": "Dashboard",
+      "WINDOWTITLE": "Dashboard PPW"
+    },
+    "CRITERIOSREM": {
+      "WINDOWTITLE": "Critérios de Remuneração",
+      "MODAL":{
+        "TITLE_MODAL":"Deseja remover o critério abaixo?"
+      },
+      "ITEMSUBTITLE":{
+        "CHANGE":"Alterar Critério: {{value}}",
+        "CREATE":"Novo Critério",
+        "REMOVE":"Remover Critério: {{value}}"
+      },
+      "TIPOPGTO":"Tipo Pagamento"
+    },
+    "UPDOWNLOAD":{
+      "WINDOWTITLE": "Gestão de arquivos",
+      "MODAL":{
+        "TITLE_DOWNLOAD":"Baixar arquivo",
+        "TITLE_UPLOAD":"Enviar arquivo",
+        "TITLE_MODAL":"Deseja remover o critério abaixo?"
+      }
+    },
+    "EMPRESAS": {
+      "WINDOWTITLE": "Cadastro de Empresas Boleto",
+      "MODAL":{
+        "TITLE_MODAL":"Deseja remover essa empresa?"
+      },
+      "ITEMSUBTITLE":{
+        "CHANGE":"Alterar empresa boleto: {{value}}",
+        "CREATE":"Nova empresa boleto",
+        "REMOVE":"Remover empresa boleto: {{value}}"
+      }
+    },
+    "EMPRESABUREAU": {
+      "WINDOWTITLE": "Cadastro de Empresas Bureau",
+      "MODAL":{
+        "TITLE_MODAL":"Deseja remover essa empresa?"
+      },
+      "ITEMSUBTITLE":{
+        "CHANGE":"Alterar Empresa Bureau : {{value}}",
+        "CREATE":"Nova Empresa Bureau ",
+        "REMOVE":"Remover Empresa Bureau : {{value}}"
+      },
+      "COMPANYNAME": "Nome Empresa",
+      "COMPANYCODE": "Código Empresa",
+      "COMXBURNAME": "Nome Emp x Bur",
+      "COMXBURCODE": "Código Emp x Bur"
+    },
+    "POLITICA": {
+      "WINDOWTITLE": "Cadastro de Politicas Bureau",
+      "MODAL":{
+        "TITLE_MODAL":"Deseja remover essa politica?"
+      },
+      "ITEMSUBTITLE":{
+        "CHANGE":"Alterar Politica Bureau : {{value}}",
+        "CREATE":"Nova Politica Bureau ",
+        "REMOVE":"Remover Politica Bureau : {{value}}"
+      },
+      "VALUE":{
+        "0":"TITULAR",
+        "1":"AVALISTA"
+      }
+    },
+    "HISTORICO": {
+      "WINDOWTITLE":"Consulta Histórico Movimentação",
+      "MODAL":{
+        "TITLE_MODAL":"Deseja remover esse histórico?"
+      },
+      "ITEMSUBTITLE":{
+        "CHANGE":"Alterar histórico: {{value}}",
+        "CREATE":"Novo histórico",
+        "REMOVE":"Remover histórico: {{value}}"
+      }
+    },
+    "BUREAU": {
+      "WINDOWTITLE":"Cadastro Bureau",
+      "MODAL":{
+        "TITLE_MODAL":"Deseja remover esse bureau?"
+      },
+      "ITEMSUBTITLE":{
+        "CHANGE":"Alterar Bureau: {{value}}",
+        "CREATE":"Novo Bureau",
+        "REMOVE":"Remover Bureau: {{value}}"
+      },
+      "BUREAUCODE":"Código Bureau",
+      "BUREAUINITIALS":"Sigla Bureau",
+      "VALUE":{
+        "S":"Sim",
+        "N":"Não",
+        "YES":"SIM",
+        "NO":"NÃO"
+      }
+    },
+    "FASECOBRANCA":{
+      "WINDOWTITLE":"Tela Fase de Cobrança",
+      "MODAL":{
+        "TITLE_MODAL":"Deseja remover essa fase de cobrança?"
+      },
+      "ITEMSUBTITLE":{
+        "CHANGE":"Alterar Fase de Cobrança: {{value}}",
+        "CREATE":"Nova Fase de Cobrança",
+        "REMOVE":"Remover Fase de Cobrança: {{value}}"
+      }
+    },
+    "FECHAMENTOSREM": {
+      "WINDOWTITLE": "Fechamento de Remuneração",
+      "ITEMSUBTITLE":{
+        "CHANGE":"Alterar Fechamento de Remuneração: {{value}}",
+        "CREATE":"Novo Fechamento de Remuneração",
+        "REMOVE":"Remover Fechamento de Remuneração: {{value}}"
+      },
+      "MODAL": {
+        "TITLE_FECHAMENTO": "Confirma o fechamento?",
+        "BUTTON_SEND_AGENCY":"Fechar por assessoria",
+        "BUTTON_SEND_PERIOD":"Fechar por período"
+      }
+    }
+  }
+}

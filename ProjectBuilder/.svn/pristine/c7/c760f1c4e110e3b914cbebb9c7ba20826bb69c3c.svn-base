@@ -1,0 +1,143 @@
+02/12/2020 20:17:16,11 - fasecobranca - INICIO 
+02/12/2020 20:17:16,21 - fasecobranca - INFORMACAO - Removendo arquivos dist\fasecobranca 
+02/12/2020 20:17:16,32 - fasecobranca - INFORMACAO - Inicio tentativa de build numero 1 
+02/12/2020 20:17:37,89 - fasecobranca - 02/12/2020 20:17:16,11 - fasecobranca - INICIO  
+02/12/2020 20:17:37,89 - fasecobranca - 02/12/2020 20:17:16,21 - fasecobranca - INFORMACAO - Removendo arquivos dist\fasecobranca  
+02/12/2020 20:17:37,89 - fasecobranca - 02/12/2020 20:17:16,32 - fasecobranca - INFORMACAO - Inicio tentativa de build numero 1  
+02/12/2020 20:17:37,89 - fasecobranca - > conppw-padrao-c9-ui@9.0.0 ng C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI 
+02/12/2020 20:17:37,89 - fasecobranca - > ng "build" "fasecobranca" 
+02/12/2020 20:17:37,89 - fasecobranca - Building Angular Package 
+02/12/2020 20:17:37,89 - fasecobranca - Building entry point 'fasecobranca' 
+02/12/2020 20:17:37,89 - fasecobranca - Compiling TypeScript sources through ngc 
+02/12/2020 20:17:37,89 - fasecobranca - Browserslist: caniuse-lite is outdated. Please run next command `npm update` 
+02/12/2020 20:17:37,89 - fasecobranca - Bundling to FESM2015 
+02/12/2020 20:17:37,89 - fasecobranca - 'QueryList' is imported from external module '@angular/core' but never used 
+02/12/2020 20:17:37,89 - fasecobranca - Bundling to FESM5 
+02/12/2020 20:17:37,89 - fasecobranca - 'QueryList' is imported from external module '@angular/core' but never used 
+02/12/2020 20:17:37,89 - fasecobranca - Bundling to UMD 
+02/12/2020 20:17:37,89 - fasecobranca - Minifying UMD bundle 
+02/12/2020 20:17:37,89 - fasecobranca - WARN: Dropping unused function argument Ka [0:279,47] 
+02/12/2020 20:17:37,89 - fasecobranca - WARN: Side effects in initialization of unused variable vb [0:485,168] 
+02/12/2020 20:17:37,89 - fasecobranca - WARN: Dropping unused function argument Ab [0:525,25] 
+02/12/2020 20:17:37,89 - fasecobranca - WARN: Dropping duplicated definition of variable zc [0:842,28] 
+02/12/2020 20:17:37,89 - fasecobranca - WARN: Dropping duplicated definition of variable qd [0:1307,32] 
+02/12/2020 20:17:37,89 - fasecobranca - WARN: Dropping duplicated definition of variable qd [0:1314,32] 
+02/12/2020 20:17:37,89 - fasecobranca - WARN: Dropping duplicated definition of variable qd [0:1326,32] 
+02/12/2020 20:17:37,89 - fasecobranca - WARN: Dropping duplicated definition of variable qd [0:1331,32] 
+02/12/2020 20:17:37,89 - fasecobranca - WARN: Declaring H as function [0:1162,8] 
+02/12/2020 20:17:37,89 - fasecobranca - WARN: Dropping unused variable J_cliente [0:1393,8] 
+02/12/2020 20:17:37,89 - fasecobranca - WARN: Dropping unused variable J_projectName [0:1393,8] 
+02/12/2020 20:17:37,89 - fasecobranca - Copying declaration files 
+02/12/2020 20:17:37,89 - fasecobranca - Writing package metadata 
+02/12/2020 20:17:37,89 - fasecobranca - Removing scripts section in package.json as it's considered a potential security vulnerability. 
+02/12/2020 20:17:37,89 - fasecobranca - Built fasecobranca 
+02/12/2020 20:17:37,89 - fasecobranca - Built Angular Package 
+02/12/2020 20:17:37,89 - fasecobranca -  - from: C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\projects\fasecobranca 
+02/12/2020 20:17:37,89 - fasecobranca -  - to:   C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\dist\fasecobranca 
+02/12/2020 20:17:38,31 - fasecobranca - SUCESSO - TERMO NAO ENCONTRADO 
+02/12/2020 20:17:38,45 - fasecobranca - SUCESSO - Build realizado com sucesso 
+02/12/2020 20:17:38,75 - fasecobranca - SUCESSO - TERMO NAO ENCONTRADO 
+02/12/2020 20:17:39,35 - fasecobranca - INFORMACAO - Move Bundles - Iniciando fasecobranca 
+02/12/2020 20:17:39,46 - fasecobranca - INFORMACAO - Move Bundles - Removendo arquivos *fasecobranca* de "\src\assets" 
+Arquivo excluído - C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\src\assets\external-fasecobranca.js
+Arquivo excluído - C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\src\assets\fasecobranca.umd.js.map
+Arquivo excluído - C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\src\assets\fasecobranca.umd.min.js.map
+02/12/2020 20:17:39,57 - fasecobranca - INFORMACAO - Move Bundles - Tentativa 1 
+02/12/2020 20:17:39,91 - fasecobranca - 02/12/2020 20:17:16,11 - fasecobranca - INICIO  
+02/12/2020 20:17:39,91 - fasecobranca - 02/12/2020 20:17:16,21 - fasecobranca - INFORMACAO - Removendo arquivos dist\fasecobranca  
+02/12/2020 20:17:39,91 - fasecobranca - 02/12/2020 20:17:16,32 - fasecobranca - INFORMACAO - Inicio tentativa de build numero 1  
+02/12/2020 20:17:39,91 - fasecobranca - > conppw-padrao-c9-ui@9.0.0 ng C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI 
+02/12/2020 20:17:39,91 - fasecobranca - > ng "build" "fasecobranca" 
+02/12/2020 20:17:39,91 - fasecobranca - Building Angular Package 
+02/12/2020 20:17:39,91 - fasecobranca - Building entry point 'fasecobranca' 
+02/12/2020 20:17:39,91 - fasecobranca - Compiling TypeScript sources through ngc 
+02/12/2020 20:17:39,91 - fasecobranca - Browserslist: caniuse-lite is outdated. Please run next command `npm update` 
+02/12/2020 20:17:39,91 - fasecobranca - Bundling to FESM2015 
+02/12/2020 20:17:39,91 - fasecobranca - 'QueryList' is imported from external module '@angular/core' but never used 
+02/12/2020 20:17:39,91 - fasecobranca - Bundling to FESM5 
+02/12/2020 20:17:39,91 - fasecobranca - 'QueryList' is imported from external module '@angular/core' but never used 
+02/12/2020 20:17:39,91 - fasecobranca - Bundling to UMD 
+02/12/2020 20:17:39,91 - fasecobranca - Minifying UMD bundle 
+02/12/2020 20:17:39,91 - fasecobranca - WARN: Dropping unused function argument Ka [0:279,47] 
+02/12/2020 20:17:39,91 - fasecobranca - WARN: Side effects in initialization of unused variable vb [0:485,168] 
+02/12/2020 20:17:39,91 - fasecobranca - WARN: Dropping unused function argument Ab [0:525,25] 
+02/12/2020 20:17:39,91 - fasecobranca - WARN: Dropping duplicated definition of variable zc [0:842,28] 
+02/12/2020 20:17:39,91 - fasecobranca - WARN: Dropping duplicated definition of variable qd [0:1307,32] 
+02/12/2020 20:17:39,91 - fasecobranca - WARN: Dropping duplicated definition of variable qd [0:1314,32] 
+02/12/2020 20:17:39,91 - fasecobranca - WARN: Dropping duplicated definition of variable qd [0:1326,32] 
+02/12/2020 20:17:39,91 - fasecobranca - WARN: Dropping duplicated definition of variable qd [0:1331,32] 
+02/12/2020 20:17:39,91 - fasecobranca - WARN: Declaring H as function [0:1162,8] 
+02/12/2020 20:17:39,91 - fasecobranca - WARN: Dropping unused variable J_cliente [0:1393,8] 
+02/12/2020 20:17:39,91 - fasecobranca - WARN: Dropping unused variable J_projectName [0:1393,8] 
+02/12/2020 20:17:39,91 - fasecobranca - Copying declaration files 
+02/12/2020 20:17:39,91 - fasecobranca - Writing package metadata 
+02/12/2020 20:17:39,91 - fasecobranca - Removing scripts section in package.json as it's considered a potential security vulnerability. 
+02/12/2020 20:17:39,91 - fasecobranca - Built fasecobranca 
+02/12/2020 20:17:39,91 - fasecobranca - Built Angular Package 
+02/12/2020 20:17:39,91 - fasecobranca -  - from: C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\projects\fasecobranca 
+02/12/2020 20:17:39,91 - fasecobranca -  - to:   C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\dist\fasecobranca 
+02/12/2020 20:17:39,91 - fasecobranca - 02/12/2020 20:17:38,31 - fasecobranca - SUCESSO - TERMO NAO ENCONTRADO  
+02/12/2020 20:17:39,91 - fasecobranca - 02/12/2020 20:17:38,45 - fasecobranca - SUCESSO - Build realizado com sucesso  
+02/12/2020 20:17:39,91 - fasecobranca - 02/12/2020 20:17:38,75 - fasecobranca - SUCESSO - TERMO NAO ENCONTRADO  
+02/12/2020 20:17:39,91 - fasecobranca - 02/12/2020 20:17:39,35 - fasecobranca - INFORMACAO - Move Bundles - Iniciando fasecobranca  
+02/12/2020 20:17:39,91 - fasecobranca - 02/12/2020 20:17:39,46 - fasecobranca - INFORMACAO - Move Bundles - Removendo arquivos *fasecobranca* de "\src\assets"  
+02/12/2020 20:17:39,91 - fasecobranca - 02/12/2020 20:17:39,57 - fasecobranca - INFORMACAO - Move Bundles - Tentativa 1  
+02/12/2020 20:17:39,91 - fasecobranca - C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Constru��o\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\dist\fasecobranca\bundles\external-fasecobranca.js -> C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Constru��o\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\src\assets\external-fasecobranca.js 
+02/12/2020 20:17:39,91 - fasecobranca - 1 arquivo(s) copiado(s) 
+02/12/2020 20:17:39,91 - fasecobranca - C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Constru��o\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\dist\fasecobranca\bundles\fasecobranca.umd.min.js.map -> C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Constru��o\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\src\assets\fasecobranca.umd.min.js.map 
+02/12/2020 20:17:39,91 - fasecobranca - 1 arquivo(s) copiado(s) 
+02/12/2020 20:17:40,33 - fasecobranca - SUCESSO - TERMO NAO ENCONTRADO 
+02/12/2020 20:17:40,46 - fasecobranca - SUCESSO - Move Bundles - Finalizado com sucesso 
+02/12/2020 20:17:40,77 - fasecobranca - SUCESSO - TERMO NAO ENCONTRADO 
+02/12/2020 20:18:45,34 - fasecobranca - SUCESSO - Build realizado com sucesso 
+02/12/2020 20:18:46,35 - fasecobranca - INFORMACAO - Inicio tentativa de copia numero 1 
+02/12/2020 20:18:48,13 - fasecobranca - 02/12/2020 20:17:16,11 - fasecobranca - INICIO  
+02/12/2020 20:18:48,13 - fasecobranca - 02/12/2020 20:17:16,21 - fasecobranca - INFORMACAO - Removendo arquivos dist\fasecobranca  
+02/12/2020 20:18:48,13 - fasecobranca - 02/12/2020 20:17:16,32 - fasecobranca - INFORMACAO - Inicio tentativa de build numero 1  
+02/12/2020 20:18:48,13 - fasecobranca - > conppw-padrao-c9-ui@9.0.0 ng C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI 
+02/12/2020 20:18:48,13 - fasecobranca - > ng "build" "fasecobranca" 
+02/12/2020 20:18:48,13 - fasecobranca - Building Angular Package 
+02/12/2020 20:18:48,13 - fasecobranca - Building entry point 'fasecobranca' 
+02/12/2020 20:18:48,13 - fasecobranca - Compiling TypeScript sources through ngc 
+02/12/2020 20:18:48,13 - fasecobranca - Browserslist: caniuse-lite is outdated. Please run next command `npm update` 
+02/12/2020 20:18:48,13 - fasecobranca - Bundling to FESM2015 
+02/12/2020 20:18:48,13 - fasecobranca - 'QueryList' is imported from external module '@angular/core' but never used 
+02/12/2020 20:18:48,13 - fasecobranca - Bundling to FESM5 
+02/12/2020 20:18:48,13 - fasecobranca - 'QueryList' is imported from external module '@angular/core' but never used 
+02/12/2020 20:18:48,13 - fasecobranca - Bundling to UMD 
+02/12/2020 20:18:48,13 - fasecobranca - Minifying UMD bundle 
+02/12/2020 20:18:48,13 - fasecobranca - WARN: Dropping unused function argument Ka [0:279,47] 
+02/12/2020 20:18:48,13 - fasecobranca - WARN: Side effects in initialization of unused variable vb [0:485,168] 
+02/12/2020 20:18:48,13 - fasecobranca - WARN: Dropping unused function argument Ab [0:525,25] 
+02/12/2020 20:18:48,13 - fasecobranca - WARN: Dropping duplicated definition of variable zc [0:842,28] 
+02/12/2020 20:18:48,13 - fasecobranca - WARN: Dropping duplicated definition of variable qd [0:1307,32] 
+02/12/2020 20:18:48,13 - fasecobranca - WARN: Dropping duplicated definition of variable qd [0:1314,32] 
+02/12/2020 20:18:48,13 - fasecobranca - WARN: Dropping duplicated definition of variable qd [0:1326,32] 
+02/12/2020 20:18:48,13 - fasecobranca - WARN: Dropping duplicated definition of variable qd [0:1331,32] 
+02/12/2020 20:18:48,13 - fasecobranca - WARN: Declaring H as function [0:1162,8] 
+02/12/2020 20:18:48,13 - fasecobranca - WARN: Dropping unused variable J_cliente [0:1393,8] 
+02/12/2020 20:18:48,13 - fasecobranca - WARN: Dropping unused variable J_projectName [0:1393,8] 
+02/12/2020 20:18:48,13 - fasecobranca - Copying declaration files 
+02/12/2020 20:18:48,13 - fasecobranca - Writing package metadata 
+02/12/2020 20:18:48,13 - fasecobranca - Removing scripts section in package.json as it's considered a potential security vulnerability. 
+02/12/2020 20:18:48,13 - fasecobranca - Built fasecobranca 
+02/12/2020 20:18:48,13 - fasecobranca - Built Angular Package 
+02/12/2020 20:18:48,13 - fasecobranca -  - from: C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\projects\fasecobranca 
+02/12/2020 20:18:48,13 - fasecobranca -  - to:   C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\dist\fasecobranca 
+02/12/2020 20:18:48,13 - fasecobranca - 02/12/2020 20:17:38,31 - fasecobranca - SUCESSO - TERMO NAO ENCONTRADO  
+02/12/2020 20:18:48,13 - fasecobranca - 02/12/2020 20:17:38,45 - fasecobranca - SUCESSO - Build realizado com sucesso  
+02/12/2020 20:18:48,13 - fasecobranca - 02/12/2020 20:17:38,75 - fasecobranca - SUCESSO - TERMO NAO ENCONTRADO  
+02/12/2020 20:18:48,13 - fasecobranca - 02/12/2020 20:17:39,35 - fasecobranca - INFORMACAO - Move Bundles - Iniciando fasecobranca  
+02/12/2020 20:18:48,13 - fasecobranca - 02/12/2020 20:17:39,46 - fasecobranca - INFORMACAO - Move Bundles - Removendo arquivos *fasecobranca* de "\src\assets"  
+02/12/2020 20:18:48,13 - fasecobranca - 02/12/2020 20:17:39,57 - fasecobranca - INFORMACAO - Move Bundles - Tentativa 1  
+02/12/2020 20:18:48,13 - fasecobranca - C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Constru��o\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\dist\fasecobranca\bundles\external-fasecobranca.js -> C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Constru��o\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\src\assets\external-fasecobranca.js 
+02/12/2020 20:18:48,13 - fasecobranca - 1 arquivo(s) copiado(s) 
+02/12/2020 20:18:48,13 - fasecobranca - C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Constru��o\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\dist\fasecobranca\bundles\fasecobranca.umd.min.js.map -> C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Constru��o\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\src\assets\fasecobranca.umd.min.js.map 
+02/12/2020 20:18:48,13 - fasecobranca - 1 arquivo(s) copiado(s) 
+02/12/2020 20:18:48,13 - fasecobranca - 02/12/2020 20:17:40,33 - fasecobranca - SUCESSO - TERMO NAO ENCONTRADO  
+02/12/2020 20:18:48,13 - fasecobranca - 02/12/2020 20:17:40,46 - fasecobranca - SUCESSO - Move Bundles - Finalizado com sucesso  
+02/12/2020 20:18:48,13 - fasecobranca - 02/12/2020 20:17:40,77 - fasecobranca - SUCESSO - TERMO NAO ENCONTRADO  
+02/12/2020 20:18:48,13 - fasecobranca - 02/12/2020 20:18:45,34 - fasecobranca - SUCESSO - Build realizado com sucesso  
+02/12/2020 20:18:48,13 - fasecobranca - 02/12/2020 20:18:46,35 - fasecobranca - INFORMACAO - Inicio tentativa de copia numero 1  
+02/12/2020 20:18:48,55 - fasecobranca - SUCESSO - TERMO NAO ENCONTRADO 
+02/12/2020 20:18:48,69 - fasecobranca - SUCESSO - Copia realizada com sucesso 

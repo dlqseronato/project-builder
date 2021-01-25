@@ -1,0 +1,16 @@
+{
+  "status": {
+    "R": "status.R",
+    "S": "status.S",
+    "W": "status.W"
+  },
+  "legal": {
+    "FA": "legal.FA",
+    "FJ": "legal.FJ",
+    "FR": "legal.FR",
+    "FT": "legal.FT",
+    "J": "legal.J",
+    "JR": "legal.JR",
+    "JT": "legal.JT"
+  }
+}

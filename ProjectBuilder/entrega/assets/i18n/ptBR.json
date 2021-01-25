@@ -1,0 +1,3362 @@
+{
+  "exampleTranslation" : "Este é um exemplo de um texto traduzido",
+  "invalidConstraintField" : "A restrição contém um campo inválido",
+  "invalidConstraintValue" : "A restrição contém um valor incorreto",
+  "constraintsRequired" : "É necessário pelo menos uma restrição",
+  "CriteriosremModule" : "Critérios de Remuneração",
+  "FechamentosremModule" : "Fechamento de Remuneração",
+  "EmpresasModule" : "Cadastro de Assessorias",
+  "FasecobrancaModule": "Fase de Cobrança",
+  "PoliticaModule": "Cadastro Politica Bureau",
+  "HistoricoModule": "Consulta Hist Movimentação",
+  "BureauModule": "Cadastro Bureau",
+  "UpdownloadModule": "Gestão de Arquivos",
+  "EmpresaBureauModule":"Cadastro Empresa",
+  "PPW": {
+    "APP": {
+      "WINDOWTITLE": "Cyber PPW"
+    },
+    "PADRAO": {
+      "VERSION": "conppwPadraoC9 (pt) - v9.0.0 - 31/05/2019",
+      "LANGUAGE": "Linguagem",
+      "MENU": "Menu",
+      "PLUGINS_LOAD": "Carregar Plugins",
+      "BUTTON_OK": "Aceitar",
+      "BUTTON_SEND": "Enviar",
+      "BUTTON_SEARCH": "Procurar",
+      "BUTTON_CANCEL": "Cancelar",
+      "BUTTON_RETURN": "Voltar",
+      "BUTTON_HISTORY": "Histórico",
+      "BUTTON_CLEAR": "Limpar",
+      "BUTTON_PRINT": "Imprimir",
+      "BUTTON_CLOSE": "Fechar",
+      "BUTTON_LOGOUT": "Sair",
+      "BUTTON_CREATE": "Incluir",
+      "BUTTON_EDIT": "Modificar",
+	  "BUTTON_CHANGE": "Modificar",
+      "BUTTON_REMOVE": "Excluir",
+      "BUTTON_SAVE": "Salvar",
+      "BUTTON_REFRESH": "Atualizar",
+      "BUTTON_UPLOAD": "Enviar",
+      "BUTTON_MANAGEMENT": "Gerenciar",
+      "PANEL_ADDRESS": "Endereços",
+      "PANEL_PHONE": "Telefones",
+      "USER": "Usuário",
+      "QUEUE": "Fila",
+      "CODE": "Código",
+      "ACTION": "Ação",
+      "SENDDATE": "Envio",
+      "BUREAUS": "Bureaus",
+      "BUREAU": "Bureau",
+      "ASSETS":"Ativos",
+      "EXTERNAL":"Externo",
+      "QUERY":"Consulta",
+      "NEGATIVITY":"Negativação",
+      "SHIPMENT":"Remessa",
+      "CPF":"CPF",
+      "RETURNDATE": "Retorno",
+      "STATUS": "Status",
+      "DESCRIPTION": "Descrição",
+      "PERMANENCY": "Permanência",
+      "DAYSOFPERMANENCY": "Dias Permanência",
+      "SCORE_VALUE": "Valor Pontuação",
+      "AVAILABLE_CODES": "Códigos Disponíveis:",
+      "SEARCHBYNAME_WINDOWTITLE": "Pesquisa por nome",
+      "SEARCHBYNAME_INPUTTEXT": "Digite o nome",
+      "SEARCHBYACCOUNT_WINDOWTITLE": "Pesquisa por grupo e contrato",
+      "SEARCHBYACCOUNT_INPUTTEXT": "Digite o grupo e contrato",
+      "SEARCHBYCLIENTNUMBER_WINDOWTITLE": "Pesquisa por número do documento",
+      "SEARCHBYCLIENTNUMBER_INPUTTEXT": "Digite o no. do documento",
+      "SEARCHBYDESCRIPTION_WINDOWTITLE": "Procura por descrição",
+      "SEARCHBYDESCRIPTION_INPUTTEXT": "Digite a descrição",
+      "SEARCHRESULTS_WINDOWTITLE": "Resultados",
+      "CONTENT_GROUP": "Grupo",
+      "CONTENT_FILTERDATE": "Filtro de Data",
+      "CONTENT_ACCOUNT": "Contrato",
+      "CONTENT_CLIENT": "Cliente",
+      "CONTENT_ADDRESS": "Endereço",
+      "CONTENT_TELEPHONE": "Tel.",
+      "CONTENT_TOTDELAY": "Total em atraso",
+      "CONTENT_TOTBALANCE": "Total Saldo",
+      "CONTENT_TOTDEMANDED": "Total Exigível",
+      "CONTENT_DATEDELAY": "Data de atraso",
+      "CONTENT_DAYSDELAY": "Dias de atraso",
+      "CONTENT_LASTPAYMENT": "Último Pagamento",
+      "CONTENT_AMOUNT": "Valor",
+      "CONTENT_TOTAL": "Total",
+      "CONTENT_AGENCY": "Assessoria",
+      "CONTENT_PERIOD": "Período",
+      "CONTENT_ID": "Id",
+      "CONTENT_QTYREC":"Qtd Pagtos Recuperados",
+      "CONTENT_VLREC":"Valor Recuperado",
+      "CONTENT_REM":"Remuneração",
+      "CONTENT_PREVIEW": "Prévia",
+      "CONTENT_ITEMS_PERPAGE": "items p/pagina",
+      "CONTENT_CRITERIA":"Critério",
+      "CONTENT_COMMIT_TYPE":"Tipo",
+      "CONTENT_RANGE_START":"Faixa Inicial",
+      "CONTENT_RANGE_END":"Faixa final",
+      "CONTENT_VALIDITY_START":"Vigência Inicial",
+      "CONTENT_VALIDITY_END":"Vigência Final",
+      "CONTENT_LOADING":"Carregando...",
+      "CONTENT_ACTION": "Ações",
+      "CONTENT_COMM_TYPE": "Tipo Comissão",
+      "CONTENT_NAME":"Nome",
+      "CONTENT_AGENCY_DOC":"CNPJ",
+      "CONTENT_BANK":"Banco",
+      "CONTENT_SIZE":"Tamanho",
+      "ERROR_MENUHANDLER_INVALIDOPTION": "Seleçâo inválida.",
+      "ERROR_REQUIERED": "Faltam dados obrigatórios.",
+      "ERROR_SELECTITEM": "Por favor selecione um elemento.",
+      "ERROR_EMPTY_GROUP": "O Código do Grupo é obrigatório!",
+      "ERROR_EMPTY_CRITERIA": "O Critério é obrigatório!",
+      "ERROR_EMPTY_COMM_TYPE": "O Tipo de Comissão é obrigatório!",
+      "ERROR_EMPTY_VLREM": "O valor de Remuneração é obrigatório!",
+      "ERROR_EMPTY_VALIDITY_START": "A Data Inicial da Vigência é obrigatória!",
+      "ERROR_EMPTY_VALIDITY_END": "A Data Final da Vigência é obrigatória!",
+      "ERROR_EMPTY_RANGE_START": "A Faixa de Calculo Inicial é obrigatória!",
+      "ERROR_EMPTY_RANGE_END": "A Faixa de Calculo Final é obrigatória!",
+      "MODAL_ACTIVITIES_TITLE": "Localização de esforços",
+      "MODAL_ADDRELATION_TITLE": "Adicionar Relação",
+      "CONFIRM_DELETE_WARNINGLINE": "A relação será eliminada.",
+      "CONFIRM_DELETE_WARNINGLINE2": "Deseja continuar?",
+      "CONFIRM_DELETE": "Deseja excluir o registro?",
+      "CONFIRM_YES": "Sim",
+      "CONFIRM_NO": "Não",
+      "SERVICE_ERROR": "O serviço não retornou os dados requisitados",
+      "SERVICE_DELETE_SUCCESS": "Item removido com êxito",
+      "SERVICE_INSERT_SUCCESS": "Item incluido com êxito",
+      "SERVICE_UPDATE_SUCCESS": "Item atualizado com êxito"
+    },
+    "DASHBOARD": {
+      "LABEL": "Dashboard",
+      "WINDOWTITLE": "Dashboard PPW"
+    },
+    "CRITERIOSREM": {
+      "WINDOWTITLE": "Critérios de Remuneração",
+      "MODAL":{
+        "TITLE_MODAL":"Deseja remover o critério abaixo?"
+      },
+      "ITEMSUBTITLE":{
+        "CHANGE":"Alterar Critério: {{value}}",
+        "CREATE":"Cadastrar Critério",
+        "REMOVE":"Remover Critério: {{value}}"
+      },
+      "TIPOPGTO":"Tipo Pagamento"
+    },
+    "UPDOWNLOAD":{
+      "WINDOWTITLE": "Gestão de arquivos",
+      "MODAL":{
+        "TITLE_DOWNLOAD":"Baixar arquivo",
+        "TITLE_UPLOAD":"Enviar arquivo",
+        "TITLE_MODAL":"Deseja remover o critério abaixo?"
+      }
+    },
+    "EMPRESAS": {
+      "WINDOWTITLE": "Cadastro de Assessorias",
+      "ITEMSUBTITLE":{
+        "CHANGE":"Alterar Empresa: {{value}}",
+        "CREATE":"Cadastrar Empresa",
+        "REMOVE":"Remover Empresa: {{value}}"
+      },
+      "CODEMPRESA":"Código Empresa",
+      "NOMEEMPRESA":"Nome Empresa",
+      "CNPJ":"CNPJ",
+      "NUMEROAGENCIA":"Número Agência",
+      "DVAGENCIA":"DV Agência",
+      "NUMEROCONTA":"Número Conta",
+      "DVCONTA":"DV Conta",
+      "INSTRUCAO1":"Instrução 1",
+      "INSTRUCAO2":"Instrução 2",
+      "INSTRUCAO3":"Instrução 3",
+      "INSTRUCAO4":"Instrução 4",
+      "INSTRUCAO5":"Instrução 5",
+      "FXCONTINICIAL":"Faixa Cont. Inicial",
+      "FXCONTFINAL":"Faixa Cont. Final",
+      "CONTBOLETO":"Cont. Boleto",
+      "TIPODOC":"Tipo Documento",
+      "ACEITE":"Aceite",
+      "LOCAL1":"Local 1",
+      "LOCAL2":"Local 2",
+      "NUMEROCONVENIO":"Número Convênio",
+      "CARTEIRA":"Carteira",
+      "NOMEBANCO":"Nome Banco",
+      "NUMEROBANCO":"Número Banco",
+      "DVBANCO":"DV Banco"
+    },
+    "EMPRESABUREAU": {
+      "WINDOWTITLE": "Cadastro de Empresas",
+      "ITEMSUBTITLE":{
+        "CHANGE":"Alterar Empresa Bureau: {{value}}",
+        "CREATE":"Cadastrar Empresa Bureau",
+        "REMOVE":"Remover Empresa Bureau: {{value}}"
+      },
+      "COMPANYNAME": "Nome Empresa",
+      "COMPANYCODE": "Código Empresa",
+      "COMXBURNAME": "Nome Emp x Bur",
+      "COMXBURCODE": "Código Emp x Bur"
+    },
+    "BUREAU": {
+      "WINDOWTITLE":"Cadastro Bureau",
+      "BUREAUCODE":"Código Bureau",
+      "BUREAUINITIALS":"Sigla Bureau",
+      "ITEMSUBTITLE":{
+        "CHANGE":"Alterar Bureau: {{value}}",
+        "CREATE":"Cadastrar Bureau",
+        "REMOVE":"Remover Bureau: {{value}}"
+      },
+      "VALUE":{
+        "S":"Sim",
+        "N":"Não",
+        "YES":"SIM",
+        "NO":"NÃO"
+      }
+    },
+    "POLITICA":{
+      "WINDOWTITLE":"Cadastro de Politicas Bureau",
+      "ITEMSUBTITLE":{
+        "CHANGE":"Alterar Politica Bureau: {{value}}",
+        "CREATE":"Nova Politica Bureau",
+        "REMOVE":"Remover Politica Bureau: {{value}}"
+      },
+      "VALUE":{
+        "0":"TITULAR",
+        "1":"AVALISTA"
+      }
+    },
+    "FASECOBRANCA":{
+      "WINDOWTITLE":"Tela Fase de Cobrança",
+      "ITEMSUBTITLE":{
+        "CHANGE":"Alterar Fase de Cobranca: {{value}}",
+        "CREATE":"Nova Fase de Cobranca",
+        "REMOVE":"Remover Fase de Cobranca: {{value}}"
+      }
+    },
+    "FECHAMENTOSREM": {
+      "WINDOWTITLE": "Fechamento de Remuneração",
+      "MODAL": {
+        "TITLE_FECHAMENTO": "Confirma o fechamento?",
+        "BUTTON_SEND_AGENCY":"Fechar por assessoria",
+        "BUTTON_SEND_PERIOD":"Fechar por período"
+      }
+    },
+    "CONFIGURADOR-DW": {
+      "WINDOWTITLE": "Configurador-DW",
+      "CONTENT_TABLE": "Tabela",
+      "CONTENT_FILTERDATE": "Filtro de Data",
+      "CONTENT_INSERT": "Envia Insert ?",
+      "CONTENT_UPDATE": "Envia Update ?",
+      "CONTENT_DELETE": "Envia Delete ?",
+      "CONTENT_SEND": "Forma de Envio",
+      "MODAL": {
+        "CHANGE": "Alterar Item: {{value}}",
+        "TITLE_CONFIG": "Tela de Gerenciamento"
+      }
+    },
+  "grid" : {
+    "edit" : "Editar",
+    "delete" : "Apagar",
+    "changePassword" : "Alterar senha",
+    "open" : "Abrir",
+    "view" : "Ver",
+    "trace" : "Rastrear",
+    "download" : "Download",
+    "move" : {
+      "down" : "Baixar",
+      "up" : "Subir"
+    },
+    "statistics" : "Estatísticas",
+    "runTest" : "Executar teste",
+    "markReviewed" : "Marcar como revisado"
+  },
+  "logout" : "Encerrar sessão",
+  "login" : {
+    "invalidUsernameOrPassword" : "Nome do usuário ou senha inválidos",
+    "youMustEnterAPassword" : "Introduzir nome do usuário e senha",
+    "userName" : "Nome do usuário",
+    "password" : "Senha",
+    "signin" : "Iniciar sessão"
+  },
+  "pager" : {
+    "title" : " Paginação: Atualmente exibindo a página {{page}}",
+    "stateMessage" : "Mostrando {{firstRecord}} - {{lastRecord}} de {{totalRows}} registros",
+    "page" : "Página {{page}}",
+    "first" : "Primeira página, atualmente na página {{page}}",
+    "previous" : "Página anterior, atualmente na página {{page}}",
+    "next" : "Página seguinte, atualmente na página {{page}}",
+    "last" : "Última página, atualmente na página {{page}}",
+    "noResults" : "Não foi encontrado resultados com os critérios de busca.\n"
+  },
+  "activityCounter" : {
+    "new.title" : "Contador de Atividades > Novo",
+    "view.title" : "Contador de Atividades > Editar",
+    "search.title" : "Contador de Atividades > Pesquisar",
+    "id" : "Contador",
+    "description" : "Descrição",
+    "referenceDate" : "Data de referência ",
+    "show" : "Mostrar",
+    "order" : "Ordenar",
+    "form" : {
+      "show.yes" : "Sim",
+      "show.no" : "Não"
+    },
+    "validCodeModal" : {
+      "fieldset.title" : "Códigos Válidos",
+      "title" : "Código Válido"
+    },
+    "error" : {
+      "invalid.referenceDate" : "Não existe campo com essa data de referência.",
+      "validCode.doesNotExist" : "O registro não pode ser guardado por não existir um registro do código valido associado com esse contador",
+      "validCode.counterIdExists" : "Esta combinação já  se encontra associada com o contador - ",
+      "validCode.isDuplicatedOnClient" : "Código já cadastrado",
+      "validCode.invalidCombination" : "A combinação de grupo, código de ação e código de resultado é inválida"
+    }
+  },
+  "survey" : {
+    "search.title" : "Pergunta > Pesquisar",
+    "filter.title" : "Filtros",
+    "id" : "Pergunta",
+    "lastUpdated" : "Última atualização",
+    "lastUpdatedBy" : "Atualizado por",
+    "description" : "Descrição",
+    "priority" : "Prioridade",
+    "new.title" : "Pergunta > Nova",
+    "view.title" : "Pergunta > Editar",
+    "queueAndGroup" : {
+      "fieldsetTitle" : "Filas de trabalho e grupos relacionados",
+      "group" : "Grupo",
+      "queue" : "Fila de trabalho",
+      "createdDate" : "Data da criação",
+      "createdBy" : "Criado por",
+      "modal" : {
+        "title" : "Filas de trabalho e grupos relacionados",
+        "group" : "Grupo",
+        "queue" : "Fila de trabalho"
+      }
+    },
+    "error" : {
+      "queueAndGroup.required" : "Pelo menos uma fila de trabalho e um grupo relacionado é necessário.",
+      "queueAndGroup.invalidQueue" : "Não existe uma fila de trabalho com esse valor",
+      "queueAndGroup.isDuplicate" : "Esta fila de trabalho e grupo relacionado já existe para a pesquisa {{surveyId}}.",
+      "queueAndGroup.isDuplicateForThis" : "Esta fila de trabalho e grupo relacionado já existe para esta pesquisa."
+    },
+    "question" : {
+      "title" : "Perguntas",
+      "sequence" : "Sequência",
+      "description" : "Descrição",
+      "type" : "Tipo de pergunta",
+      "delete" : {
+        "title" : "Eliminar pergunta",
+        "message" : "Várias respostas referem-se a esta questão. Você quer continuar com a eliminação?"
+      },
+      "modal" : {
+        "title" : "Pergunta",
+        "sequence" : "Sequência da pergunta",
+        "description" : "Descrição",
+        "type" : {
+          "label" : "Tipo de pergunta",
+          "singleChoice" : "Única opção",
+          "multipleChoice" : "Múltiplas opções"
+        }
+      },
+      "error" : {
+        "required" : "É necessária ao menos uma pergunta",
+        "invalid" : "Sequência de perguntas inválida"
+      }
+    },
+    "answer" : {
+      "subgridTitle" : "Resposta",
+      "sequence" : "Sequência",
+      "description" : "Descrição",
+      "score" : "Score",
+      "nextQuestion" : "Pergunta seguinte",
+      "prefix" : "Prefixo",
+      "formTitle" : "Resposta",
+      "errorMessagePrefixAlreadyExists" : "Já existe outro prefixo com o mesmo valor",
+      "error" : {
+        "required" : "Pelo menos duas respostas são necessárias para cada pergunta.",
+        "duplicate" : "Não se pode criar uma resposta duplicada",
+        "invalid" : "Resposta inválida"
+      }
+    }
+  },
+  "historyTable" : {
+    "search.title" : "Tabela Histórica > Pesquisar",
+    "new.title" : "Tabela Histórica > Incluir",
+    "view.title" : "Tabela Histórica > Editar",
+    "group" : "Grupo",
+    "tableName" : "Nome da tabela",
+    "retentionDays" : "Dias de retenção",
+    "frequency" : "Frequência",
+    "form" : {
+      "frequency.daily" : "Diária",
+      "frequency.weekly" : "Semanal",
+      "frequency.monthly" : "Mensal"
+    },
+    "execution" : "Executar",
+    "confirmation.delete.definition" : "A troca de grupo eliminará definições específicas do grupo anterior. Deseja continuar?",
+    "definition" : {
+      "title" : "Definição da tabela histórica",
+      "sourceField" : "Campo original",
+      "destinationField" : "Campo destino",
+      "type" : "Tipo",
+      "status" : {
+        "title" : "Status",
+        "new" : "Novo",
+        "active" : "Ativo",
+        "inactive" : "Inativo"
+      },
+      "error" : {
+        "isDuplicate" : "Este campo de origem já existe para esta tabela histórica",
+        "typeUndefined" : "Ocorreu um erro durante a execução do serviço.",
+        "missingRequired" : "Pelo menos um registro de definição criado pelo usuário é necessário."
+      }
+    },
+    "error" : {
+      "isDuplicate" : "Já existe outro elemento com o mesmo nome na tabela",
+      "loadDefinition" : "Ocorreu um erro ao criar as definições requeridas"
+    }
+  },
+  "nonWorkingDayView" : {
+    "search.title" : "Pesquisa de feriados",
+    "holidayType" : "Tipo de feriado",
+    "dayOfTheWeek" : "Dia da semana",
+    "new.title" : "Incluir feriado (dia)",
+    "edit.title" : "Editar feriado (dia)",
+    "date" : "Data",
+    "description" : "Descrição",
+    "day" : "Dia",
+    "modal" : {
+      "cancel" : "Cancelar",
+      "delete" : "Apagar",
+      "title" : "Confirmar",
+      "content" : "Deseja eliminar esse tópico?"
+    },
+    "errorMessage" : "Valor inválido"
+  },
+  "service" : {
+    "error" : "Ocorreu um erro ao executar a solicitação",
+    "error.fail.pk" : "Já existe um elemento com esse identificador",
+    "error.date.fail" : "Já existe um elemento com essa data",
+    "delete.ok" : "Elemento apagado com êxito",
+    "update.ok" : "Elemento atualizado com êxito",
+    "insert.ok" : "Elemento incluído com êxito",
+    "sync.ok" : "Elemento sincronizado com êxito",
+    "validation.fail" : "Validação falhou para esse elemento"
+  },
+  "validation" : {
+    "duplication" : "Existe um registro com os mesmos dados",
+    "error" : "Por favor, verifique se o formulário está completo e com valores válidos.",
+    "errorMessage" : "Valor inválido",
+    "invalidPattern" : "Não são permitidos caracteres especiais ($, #, @, * etc) ou espaços em branco",
+    "letterNumberAllowed" : "Não são permitidos caracteres especiais ($, #, @, * , etc), hífen ou espaços em branco",
+    "allSpaces" : "{{tLabel}} Não pode conter somente espaços em branco",
+    "maxLength" : "{{tLabel}} Não pode exceder {{maxLength}} caracteres",
+    "minLength" : "{{tLabel}} Deve conter no mínimo {{minLength}} caracteres",
+    "required" : "{{tLabel}} é necessario",
+    "number" : "Número inválido",
+    "phone" : "Telefone inválido (515-555-5555)",
+    "postCode" : "O código postal deve conter 8 dígitos. (DDDDD DDD)",
+    "email" : "E-Mail inválido",
+    "date" : "Data inválida",
+    "dateTime" : "Data / hora inválida",
+    "percentage" : "{{tLabel}} Não pode exceder 100%",
+    "lookup" : "Pesquisa inválida",
+    "code" : "O código deve conter apenas dois carcteres. Inclua apenas valores entre A-Z  e/ou 0-9;\n",
+    "numberOutOfRange" : "Fora dos limites válidos. O valor válido deve estar entre ({{rangeMinimum}} a {{rangeMaximum}})",
+    "validNumberTwoDecimals" : "Número inválido (Máximo 2 decimais)",
+    "elementHasBeenAlreadyDeleted" : "Elemento previamente eliminado",
+    "validNumberFourDecimals" : "Número inválido (0 a 100) (4 decimáis no máximo) ",
+    "urlAllowed" : "URL inválida",
+    "startDateCannotBeAfterEndDate" : "A data inicial não pode ser maior que a data final. Por favor revise.",
+    "endDateCannotBeBeforeStartDate" : "A data final não pode ser menor que a data inicial. Por favor revise.",
+    "number3_2" : "O número deve ter o formato decimal. XXX.XX",
+    "letterNumberWhitespaceAllowed" : "Caracteres especiais ou sublinhados não são permitidos.",
+    "letterNumberWhitespaceUnderscore" : "Caracteres especiais não são permitidos.",
+    "maxNumber" : "Não pode ser maior que {{maxNumber}}",
+    "minNumber" : "Não pode ser menor que{{minNumber}}",
+    "maxFraction" : "Não deve incluir mais de {{maxFraction}} decimais",
+    "minFraction" : "Não deve incluir menos de {{minFraction} decimais",
+    "maxValueExceeded" : "Valor máximo execido",
+    "lessThanOrEqualToCompareValidator" : "O valor deve ser menor que ou igual a outro campo",
+    "greaterThanOrEqualToCompareValidator" : "O valor deve ser maior que ou igual a outro campo",
+    "search" : "Critério de pesquisa inválido",
+    "countryCodePhoneNumber" : "Código de país inválido",
+    "letterNumberUnderscoreAllowed" : "Caractere especial ou espaços em branco não são permitidos"
+  },
+  "paymentPromise" : {
+    "search.title" : "Promessa de pagamento > Pesquisar",
+    "new.title" : "Promessa de pagamento > Incluir",
+    "edit.title" : "Promessa de pagamento > Editar",
+    "queue" : "Fila de trabalho",
+    "mNDP" : "Quantidade máxima de dias para a promessa de pagamento (PP)",
+    "mNDPS" : "Quantidade máxima de dias para a promessa de pagamento do próximo contato (PS)",
+    "modal" : {
+      "cancel" : "Cancelar",
+      "delete" : "Apagar",
+      "title" : "Confirmação",
+      "content" : "Realmente quer apagar essa fila?"
+    },
+    "form" : {
+      "queue" : "Fila de trabalho",
+      "blockRecord" : "Bloquear registro",
+      "paymentPromise" : "Promessa de pagamento",
+      "maxDaysFirstPayment" : "Número máximo de dias para o primeiro pagamento",
+      "graceDays" : "Dias de carência",
+      "requiredPctToKeepPromise" : "Percentual necessário para manter a promessa",
+      "pctForMinimumPayment" : "Percentual para pagamento mínimo",
+      "refFieldForMinPayment" : "Campo de referência para percentual de pagamento mínimo",
+      "refFieldForMaxAmount" : "Campo de referência para quantidade máxima",
+      "paymentSchedule" : "Cronograma de pagamento",
+      "maxDaysLastPayment" : "Número máximo de dias para o último pagamento",
+      "maxDaysBetweenPayments" : "Número máximo de dias entre pagamentos",
+      "blockRecordValues" : {
+        "none" : "Nenhuma",
+        "collector" : "Gestor",
+        "supervisor" : "Supervisor"
+      }
+    },
+    "error.exists.queue" : "Já existe outra promessa de pagamento com essa fila de trabalho",
+    "error.invalid.queue" : "Não existe uma fila de trabalho com esse valor",
+    "error.invalid.min.payment" : "Não existe um campo com esse pagamento mínimo",
+    "error.invalid.max.amount" : "Não existe um campo com esse valor máximo"
+  },
+  "paramTable" : {
+    "search.title" : "Parâmetros especiais > Pesquisar",
+    "new.title" : "Parâmetros especiais > Incluir",
+    "view.title" : "Parâmetros especiais > Editar",
+    "paramId" : "Identificador de  Parâmetro (ID)",
+    "paramName" : "Nome do  Parâmetro",
+    "paramDesc" : "Descrição do parâmetro",
+    "paramLength" : "Tamanho do parâmetro",
+    "paramType" : "Tipo do parâmetro",
+    "paramTypeOptions" : {
+      "text" : "(C) Texto",
+      "number" : "(N) Número",
+      "date" : "(D) Data"
+    },
+    "paramVal" : "Valor"
+  },
+  "parametersPerGroup" : {
+    "search.title" : "Parâmetros por Grupo > Pesquisar",
+    "view.title" : "Parâmetros por Grupo > Ver",
+    "group" : "Grupo",
+    "groupName" : "Nome do grupo",
+    "groupDetails" : {
+      "title" : "Detalhe do Grupo",
+      "group" : "Grupo",
+      "groupName" : "Nome do Grupo",
+      "shortGroupName" : "Nome abreviado para o grupo"
+    },
+    "reportHeaders" : {
+      "title" : "Cabeçalhos do relatório",
+      "header1" : "1 -",
+      "placeholder1" : "Nome do cabeçalho 1",
+      "header2" : "2 -",
+      "placeholder2" : "Nome do cabeçalho  2",
+      "header3" : "3 -",
+      "placeholder3" : "Nome do cabeçalho  3"
+    },
+    "onlineParameters" : {
+      "title" : "Parâmetros online",
+      "numberOfAccountsToReview" : "Quantidade de contas a serem revisadas depois de RL",
+      "additionalDaysForNextContactPP" : "Dias adicionais para próximo contato após Promessa de Pagamento (PP)",
+      "requiredPercentagePaymentToKeepPP" : "Percentual mínimo de pagamento requirido para manter a Promessa de pagamento (PP)",
+      "maxNumberOfDaysInclusiveForNextContact" : "Número máximo de dias para próxima data de contato",
+      "numberOfDaysBeforePaymentInvoiceAutomation" : "Número de dias antes da promessa de pagamento para envio de carta automática",
+      "maxDaysInclusiveForSchedulingCalendarDates" : "Quantidade máxima de dias para PS",
+      "totalDaysPaymentsCalendarCanLast" : "Duração máxima de dias para PS",
+      "maxDaysInclusiveToDefinePP" : "Quantidade máxima de dias permitida para promessa de pagamento",
+      "activateResultCodeForNotAnswer" : "Ativar NA como Código de Resultado"
+    },
+    "collectionActivityParameters" : {
+      "title" : "Parâmetros de Atividade de Cobrança",
+      "printGroupLetters" : "Impressão do grupo nas cartas",
+      "inactiveAccountCollectionActivityAllowed" : "Revisão permitida de contas inativas",
+      "maintainCalendarAfterBrokenPP" : "Promessa quebrada mantém o restante em PS (Proximo contato)"
+    },
+    "interestCalculation" : {
+      "title" : "Cálculo de juros",
+      "interestOverInterest" : "Juros sobre juros",
+      "annualInterestRate" : "Taxa anual de juros"
+    },
+    "interestCalculationPeriod" : {
+      "title" : "Período de Cálculo de juros",
+      "icp" : "PCJ",
+      "withoutCalculation" : "Sem Cálculo",
+      "week" : "Semana",
+      "month" : "Mês"
+    },
+    "validationErrors" : {
+      "additionalDaysForNextContactPP" : "O valor deve ser menor ou igual a quantidade máxima de dias (+ hoje) para a próxima data de contato",
+      "maxNumberOfDaysInclusiveForNextContact" : "O valor deve ser maior ou igual aos dias adicionais para a próxima data de contato para promessa de pagamento",
+      "maxDaysInclusiveForSchedulingCalendarDates" : "O valor deve ser maior que a duração máxima de dias para PS",
+      "totalDaysPaymentsCalendarCanLast" : "O valor deve ser menor que a quantidade máxima de dias (+ hoje) para PS"
+    },
+    "picklist" : {
+      "yes" : "Sim",
+      "no" : "Não",
+      "supervisor" : "Supervisor",
+      "readOnly" : "Somente leitura"
+    },
+    "icpRadioButtons" : {
+      "withoutCalculation" : "Sem cálculo",
+      "week" : "Semana",
+      "month" : "Mês"
+    }
+  },
+  "functionCode" : {
+    "search.title" : "Códigos de Função> Pesquisar",
+    "new.title" : "Códigos de Função > Incluir",
+    "view.title" : "Códigos de Função > Editar",
+    "group" : "Grupo",
+    "code" : "Código",
+    "description" : "Descrição",
+    "collectorType" : "Tipo de gestor",
+    "userType" : "Usuários",
+    "inactiveAccountFlag" : "Conta inativa",
+    "contactFlag" : "Contato válido",
+    "commentFlag" : "Comentário",
+    "booleanTypes" : {
+      "true" : "Sim",
+      "false" : "Não"
+    },
+    "collectorTypes" : {
+      "clerk" : "Auxiliar",
+      "collector" : "Gestor",
+      "general" : "Geral",
+      "restricted" : "Restrito",
+      "supervisor" : "Supervisor"
+    },
+    "userTypes" : {
+      "all" : "Todos",
+      "internal" : "Interno",
+      "external" : "Externo"
+    },
+    "modal" : {
+      "cancel" : "Cancelar",
+      "delete" : "Apagar",
+      "title" : "Confirmação",
+      "content" : "Está seguro que deseja apagar esta fila?"
+    },
+    "error.fail.action.pk" : "Já existe um elemento com esse Código de Ação. Defina outro."
+  },
+  "actionResultLetterCode" : {
+    "search.title" : "Códigos de Ação, Resultado e Complemento > Buscar",
+    "new.title" : "Códigos de Ação, Resultado e Complemento > > Incluir",
+    "view.title" : "Códigos de Ação, Resultado e Complemento  > Editar",
+    "search.legalTitle" : "Códigos de Ação, Resultado e Complemento para Jurídico > Buscar",
+    "new.legalTitle" : "Códigos de Ação, Resultado e Complemento para Jurídico >  Incluir",
+    "view.legalTitle" : "Códigos de Ação, Resultado e Complemento para Jurídico > Editar",
+    "group" : "Grupo",
+    "type" : "Tipo",
+    "code" : "Código",
+    "description" : "Descrição",
+    "codeClass" : "Código da Classe",
+    "weight" : "Peso da classe",
+    "days" : "Dia seguinte a data de contato",
+    "cost" : "Custo unitário",
+    "telephoneRank" : "Score",
+    "collectorType" : "Tipo de gestor",
+    "userType" : "Tipo de usuário",
+    "letterFlag" : "Envío de Carta",
+    "contactFlag" : "Contato Válido",
+    "commentFlag" : "Necessário incluir comentário",
+    "codeTypes" : {
+      "action" : "Ação",
+      "result" : "Resultado",
+      "letter" : "Complemento"
+    },
+    "delete.action.fail.recordInUse" : "Este código de Ação é usado na manutenção de contadores. Não pode ser apagado.",
+    "delete.result.fail.recordInUse" : "Este código de Resultados é usado na manutenção de contadores. Não pode ser apagado.",
+    "delete.letter.fail.recordInUse" : "Este código de Complemento é usado na configuração de Cartas. Não pode ser apagado.",
+    "delete.relatedRecords" : "Este registro tem códigos relacionados. Realmente deseja apagar seus códigos relacionados?",
+    "show.relatedCodes" : "Mostrar Códigos Relacionados",
+    "hide.relatedCodes" : "Ocultar Códigos Relacionados",
+    "codesClass" : {
+      "undefined" : "Sem definição",
+      "class1" : "Classe 1",
+      "class2" : "Classe 2",
+      "class3" : "Classe 3"
+    },
+    "collectorTypes" : {
+      "clerk" : "Auxiliar",
+      "collector" : "Gestor",
+      "general" : "Geral",
+      "restricted" : "Restrito",
+      "supervisor" : "Supervisor"
+    },
+    "userTypes" : {
+      "all" : "Todos",
+      "internal" : "Interno",
+      "external" : "Externo"
+    },
+    "letterFlagTypes" : {
+      "optional" : "Opcional",
+      "mandatory" : "Obrigatório",
+      "without" : "Sem envio"
+    },
+    "booleanTypes" : {
+      "true" : "Sim",
+      "false" : "Não"
+    },
+    "addRelatedCode" : {
+      "isRequiredAtLeastOne" : "É necessário pelo menos um registro de código relacionado."
+    },
+    "form" : {
+      "relatedCodes" : "Códigos Relacionados"
+    },
+    "error.fail.function.pk" : "Já existe um elemento com esse código de função.",
+    "error.fail.window.pk" : "Já existe um elemento com esse código de janela.",
+    "error.fail.genericGroup.pk": "Já existe um elemento com esse código no grupo genérico.",
+    "error.fail.nonGenericGroup.pk": "Já existe um elemento com esse código nos seguintes grupos específicos: {{groupsInUse}}."
+  },
+  "activityWeightParameters" : {
+    "view.title" : "Manutenção de parâmetros de peso de atividades > Editar"
+  },
+  "filter" : {
+    "title" : "Filtros",
+    "filterButton" : "Filtrar",
+    "resetButton" : "Limpar"
+  },
+  "calendar" : {
+    "title" : "Calendário",
+    "errorMessage" : "Data inválida"
+  },
+  "lookup" : {
+    "table" : "Tabela",
+    "field" : "Campo",
+    "placeholder" : "Descrição",
+    "description" : "Descrição",
+    "type" : "Tipo",
+    "cancel" : "Cancelar",
+    "select" : "Selecionar",
+    "select.field" : "Selecione uma opção",
+    "invalid" : "Valor inválido"
+  },
+  "feedBack" : {
+    "message" : "Registro eliminado com sucesso",
+    "error" : "Ocorreu erro ao executar esse serviço"
+  },
+  "auth" : {
+    "needToBeLoggedIn" : "Deve ter um seção iniciada",
+    "haveBeenLoggedOut" : "Seção finalizada"
+  },
+  "common" : {
+    "btn" : {
+      "add" : "Incluir",
+      "cancel" : "Cancelar",
+      "save" : "Salvar",
+      "settings" : "Configuração",
+      "upload" : "Carregar arquivo",
+      "reset" : "Limpar",
+      "back" : "Retornar",
+      "sync" : "Sincronizar",
+      "select" : "Selecionar",
+      "search" : "Buscar",
+      "export" : "Exportar"
+    },
+    "booleanTypes" : {
+      "true" : "Sim",
+      "false" : "Não"
+    },
+    "status" : {
+      "label" : "Status",
+      "active" : "Ativo",
+      "inactive" : "Inativo"
+    },
+    "checkbox" : {
+      "selectAll" : "Selecionar todos",
+      "deselectAll" : "Desmarcar todos",
+      "selectedRecords" : "Registros selecionados"
+    }
+  },
+  "holidayType" : {
+    "selectAnOption" : "Escolha uma opção",
+    "dayOfTheWeek" : "Dia da semana",
+    "calendarDate" : "Data do calendário"
+  },
+  "days" : {
+    "monday" : "Segunda-feira",
+    "tuesday" : "Terça-feira",
+    "wednesday" : "Quarta-feira",
+    "thursday" : "Quinta-feira",
+    "friday" : "Sexta-feira",
+    "saturday" : "Sábado",
+    "sunday" : "Domingo"
+  },
+  "confirmation" : {
+    "modal" : {
+      "cancel" : "Não",
+      "submit" : "Sim",
+      "title" : "Confirmação",
+      "content" : "Tem certeza que quer eliminar este registro?"
+    }
+  },
+  "queueLookup" : {
+    "code" : "Código",
+    "description" : "Descrição",
+    "invalid" : "Dado incorreto"
+  },
+  "cancel" : {
+    "modal" : {
+      "cancel" : "Cancelar",
+      "ok" : "Ok",
+      "title" : "Confirmação",
+      "content" : "As alterações não foram salvas. Deseja realmente sair dessa página?"
+    }
+  },
+  "lov" : {
+    "search.title" : "Lista de Valores > Buscar",
+    "createTitle" : "Lista de valores > Incluir",
+    "editTitle" : "Lista de valores > Editar",
+    "isDefault" : "Pré-definido",
+    "newDetailTitle" : "Detalhes - Inserir novo",
+    "lovId" : "Identificador de Lista de Valores (LOV)",
+    "lovName" : "Nome da Lista de Valores (LOV)",
+    "lovDetailsModal" : {
+      "fieldsetTitle" : "Valores Relacionados",
+      "title" : "Valor Relacionado",
+      "codeRequiredMessage" : "Já existe outro código com o mesmo valor",
+      "codeMaxLengthErrorMessage" : "Este código não pode exceder 30 caracteres",
+      "defaultValueIsRequired" : "É requirido pelo menos um valor (LOV) pré-definido"
+    }
+  },
+  "dataDictionary" : {
+    "main.view.title" : "Manutenção de dicionário de dados > Visão principal",
+    "edit.view.title" : "Dicionário de dados > Editar visão",
+    "edit.modal.title" : "Editar detalhes do dicionário de dados",
+    "definition" : "Definição",
+    "table" : "Tabela",
+    "column" : "Coluna",
+    "action" : "Ação",
+    "type" : "Tipo",
+    "startColumn" : "Coluna inicial",
+    "columnLength" : "Tamanho da coluna",
+    "description" : "Descrição",
+    "mandatoryUpload" : "Carga obrigatória",
+    "conditionalBlank" : "Branco condicional",
+    "conditional" : "Condicional",
+    "protected" : "Protegido",
+    "unconditionalUpdate" : "Atualização incondicional",
+    "blankOrConditional" : "Condicional em branco ou zero",
+    "sync" : {
+      "success" : "Tabelas sincronizadas com sucesso",
+      "fail" : "Ocorreu um erro ao sincronizar as tabelas"
+    },
+    "date" : "Data",
+    "float" : "Valor flutuante (float)",
+    "integer" : "Inteiro",
+    "alphanumeric" : "Alfa-numérico",
+    "btn" : {
+      "sync" : "Sincronizar"
+    }
+  },
+  "championChallenger" : {
+    "search.title" : "Provas de Campeão e Desafiantes > Pesquisar",
+    "view.title" : "Provas de Campeão e Desafiantes  > Ver",
+    "create.title" : "Provas de Campeão e Desafiantes  > Novo",
+    "nextStep" : "Próxima etapa",
+    "previousStep" : "Etapa anterior",
+    "testId" : "Teste",
+    "name" : "Nome do teste",
+    "description" : "Descrição",
+    "startDate" : "Data inicial da teste",
+    "endDate" : "Data final do teste ",
+    "deleteDate" : "Data de eliminação do teste",
+    "numberOfSamples" : "Número de amostras",
+    "numberOfRecords" : "quantidade de Registros na amostra",
+    "filter" : "Filtro",
+    "frequency" : "Frequência",
+    "frequencyTime" : "Tempo de frequência",
+    "uda" : "Tabelas",
+    "timeframeExceededForTestToStart" : "Tempo excedido para início da prova",
+    "timeframeExceededForTestToEnd" : "Tempo excedido para finalização da prova",
+    "testIdAlreadyExists" : "Prova já existente",
+    "frequencyDescription" : {
+      "beginningAndEnd" : "Ao iniciar e ao finalizar a prova",
+      "daily" : "Diária",
+      "weekly" : "Semanal, cada {{ day }}",
+      "monthly" : "Mensal, cada dia {{ date }}"
+    },
+    "start" : {
+      "title" : "Inicio",
+      "step" : "Passo 1"
+    },
+    "universe" : {
+      "title" : "Universo",
+      "step" : "Passo 2",
+      "uda" : "Grupo",
+      "invalidConstraint" : "Falha na verificação de restrições",
+      "noAccountsAffected" : "A verificação das restrições deve retornar ao menos uma conta restante",
+      "checkMustBePerformed" : "A verificação deve ser executada antes de prosseguir\n",
+      "unmatchedParenthesis" : "Falta parenteses",
+      "trailingAndOr" : "Condicional (E / OU) Inválido na ultima restrição",
+      "criteria" : {
+        "modal.title" : "Critérios",
+        "field" : "Campo",
+        "operator" : "Operador",
+        "value" : "Valor",
+        "and.or" : "E/OU",
+        "check" : "Verificação",
+        "remainingAccounts" : "Contas restantes: ",
+        "accountsUsedByOtherTests" : "Contas utilizadas por outras provas: "
+      }
+    },
+    "sampling" : {
+      "title" : "Amostra",
+      "step" : "Passo 3",
+      "populationSize" : "Tamanho da população",
+      "maximumPopulationSize" : "Tamanho máximo da população",
+      "parameters" : "Parámetros",
+      "confidenceLevel" : "Nivel de confiança ",
+      "sampleNumberOfRecords" : "Exemplo dos registros selecionados",
+      "samples" : "Amostras",
+      "maximumNumberOfSamples" : "Quantidade máxima de amostras",
+      "numberOfSamples" : "Quantidade de amostras",
+      "error" : {
+        "confidenceLevel" : "O número deve ser menor/igual a 100 e maior/igual a {{value}}",
+        "numberOfSamples" : "O número de ser menor/igual a {{value}}",
+        "sampleNumberOfRecords" : "O número de ser menor/igual a {{value}}"
+      }
+    },
+    "periodicity" : {
+      "title" : "Periodicidade",
+      "step" : "Passo 4",
+      "beginningAndEnd" : "Ao iniciar e ao terminar a prova",
+      "daily" : "Diária",
+      "weekly" : "Semanal",
+      "monthly" : "Mensal"
+    },
+    "summary" : {
+      "title" : "Resumo do teste",
+      "step" : "Passo 5",
+      "deleteDate" : "Data da eliminação"
+    }
+  },
+  "championChallengerSettings" : {
+    "title" : "Parâmetros dos testes Campeão e Desafiantes > Editar",
+    "maximumDaysUntilStartDate" : "Quantidade máxima de dias inciando hoje até a data de início da prova",
+    "testLengthDays" : "Tamanho da prova (dias)",
+    "periodAfterTestAndBeforeDeletion" : "Período depois da prova e antes da eliminação",
+    "minimumPermittedConfidenceLevel" : "Nível de confiança mínimo permitido (recomedado >90%)",
+    "maximumToBeAssignedToSampling" : "Quantidade máxima de elementos a serem atribuídos a amostra"
+  },
+  "formLabels" : {
+    "common" : {
+      "code" : "Código",
+      "description" : "Descrição",
+      "default" : "Default",
+      "group" : "Grupo",
+      "actionCode" : "Código de ação",
+      "resultCode" : "Código de resultado"
+    }
+  },
+  "addRelatedCode" : {
+    "type" : "Tipo",
+    "code" : "Código",
+    "description" : "Descrição",
+    "select.field" : "Incluir Código Relacionado",
+    "select" : "Ok",
+    "add" : "Adicionar",
+    "errorFields" : "Código, tipo e descrição são necessários"
+  },
+  "dectblType" : {
+    "title" : "Redes de Decisão > Principal",
+    "type" : "Tipo",
+    "name" : "Nome",
+    "description" : "Descrição"
+  },
+  "dectblDecode" : {
+    "AGN" : "Agência",
+    "QUE" : "Fila de Trabalho",
+    "LBL" : "Etiqueta",
+    "PRI" : "Prioridade"
+  },
+  "blockedAccount" : {
+    "search.title" : "Contas Bloqueadas > Pesquisar",
+    "group" : "Grupo",
+    "account" : "Conta",
+    "lastAccess" : "Data e Hora",
+    "collectorId" : "Usuário",
+    "customerId" : "Identificador do Cliente"
+  },
+  "dectblGroup" : {
+    "title" : "Redes de decisão > {{value}} > Editar por grupo",
+    "acctGrp" : "Grupo",
+    "acctGrpDesc" : "Descrição"
+  },
+  "dectblGroupAdd" : {
+    "title" : "Redes de decisão> {{value}} > Incluir grupo",
+    "acctGrp" : {
+      "label" : "* Grupo: ",
+      "required" : "Escolha um grupo"
+    },
+    "fromAcctGrp" : {
+      "label" : "Copiar de: ",
+      "required" : "Escolha um grupo para copiar"
+    },
+    "new" : "Novo",
+    "copy" : "Copiar",
+    "service" : {
+      "insert.ok" : "O grupo foi criado com sucesso"
+    }
+  },
+  "dectblGraphTrace" : {
+    "title" : "Redes de decisão > Rastrear {{value1}} > Grupo {{value2}}",
+    "execution.subtitle" : "Sequência de execução:",
+    "input.subtitle" : "Detalhe de entradas:",
+    "output.subtitle" : "Detalhe de saídas: ",
+    "group" : "Grupo: ",
+    "account" : "Conta: ",
+    "placeHolder.account" : "Conta:",
+    "result" : "Resultado: ",
+    "save.ok" : "A rede de decisão foi simulada com sucesso",
+    "required.account" : "É requirida uma conta.",
+    "invalid.account" : "Conta inválida",
+    "error.other" : "Ocorreu um erro ao executar o serviço",
+    "error.emptynetwork" : "Não é possivel simular uma rede de decisão sem dados.",
+    "error.invalidaccount" : "A conta de entrada não existe"
+  },
+  "dectblGraphEdit" : {
+    "title" : "Redes de decisão > Editar {{value1}} > Grupo {{value2}}",
+    "save.ok" : "A Rede de decisão foi salva com sucesso",
+    "warning.levelNochild" : "O nível {{value}} não tem nenhuma prova cadastrada\n",
+    "warning.testNochild" : "O nível {{value2}} teste {{value1}} não tem nenhuma condição cadastrada.",
+    "warning.levelNoConn" : "O nível {{value}} não está conectado.",
+    "warning.isACycle" : "Não é possivel conectar este nível, pois será um ciclo (looping)",
+    "warning.nxl.sameNextl" : "Não é possivel conectar-se ao mesmo nível.\n",
+    "warning.nxl.sameLevel" : "Não é possivel conectar a si mesmo, pois gerará um looping.",
+    "warning.nxl.outRange" : "O nível seguinte deve ser um número inteiro entre 2 e 99999",
+    "warning.chl.sameLevel" : "Não pode ser renomeado no mesmo nível",
+    "warning.chl.outRange" : "O nível seguinte deve ser um número inteiro entre 2 e 99999",
+    "warning.chl.liexist" : "O nível escolhido já está em uso.",
+    "warning.invalidQueue" : "{{value}} inválida",
+    "warning.invalidPercentage" : "Porcentagem inválida",
+    "warning.required" : "Campo obrigatório",
+    "warning.noDBColumn" : "Campo inexistente. Deve ser definido na Columnupd",
+    "warning.fieldDateSameField1" : "Este campo deve ter o formato de data como o campo 1",
+    "warning.fieldDate" : "O campo deve ter uma data válida (YYYYMMDD)",
+    "warning.fieldDateWithDateToken" : "O campo deve ter uma data válida  (YYYYMMDD) ou um token de data",
+    "warning.fieldStringSameField1" : "Este campo deve ser um formato string como o Campo 1",
+    "warning.fieldNumberSameField1" : "Este campo deve um formato numérico como o Campo 1",
+    "warning.fieldNumber" : "Este campo deve ser um número válido",
+    "warning.fieldInvalid" : "Este campo tem um formato inválido"
+  },
+  "dectblGraph" : {
+    "selectionLevel" : "Nível de seleção",
+    "level" : "Nível ",
+    "test" : "Teste",
+    "condition" : "Condição",
+    "newLevel" : "Este é um novo nível",
+    "newTest" : "Este é um novo teste",
+    "nextLevel" : "Próximo nível",
+    "copyOf" : "Copiado de",
+    "defaultLevelComment" : "Adicione a descrição do nível",
+    "defaultTestComment" : "Adicione a descrição de teste",
+    "description" : "Descrição",
+    "levelDetail" : "Detalhe de nível:",
+    "testDetail" : "Detalhe de teste:",
+    "nextLevelLabel" : "Nível seguinte:",
+    "conditionTitle" : "Detalhe da condição:",
+    "field1" : "Campo 1:",
+    "placeHolder.field1" : "Campo 1",
+    "operator" : "Operador:",
+    "field2" : "Campo 2:",
+    "placeHolder.field2" : "Campo 2",
+    "field2Flag" : "Tipo:",
+    "field3" : "Campo 3:",
+    "placeHolder.field3" : "Campo 3",
+    "field3Flag" : "Tipo:",
+    "orFlag" : "Ou:",
+    "value" : "Valor",
+    "database" : "Base Dados",
+    "levelTitle" : "Nível:",
+    "btn.link" : "Ligar",
+    "btn.openEdit" : "Editar",
+    "btn.openTrace" : "Ir para rastrear",
+    "btn.openTest" : "Ir para testar",
+    "btn.execute.trace" : "Rastrear",
+    "btn.execute.test" : "Testar"
+  },
+  "dectblGraphTest" : {
+    "title" : "Redes de Decisão > Testar {{value1}} > Grupo {{value2}}",
+    "countAccount" : {
+      "legend" : "Teste",
+      "totalAccounts" : "Total de contas",
+      "updateField" : "Atualizar campo",
+      "resetModalContent" : "Todas as alterações no nível de seleção serão perdidas. Deseja continuar?",
+      "btn" : {
+        "count" : "Contar",
+        "reset" : "Reiniciar"
+      }
+    },
+    "testResult" : {
+      "legend" : "Resultados",
+      "queueOrLabel" : "Fila de trabalho / Etiqueta",
+      "totalAccounts" : "Contas"
+    },
+    "error" : {
+      "notValidDecisionNetwork" : "Os Nós da rede de decisão não são válidos",
+      "conditionFailure" : "Ocorreu um erro ao gerar as condições de teste"
+    }
+  },
+  "blockedUser" : {
+    "search.title" : "Bloqueio de Usuários > Pesquisar",
+    "collectorId" : "Usuário",
+    "lastSessionDate" : "Data do início da seção",
+    "numberTries" : "Número de tentativas",
+    "module" : "Módulo"
+  },
+  "menu" : {
+    "blocks" : {
+      "title" : "Bloqueio",
+      "blockedAccounts" : "Contas bloqueadas",
+      "blockedUsers" : "Usuários bloqueados"
+    },
+    "parameters" : {
+      "title" : "Parâmetros",
+      "paramTable" : "Tabela de parâmetros",
+      "parametersPerGroup" : "Parâmetros por grupo"
+    },
+    "cyberCredit" : {
+      "title" : "CyberCredit",
+      "collectorWorkQueues" : "Atribuindo ao gestor / Filas de trabalho",
+      "workQueuesCollector" : "Atribuindo a filas de trabalho / Gestor",
+      "scriptsByQueue" : "Scripts por Fila de trabalho",
+      "locksByQueue" : "Bloqueados por Fila de trabalho",
+      "queriesCollectionProgress" : {
+        "title" : "Progresso da cobrança",
+        "byCollectors" : "Por Gestores",
+        "byQueues" : "Por Filas de trabalho"
+      }
+    },
+    "cyberRecovery" : {
+      "title" : "CyberRecovery",
+      "transactionsDefinitions" : "Definição das transações",
+      "debtSalePackage.title" : "Pacote de venda de carteira",
+      "buyerSellerCatalog" : "Catálogo de Compradores/Vendedores"
+    },
+    "cyberBranch" : {
+      "title" : "CyberBranch",
+      "assigningByDecisionNetworks" : {
+        "title" : "Distribuição por Rede de Decisão",
+        "agencyByQueue" : "Gestores por fila de trabalho (%)",
+        "agencyCoverage" : "Catálogo Gestor/Cobertura",
+        "agencySegment" : "Catálogo Gestor/Segmento",
+        "capacitiesByAgency" : "Catálogo de Capacidades por Gestor/Segmento",
+        "capacitiesByCollector" : "Capacidades por Gestor/Segmento"
+      },
+      "manual" : {
+        "title" : "Distribuição manual",
+        "byFile" : "Por arquivo",
+        "byCriteria" : "Por critério"
+      },
+      "highRiskArea" : "Áreas de alto risco",
+      "addressLocator" : "Localizador de endereços"
+    },
+    "cyberLegal" : {
+      "title" : "CyberLegal",
+      "caseType" : "Tipos de casos",
+      "court" : "Tribunais",
+      "actionAndResultCodes" : "Códigos de ação e  Resultado para cobrança jurídica",
+      "searches" : {
+        "title" : "Consultas",
+        "legalAlerts" : "Alertas Legais",
+        "casesLawyerType" : "Casos por Tipo de ação jurídica e advogado"
+      },
+      "legalDocumentsRequired" : {
+        "title" : "Documentos jurídicos requeridos"
+      },
+      "escalationsFromCyberCredit" : {
+        "title" : "Encaminhamento do CyberCredit",
+        "legalReview" : "Revisão do Jurídico"
+      },
+      "massiveEscalation" : {
+        "title" : "Distribuição massiva",
+        "parametersByGroup" : "Parâmetros por Grupo",
+        "parametersTransferQueue" : "Parâmetros para encaminhamento de fila de trabalho",
+        "parametersTransferQueueCases" : "Parâmetros para encaminhamento de fila de trabalho - Casos"
+      }
+    },
+    "cyberAgreements" : {
+      "title" : "CyberAgreements",
+      "typeOfAgreement" : "Tipos de Acordos",
+      "agreementAuthorization" : "Autorização de acordos",
+      "agreementCancellation" : "Cancelamento de acordos"
+    },
+    "cyberContact" : {
+      "title" : "CyberContact",
+      "emailCampaign" : "Envío de cartas",
+      "smsCampaign" : "Envío de SMS"
+    },
+    "cyberWorkflow" : {
+      "title" : "CyberWorkflow",
+      "profiles" : "Perfis",
+      "process" : "Processos"
+    },
+    "cyberAgency" : {
+      "title" : "CyberAgency",
+      "agency" : "Catálogo de Agências",
+      "manual" : {
+        "title" : "Distribuição manual",
+        "byFile" : "Por arquivo",
+        "byCriteria" : "Por critério"
+      },
+      "assigningByDecisionNetworks" : {
+        "title" : "Distribuição por Redes de decisão",
+        "agencyByQueue" : "Agências por fila de trabalho",
+        "agencyByQueuePercentage" : "Agências por fila de trabalho (%)",
+        "agencyCoverage" : "Catálogo de Agências/Cobertura",
+        "agencySegment" : "Catálogo de Agências/Segmento",
+        "capacitiesByAgency" : "Capacidades por Agências/Segmento"
+      },
+      "searches" : {
+        "title" : "Pesquisas",
+        "agenciesLookup" : "Pesquisa por Agências",
+        "customerAccountsDistribution.byAgency" : "Distribuição por Agências"
+      }
+    },
+    "cyberEngine" : {
+      "title" : "CyberEngine",
+      "decisionNetworks" : "Redes de decisão",
+      "derivedFields" : "Campos derivados",
+      "dataDictionary" : "Dicionário de dados",
+      "extractionFiles" : "Arquivos de extração",
+      "catalogs" : "Catálogos",
+      "depurtationRules" : "Regras de depuração",
+      "cyberScore" : "CyberScore",
+      "areaCodes" : "Códigos de Área",
+      "fileBlank" : "Arquivo em branco",
+      "championChallenger" : "Campeão e Desafiante",
+      "transfer" : "Transferir",
+      "transfer.supervisorReview" : "Revisão do supervisor",
+      "transfer.clerkReview" : "Revisão do auxiliar",
+      "catalogs.actionAndResultCodes" : "Códigos de Ação, Resultado e Complemento",
+      "catalogs.listOfValues" : "Lista de valores",
+      "catalogs.nonWorkingDay" : "Dias não úteis",
+      "catalogs.functionCodes" : "Código de Função",
+      "catalogs.surveys" : "Pesquisa",
+      "catalogs.areaCodes" : "Códigos de Área",
+      "catalogs.counters" : "Contadores",
+      "catalogs.assetTypeDefinition" : "Definição de tipo de ativo",
+      "catalogs.historyTables" : "Tabelas históricas",
+      "catalogs.lettersSetup" : "Ajustes de contatos (cartas)",
+      "catalogs.leadAccountCriteria" : "critério de definição de conta líder",
+      "catalogs.activityCounters" : "Contadores de atividades",
+      "catalogs.paymentPromise" : "Promessa de Pagamento",
+      "catalogs.dataDictionary" : "Dicionário de dados",
+      "search" : "Pesquisas",
+      "search.customer" : "Pesquisa por Cliente",
+      "search.segmentationQueues" : "Segmentação por filas de trabalho",
+      "letters" : "Cartas",
+      "letters.letterConfiguration" : "Configuração de carta",
+      "letters.letterQueues" : "Filas de trabalho de carta",
+      "asynchronousJob" : "Controlador de trabalho assíncrono"
+    },
+    "security" : {
+      "title" : "Painel de Segurança",
+      "accessGroup" : "Grupos de Acceso",
+      "programCatalog" : "Catálogo de Programas",
+      "users" : "Catálogo de Usuários",
+      "auditLog" : "Registro de auditoría"
+    }
+  },
+  "sidebar.openTitle" : "Fechar",
+  "sidebar.closedTitle" : "Abrir",
+  "lovLookup" : {
+    "value" : "Valor",
+    "description" : "Descrição",
+    "invalid" : "Valor inválido"
+  },
+  "customerInformation" : {
+    "tab" : {
+      "productDetails" : "{{ product }} Detalhe",
+      "activities" : "Atividades",
+      "payments" : "Pagamentos",
+      "promises" : "Promessas",
+      "relatedPeople" : "Pessoa relacionada",
+      "collateral" : "Garantia",
+      "addressAndPhones" : "Endereço e Telefones",
+      "documents" : "Documentos"
+    },
+    "group" : "Grupo",
+    "account" : "Conta",
+    "customerNumber" : "Cliente",
+    "customerName" : "Nome",
+    "queue" : "Fila de trabalho",
+    "sequence" : "Sequencial",
+    "product" : "Produto",
+    "delinquencyDays" : "Dias de atraso",
+    "balance" : "Saldo",
+    "accountNumberForDropdown" : "Número da conta",
+    "customerNumberForDropdown" : "Número de cliente",
+    "customerNameForDropdown" : "Nome do cliente",
+    "invalid.format" : "Formato inválido",
+    "search" : {
+      "title" : "Informação do cliente > Consultar",
+      "accountFound" : "Contas encontradas:  ",
+      "balance" : "Saldo devedor:  ",
+      "averageDays" : "Dias de atraso médio",
+      "placeHolder" : "Pesquisar por:"
+    }
+  },
+  "segmentationByQueue" : {
+    "multiSelect" : {
+      "placeHolder" : "Status",
+      "active" : "Ativo",
+      "released" : "Publicado",
+      "satisfied" : "Satisfeito",
+      "writeOff" : "W/OFF (Lançado a prejuizo)"
+    },
+    "customDropdown" : {
+      "balanceTitle" : "Saldo atual",
+      "amountTitle" : "Saldo em atraso",
+      "daysTitle" : "Dias de atraso",
+      "between1" : "Entre",
+      "between2" : "E",
+      "greaterThan" : "Maior que ou igual a ( >=)",
+      "lessThan" : "Menor que ou igual a (<=)"
+    },
+    "group.placeHolder" : "Grupo",
+    "queue.placeHolder" : "Fila de trabalho",
+    "detailByQueue" : "Detalhes por Fila de trabalho "
+  },
+  "commonHeaderCustomerScreen" : {
+    "title" : "Detalhes de cliente ",
+    "group" : "Grupo: ",
+    "account" : "Conta: ",
+    "product" : "Produto: ",
+    "name" : "Nome:",
+    "agency" : "Agência:",
+    "client" : "Cliente: ",
+    "status" : "Status:",
+    "legal" : "Jurídico: ",
+    "status.R" : "Regularizado(Baixado)",
+    "status.active" : "Conta ativa",
+    "status.S" : "Satisfeito",
+    "status.W" : "Cancelado (W/OFF)",
+    "legal.FA" : "Em Agências (DCA)",
+    "legal.FJ" : "Em Agências (DCA) com processo jurídico",
+    "legal.FR" : "Em Agências (DCA) com solicitação jurídica",
+    "legal.FT" : "Em Agências (DCA) com processo jurídico completo",
+    "legal.J" : "Em proceso jurídico",
+    "legal.JR" : "Solicitação jurídica",
+    "legal.JT" : "Processo jurídico completo"
+  },
+  "programCatalog" : {
+    "search.title" : "Catálogo de Programas > Pesquisar",
+    "new.title" : "Catálogo de Programas > Incluir",
+    "view.title" : "Catálogo de Programas > Editar",
+    "programId" : "Identificador de Programa",
+    "programName" : "Nome do Programa",
+    "version" : "Versão",
+    "description" : "Descrição",
+    "url" : "URL",
+    "relatedAccessGroups" : "Grupos de acesso relacionados",
+    "accessGroup.id" : "Id de grupos de acesso",
+    "accessGroup.name" : "Nome de grupos de acesso"
+  },
+  "accessGroup" : {
+    "search.title" : "Grupos de Acesso > Pesquisar",
+    "new.title" : "Grupo de Acceso > Incluir",
+    "view.title" : "Grupo de Acceso > Editar",
+    "accessGroupId" : "Identificador ",
+    "accessGroupName" : "Nome",
+    "collector" : {
+      "id" : "Id",
+      "collectorId" : "Id de Usuário",
+      "collectorName" : "Nome do usuário",
+      "selected" : "Selecionado",
+      "relatedGrid.legend" : "Usuários Relacionados"
+    },
+    "program" : {
+      "programId" : "Id de Programa",
+      "programName" : "Nome do Programa",
+      "accessGroupId" : "Id de Grupo do Acesso",
+      "relatedGrid.legend" : "Programas Relacionados",
+      "functionFlag" : "Selecionado"
+    }
+  },
+  "user" : {
+    "alreadyLoggedIn" : "O usuário ja possui uma seção ativa",
+    "search.title" : "Catálogo de Usuarios > Pesquisar",
+    "new.title" : "Catálogo de Usuarios > Incluir",
+    "view.title" : "Catálogo de Usuarios > Editar",
+    "collectorId" : "Id Gestor",
+    "collectorName" : "Nome de gestor",
+    "collectorType" : "Tipo de Gestor",
+    "userType" : "Tipo de Usuário",
+    "collectorTypes" : {
+      "clerk" : "Auxiliar",
+      "collector" : "Gestor",
+      "general" : "Geral",
+      "restricted" : "Restrito",
+      "supervisor" : "Supervisor"
+    },
+    "userTypes" : {
+      "internal" : "Interno",
+      "external" : "Externo"
+    },
+    "collectorPassword" : "Senha",
+    "salutationCode" : "Código de saudação",
+    "telephone" : "Telefone",
+    "mail" : "E-Mail",
+    "agency" : "Agência",
+    "extension" : "Extenção",
+    "jobTitle" : "Tipo de funcionário",
+    "governmentId" : "RG",
+    "position" : "Cargo",
+    "permissionToReviewAccount" : "Terá permissão para revisar contas de outro surpevisor?",
+    "readOnly" : "Permissão apenas para consulta?",
+    "supervisor" : "Supervisor",
+    "timeout" : "Tempo excedido (segundos)",
+    "department" : "Departamento",
+    "loginStatus" : "Estado de seção",
+    "legalType" : "Tipo Jurídico",
+    "authorizedGroupId" : "Grupo",
+    "authorizedGroupDescription" : "Descrição",
+    "queue" : "Fila de trabalho",
+    "legalTypes" : {
+      "legalClerk" : "Auxiliar jurídico",
+      "attorney" : "Advogado litigante",
+      "supervisorAttorney" : "Advogado Supervisor"
+    },
+    "loginStatusTypes" : {
+      "expired" : "Expirado (senha requirida no primeiro acesso)",
+      "enabled" : "Aberto "
+    },
+    "tab" : {
+      "codesGroups" : "Grupos de Códigos",
+      "queues" : "Filas de trabalho",
+      "accessGroups" : "Grupos de Acesso",
+      "legend" : {
+        "authorizedFunctionCodes" : "Códigos de Função Autorizados",
+        "authorizedGroups" : "Grupos de contas permitidas para revisão",
+        "permittedQueues" : "Filas de trabaho permitidas para revisão",
+        "automaticAssignedQueues" : "Linhas de trabalho distribuídas no modo automático",
+        "relatedAccessGroup" : "Grupos de Acesso Relacionados"
+      }
+    },
+    "automaticQueue.add.title" : "Incluir Fila de trabalho ao modo Automático",
+    "error.queue.alreadyInGrid" : "Fila de trabalho já incluida ao modo automático",
+    "error.queue.notInPermittedGrid" : "Todas as filas de trabalho no modo automático devem estar em filas de trabalho permitidas",
+    "error.notValidSupervisor" : "Supervisor com Referência Circular",
+    "changePasswordModal" : {
+      "title" : "Alterar senha",
+      "login" : "Login",
+      "collectorName" : "Nome do operador",
+      "password" : "Nova senha",
+      "confirmPassword" : "Confirme sua senha",
+      "error" : {
+        "changePasswordSameUser" : "Você não pode mudar sua própria senha",
+        "differentPassword" : "Senha e confirmação da senha não coincidem",
+        "passwordInvalid" : "A senha é inválida:",
+        "invalidLength" : "O tamanho deve ser entre {{min}} e {{max}} caracteres",
+        "insufficientUppercase" : "Deve ter pelo menos uma letra maiúscula",
+        "insufficientLowercase" : "Deve ter pelo menos uma letra minúscula",
+        "insufficientDigit" : "Deve ter pelo menos um dígito",
+        "insufficientSpecialCharacter" : "Tem que ter pelo menos um caractere especial",
+        "historyViolation" : "A senha já foi utilizada anteriormente",
+        "illegalUsername" : "A senha contém o login",
+        "defaultViolation" : "A senha não está em conformidade com as políticas de padrão de senha"
+      }
+    }
+  },
+  "promises" : {
+    "collector" : "Gestor",
+    "creationDate" : "Data de criação",
+    "status" : "Status",
+    "initialDate" : "Data inicial",
+    "dueDate" : "Data de vencimento",
+    "paymentAmount" : "Valor pago",
+    "statusCodes" : {
+      "B" : "Quebrado",
+      "D" : "Eliminado",
+      "K" : "Mantido",
+      "P" : "Pendente",
+      "S" : "Agendado"
+    }
+  },
+  "activities" : {
+    "activitiesDate" : "Data",
+    "actionCode" : "Código de Ação",
+    "resultCode" : "Código de Resultado",
+    "letterCode" : "Código de Complemento",
+    "areaCode" : "Código de Área",
+    "telephone" : "Telefone",
+    "collector" : "Operador/Cobrador",
+    "comment" : "Comentários"
+  },
+  "paymentHistory" : {
+    "collectorID" : "Operador/Cobrador",
+    "batchJob" : "Lote",
+    "transactionCode" : "Código de transação",
+    "amount" : "Valor",
+    "paymentDate" : "Data",
+    "recordDate" : "Data de registro",
+    "agency" : "Agência",
+    "description" : "Descrição"
+  },
+  "related" : {
+    "id" : "Id",
+    "name" : "Nome",
+    "relationship" : "Relacionamento",
+    "relatedPeople.id" : "Id: ",
+    "relatedPeople.name" : "Nome: ",
+    "address" : "Endereços",
+    "phone" : "Telefones",
+    "additionalInformation" : "Informação adicional",
+    "relatedPerson" : "Pessoa relacionada",
+    "address.type" : "Tipo",
+    "address.status" : "Status",
+    "address.address" : "Endereço",
+    "phone.type" : "Tipo",
+    "phone.status" : "Status",
+    "phone.telephone" : "Telefone",
+    "phone.rank" : "Tipo",
+    "phone.ext" : "Extenção"
+  },
+  "collateral" : {
+    "generalInformation" : "Informação geral",
+    "id" : "ID do Ativo",
+    "type" : "Tipo",
+    "status" : "Status da garantia",
+    "description" : "Descrição",
+    "condition" : "Condição da garantia",
+    "idForForm" : "Ativo:",
+    "typeForForm" : "Tipo:",
+    "statusForForm" : "Status da garantia:",
+    "descriptionForForm" : "Descrição",
+    "region" : "Região",
+    "collateralStatus" : "Status da garantia:",
+    "conditionForForm" : "Condição da garantia:",
+    "saleStatus" : "Status de venda:",
+    "foreclose" : "Anulação da hipoteca:",
+    "estimate" : "Valor Estimado:",
+    "minimumSalePrice" : "Preço mínimo de venda",
+    "askingSalePrice" : "Preço de oferta",
+    "salePrice" : "Valor de venda",
+    "addressLine1" : "Endereço",
+    "city" : "Cidade:",
+    "state" : "Estado:",
+    "country" : "País:",
+    "zipCode" : "Código Postal:",
+    "phoneNumber1" : "Telefone 1",
+    "phoneNumber2" : "Telefone 2",
+    "amounts" : "Valores",
+    "address" : "Endereço",
+    "additionalInformationTab" : "Informação adicional",
+    "contactsTab" : "Contatos",
+    "appraisalsTab" : "Avaliação",
+    "priorityDebtsTab" : "Dívidas principais",
+    "additionalInformation.noRecordMessage" : "Nenhuma informação adicional encontrada",
+    "appraisals" : {
+      "lineNumber" : "Número de linha",
+      "name" : "Nome",
+      "date" : "Data da avaliação",
+      "value" : "Valor da avaliação"
+    },
+    "priorityDebts" : {
+      "order" : "Sequência",
+      "date" : "Data",
+      "amount" : "Valor",
+      "description" : "Descrição"
+    },
+    "contact.ssn" : "NSS",
+    "contact.name" : "Nome",
+    "contact.phone" : "Telefone",
+    "contact.email" : "E-Mail",
+    "contact.type" : "Tipo",
+    "contact.address" : "Endereço"
+  },
+  "extractionFileDefinition" : {
+    "search.title" : "Arquivos de extração > Pesquisar",
+    "new.title" : "Arquivos de extração  > Incluir",
+    "view.title" : "Arquivos de extração  > Editar",
+    "exportId" : "Id do arquivo de exportação",
+    "group" : "Grupo",
+    "jumpLines" : "Salto de linhas",
+    "outputFileFormat" : {
+      "title" : "Formato do arquivo de saída.",
+      "singleFile" : "Arquivo simples",
+      "singleFileWithJumpLines" : "Arquivo simples com saldo de linhas",
+      "oneFilePerTable" : "Um arquivo por tabela",
+      "oneFilePerTableWithJumpLines" : "Um arquivo com tabela com salto de linhas"
+    },
+    "error" : {
+      "isRequiredAtLeastOneCriteria" : "É necessário pelo menos uma definição de critérios de seleção",
+      "isRequiredAtLeastOneSort" : "É necessário pelo menos uma definição de ordem",
+      "isRequiredAtLeastOneSection" : "Pelo menos uma seção é necessária",
+      "isRequiredAtLeastOneFieldPerSection" : "Pelo menos uma definição de campo é necessária por seção",
+      "brackets" : "Parêntese está faltando",
+      "isDuplicateSortField" : "O campo de classificação já existe"
+    },
+    "criteria" : {
+      "field" : "Campo",
+      "operator" : "Operador",
+      "value" : "Valor",
+      "and.or" : "E/OU",
+      "modal" : {
+        "title" : "Critério de seleção"
+      }
+    },
+    "orderDefinition" : {
+      "title" : "Definição de ordem",
+      "sortField" : "Ordenar por Campo",
+      "sortType" : "Ordem de classificação",
+      "delete.title" : "Eliminar definição de ordem",
+      "sortType.asc" : "Crescente",
+      "sortType.desc" : "Descrescente"
+    },
+    "sectionDefinitions" : {
+      "title" : "Definições do campo",
+      "table" : "Tabela",
+      "section" : "Seção",
+      "criteria" : "Critério",
+      "transpose" : "Transpor",
+      "fields" : "Campos",
+      "extract" : "Extrair",
+      "field" : "Campo",
+      "type" : "Tipo",
+      "format" : "Formato",
+      "position" : "Posição",
+      "length" : "Tamanho do campo",
+      "header" : "Cabeçalho",
+      "modal" : {
+        "title" : "Seção",
+        "table" : "Tabela",
+        "section" : "Seção",
+        "transpose" : "Transpor"
+      },
+      "modalField" : {
+        "title" : "Campo",
+        "extract" : "Extrair",
+        "field" : "Campo",
+        "type" : "Tipo",
+        "format" : "Formato",
+        "header" : "Cabeçalho",
+        "position" : "Posição",
+        "length" : "Tamanho do campo",
+        "combo.extractType.D" : "Campo",
+        "combo.extractType.F" : "Função",
+        "combo.extractType.C" : "Constante",
+        "combo.extractType.S" : "Data do Sistema",
+        "formatNumberTypes.v.description" : "Virtual",
+        "formatNumberTypes.0.description" : "Sem decimal",
+        "formatNumberTypes.1.description" : "Um decimal",
+        "formatNumberTypes.2.description" : "Dois decimais",
+        "formatNumberTypes.3.description" : "Três decimais",
+        "formatNumberTypes.4.description" : "Quatro decimais",
+        "formatNumberTypes.5.description" : "Cinco decimais",
+        "formatNumberTypes.6.description" : "Seis decimais",
+        "formatNumberTypes.7.description" : "Sete decimais",
+        "formatNumberTypes.8.description" : "Oito decimais",
+        "formatNumberTypes.9.description" : "Nove decimais",
+        "formatDateTypes.0.description" : "yymmdd",
+        "formatDateTypes.1.description" : "yymmdd hh:24:mi:ss",
+        "formatDateTypes.2.description" : "yyyymmdd",
+        "formatDateTypes.3.description" : "yyyymmdd hh:24:mi:ss",
+        "formatDateTypes.4.description" : "ddmmyy",
+        "formatDateTypes.5.description" : "ddmmyy hh:24:mi:ss",
+        "formatDateTypes.6.description" : "ddmmyyyy",
+        "formatDateTypes.7.description" : "ddmmyyyy hh:24:mi:ss",
+        "formatDateTypes.8.description" : "dd-mm-yyyy",
+        "formatDateTypes.9.description" : "dd-mm-yyyy hh:24:mi:ss",
+        "formatDateTypes.A.description" : "dd-Mon-yyyy",
+        "formatDateTypes.B.description" : "dd-Mon-yyyy hh:24:mi:ss",
+        "formatDateTypes.C.description" : "mmddyy",
+        "formatDateTypes.D.description" : "mmddyy hh24:mi:ss",
+        "formatDateTypes.E.description" : "mmddyyyy",
+        "formatDateTypes.F.description" : "mmddyyyy hh24:mi:ss",
+        "formatStringTypes.L.description" : "Alinhado a esquerda",
+        "formatStringTypes.R.description" : "Alinhado a direita"
+      },
+      "error" : {
+        "section.add.sectionExist" : "O número da seção já existe",
+        "section.add.tableExist" : "A tabela já existe em outra seção",
+        "section.add.unmatchedCriteria" : "A pesquisa não produziu resultados",
+        "section.add.validationCriteria" : "Os critérios são inválidos"
+      }
+    }
+  },
+  "scoreType" : {
+    "search.title" : "Cyber Score > Vista Principal",
+    "tableName" : "Nome",
+    "description" : "Descrição"
+  },
+  "scoreGroup" : {
+    "title" : "Cyber Score > {{value}} > Editar vista por grupo",
+    "acctGrp" : "Grupo",
+    "acctGrpDesc" : "Descrição"
+  },
+  "scoreGroupAdd" : {
+    "title" : "Cyber Score > {{value}} > Incluir grupo",
+    "acctGrp" : {
+      "label" : "* Grupo: ",
+      "required" : "Escolha um grupo"
+    },
+    "fromAcctGrp" : {
+      "label" : "Copiar desde: ",
+      "required" : "Escolha um grupo para copiar"
+    },
+    "new" : "Novo",
+    "copy" : "Copiar",
+    "service" : {
+      "insert.ok" : "O grupo foi criado com sucesso"
+    }
+  },
+  "scoreGraphEdit" : {
+    "title" : "Cyber Score > Editar {{value1}} > Grupo {{value2}}",
+    "save.ok" : "A rede de decisão foi salva com sucesso",
+    "warning.levelNochild" : "A variável {{value}} não tem nenhum teste",
+    "warning.testNochild" : "Variável {{value2}} Prova {{value1}} não tem nenhuma condição",
+    "warning.levelNoConn" : "A variável {{value}} não está conectada",
+    "warning.invalidOperatorsInScore" : "Não combine os operadores na função Score",
+    "warning.invalidBracketsInScore" : "Não combine os parênteses na função Score",
+    "warning.invalidFunctionInScore" : "Os valores da função de Score são inválidos",
+    "warning.isACycle" : "Não é possível conectar a variável, será um  looping",
+    "warning.nxl.sameNextl" : "Não é possível conectar-se ao mesmo nível",
+    "warning.nxl.sameLevel" : "Não pode se conectar a si mesmo, será um looping",
+    "warning.nxl.outRange" : "A próxima variável deve ser um inteiro entre 2 e 99999",
+    "warning.chl.sameLevel" : "A mesma variável não pode ser renomeada",
+    "warning.chl.outRange" : "A próxima variável deve ser um inteiro entre 2 e 99999",
+    "warning.chl.liexist" : "A variável já está em uso",
+    "warning.invalidQueue" : "{{value}} inválida",
+    "warning.invalidPercentage" : "Porcentagem inválida",
+    "warning.required" : "Campo obrigatório",
+    "warning.noDBColumn" : "O campo não está definido no columnupd",
+    "warning.fieldDateSameField1" : "O campo deve ser do tipo de data como o campo 1\n",
+    "warning.fieldDate" : "Campo deve ser uma data(YYYYMMDD)",
+    "warning.fieldStringSameField1" : "Campo deve ser tipo texto como o campo 1",
+    "warning.fieldNumberSameField1" : "Campo deve ser tipo numérico como o campo 1",
+    "warning.fieldNumber" : "Campo deve ser numérico",
+    "warning.fieldInvalid" : "O campo tem um formato inválido"
+  },
+  "scoreGraph" : {
+    "selectionLevel" : "Variável de seleção",
+    "level" : "Variável ",
+    "test" : "Teste",
+    "condition" : "Condição",
+    "newLevel" : "Esta é uma nova variável",
+    "newTest" : "Este é um novo teste",
+    "nextLevel" : "Próximo nível",
+    "copyOf" : "Copiado de",
+    "defaultLevelComment" : "Adicionar descrição da variável",
+    "defaultTestComment" : "Adicionar descrição do teste",
+    "description" : "Descrição",
+    "functionDetail" : "Definir função:\n",
+    "levelDetail" : "Detalhe da variável\n",
+    "testDetail" : "Detalhe do teste: ",
+    "conditionTitle" : "Detalhe da condição: ",
+    "field1" : "Campo 1: ",
+    "operator" : "Operador: ",
+    "field2" : "Campo 2: ",
+    "field2Flag" : "Tipo: ",
+    "field3" : "Campo 3: ",
+    "field3Flag" : "Tipo: ",
+    "orFlag" : "OU:",
+    "value" : "Valor",
+    "database" : "Base Dados",
+    "functionTitle" : "Função",
+    "levelTitle" : "Variável",
+    "queue" : "Pontuação",
+    "dummy" : ""
+  },
+  "agencyCatalog" : {
+    "search.title" : "Agências > Pesquisar",
+    "new.title" : "Catálogo de Agências > Novo",
+    "view.title" : "Catálogo de Agências > Editar",
+    "agencyId" : "Agência",
+    "parentAgency" : "Agência mãe",
+    "agencyName" : "Nome da Agência",
+    "companyName" : "Nome da empresa",
+    "status" : {
+      "label" : "Status",
+      "active" : "Ativa",
+      "inactive" : "Inativa"
+    },
+    "taxId" : "Imposto",
+    "agencyType" : "Tipo de Agência",
+    "error" : {
+      "isDuplicate" : "Essa Agência já existe.",
+      "inUseBy" : {
+        "decisionNetwork" : "Não foi possivel completar a solicitação. A Agência está sendo usada pela rede de decisão de Agências nivel: {{level}}",
+        "agencyDistribution" : "Não foi possivel completar a solicitação. A Agência já está sendo utilizado por outro método:  Distribuição por filas de trabalho: {{queue}}",
+        "agencyDistributionPercentage" : "Não foi possivel completar a solicitação. A Agência já está sendo utilizado por outro método:  Distribuição de Agências por Fila de trabalho %: {{queue}}",
+        "agencyCoverage" : "Não foi possivel completar a solicitação. A Agência já está sendo utilizado por outro método:  Agência/Cobertura: {{coverage}}",
+        "agencySegment" : "Não foi possivel completar a solicitação. A Agência já está sendo utilizado por outro método:  Agência/Segmento: {{segment}}",
+        "agencySegmentCapacity" : "Não foi possivel completar a solicitação. A Agência já está sendo utilizado por outro método: Capacidades por Agência/Segmento: {{segment}}",
+        "childAgency" : "Não foi possivel completara solicitação. A Agência é mãe de uma outra Agência."
+      }
+    },
+    "tab.commission" : {
+      "title" : "Comissionamento",
+      "distribution" : "Distribuição",
+      "commissionDays" : "Dias de comissionamento",
+      "currentCommission" : "Comissionamento atual",
+      "previousCommission" : "Comissionamento prévio",
+      "sendAnalyticFile" : "Enviar arquivo analítico",
+      "commissioned" : "Já comissionado",
+      "bank" : "Banco",
+      "bankId" : "Número do Banco",
+      "bankAgency" : "Agência bancária",
+      "accountNumber" : "Número da conta corrente",
+      "accountDescription" : "Descrição",
+      "leveled" : "Nivelado",
+      "percentBased" : "Baseado em percentual"
+    }
+  },
+  "fileUploadDownload" : {
+    "progressLabel" : {
+      "upload" : "Upload do arquivo",
+      "processing" : "Processando",
+      "finished" : "Finalizado"
+    },
+    "validation" : {
+      "uploadExceedMaxSize" : "Tamanho máximo de arquivo permitido: {{maxSizeValue}}",
+      "uploadInvalidFileExtension" : "A extensão do arquivo deve ser .{{validExtensionsFile}}",
+      "emptyFile" : "O arquivo não deve estar em branco"
+    },
+    "uploadSuccess" : "Upload finalizado com sucesso",
+    "startProcessing" : "Processando o arquivo",
+    "processingSuccess" : "Arquivo processado com sucesso",
+    "uploadError" : "Erro ao carregar o arquivo",
+    "processingError" : "Erro no processamento de arquivo",
+    "duplicateFile" : "Outro tipo de arquivo com o mesmo nome já existe"
+  },
+  "leadAccountCriteria" : {
+    "view" : {
+      "title" : "Critérios de conta Principal  >  Editar",
+      "agencyCriteria" : "Critérios de Agência",
+      "criteria1" : "Critério 1",
+      "criteria2" : "Critério 2",
+      "criteria3" : "Critério 3",
+      "groupHierarchy" : "Prioridade de grupo",
+      "segmentationCriteria" : "Critérios de segmentação",
+      "groupName" : "Grupo",
+      "order" : {
+        "asc" : "Crescente",
+        "desc" : "Decrescente"
+      },
+      "errors" : {
+        "groupAlreadyInGrid" : "O grupo já existe na tabela",
+        "oneGroup" : "Pelo menos um grupo é necessário"
+      }
+    }
+  },
+  "court" : {
+    "search.title" : "Tribunal > Pesquisar",
+    "new.title" : "Tribunal > Incluir",
+    "view.title" : "Tribunal > Editar",
+    "courtId" : "Id de Tribunal",
+    "courtName" : "Nome",
+    "courtAddress1" : "Endereço",
+    "courtAddress2" : "Comarca",
+    "courtCity" : "Cidade",
+    "courtZip" : "Código Postal",
+    "courtState" : "Estado",
+    "courtCountry" : "País",
+    "courtContactName" : "Nome do contato",
+    "courtPhone1" : "Telefone",
+    "courtPhone2" : "Telefone 2",
+    "courtEmail" : "E-Mail",
+    "courtUrl" : "URL"
+  },
+  "document" : {
+    "fileMemoryAddress" : "Nome",
+    "description" : "Descrição",
+    "lastDate" : "Última modificação",
+    "collector" : "Gestor",
+    "status" : "Status"
+  },
+  "caseType" : {
+    "search.title" : "Tipo de ação judicial e etapa processual > Pesquisar",
+    "new.title" : "Tipo de ação judicial e etapa processual> Incluir",
+    "view.title" : "Tipo de ação judicial e etapa processual> Editar",
+    "caseType" : "Tipo de ação  judicial",
+    "description" : "Descrição",
+    "validateStages" : "Validação de etapas",
+    "workflowId" : "Fluxo de trabalho padrão",
+    "error.relatedCases.required" : "Pelo menos uma etapa é necessária",
+    "caseStageDefinition" : {
+      "modal.title" : "Adicionar definição de palco",
+      "legend" : "Etapa",
+      "caseType" : "Tipo de processo judicial",
+      "stageId" : "Id Etapa",
+      "subType" : "Sub Tipo",
+      "order" : "Ordem",
+      "description" : "Descrição",
+      "maxAmount" : "Quantidade máxima",
+      "durationDays" : "Duração",
+      "lawyerAlertDays" : "Dias para Alertar Advogado Litigante",
+      "supervisorAlertDays" : "Dias para Alertar Advogado Supervisor",
+      "openingPriorDays" : "Dias anteriores a data do sistema",
+      "closingAfterDays" : "Dias após a data do sistema",
+      "error.caseStage.duplicated" : "Descrição de Etapa Duplicada"
+    }
+  },
+  "collectorWorkQueue" : {
+    "edit.title" : "Atribuição de Gestores / filas de trabalho",
+    "collector.id" : "ID Gestor",
+    "name" : "Nome",
+    "queue" : "Fila de trabalho",
+    "group" : "Grupo",
+    "description" : "Descrição",
+    "nextStep" : "Próximo",
+    "previousStep" : "Anterior",
+    "selectCollectorToUpdate" : {
+      "description" : "Escolha o Gestor para atualizar",
+      "step" : "Passo 1"
+    },
+    "selectWorkQueues" : {
+      "description" : "Adicionar fila de trabalho",
+      "step" : "Passo 2",
+      "tab1.title" : "Gestor",
+      "tab2.title" : "Filas de trabalho"
+    },
+    "modal.title" : "Incluir filas de trabalho"
+  },
+  "workQueueCollector" : {
+    "view.title" : "Fila de trabalho / Gestores",
+    "grid.queues" : "Filas de trabalho",
+    "grid.collectorsAssociated" : "Gestores Associados com a fila de trabalho: {{queue}}",
+    "queues.grid.columns" : {
+      "group" : "Grupo",
+      "queue" : "Fila de trabalho",
+      "desc" : "Descrição"
+    },
+    "grid.collAssociated" : {
+      "revision" : "Revisão",
+      "autoMode" : "Modo automático",
+      "collId" : "Gestor",
+      "collName" : "Nome"
+    },
+    "error.notSaved" : "As alterações não foram realizadas. Está seguro para modificar a fila de  trabalho?",
+    "error.invalidAutoQueues" : "A fila de trabalho automática necessita de permissão para revisão"
+  },
+  "highRiskArea" : {
+    "title" : "Áreas de Alto Risco",
+    "description" : "Nome",
+    "modalEdit.title" : "Área de Alto Risco",
+    "areas" : "Áreas",
+    "grid.center" : "Centro",
+    "success" : "O elemento Áreas de Alto Risco foi atualizado com sucesso.",
+    "error" : {
+      "duplicateArea" : "Já existe uma área com esse nome.",
+      "fail.minAreaPoints" : "Pelo menos 3 pontos são necessários para definir uma área.",
+      "fail.uniqueAreaPoints" : "Ocorreu um erro ao executar o serviço, a sequência não pode ser duplicada."
+    }
+  },
+  "capacityAgencySegment" : {
+    "search.title" : "Capacidades por agência / Segmento> Pesquisa",
+    "view.title" : "Capacidades por agência / Segmento> Editar",
+    "upload.title" : "Capacidades por agência / Segmento> Carregar arquivo",
+    "capacities.title" : "Capacidades",
+    "capacity.title" : "Capacidade Máxima {{coverageValue}}",
+    "group" : "Grupo",
+    "agency" : "Agência",
+    "agencyName" : "Nome da Agência",
+    "segment" : "Segmento",
+    "coverage" : "Cobertura",
+    "capacity" : "Capacidade",
+    "fileUpload" : "Carregar arquivo",
+    "file" : "Arquivo:",
+    "file.placeholder" : "Escolha um arquivo",
+    "fileUploadSummary" : "Resumo da carga de arquivos",
+    "file.totalRecord" : "Total de registros:",
+    "file.processedRecords" : "Registros processados:",
+    "file.rejectedRecords" : "Registros rejeitados:"
+  },
+  "capacityCollectorSegment" : {
+    "search.title" : "Capacidades por Gestor / Segmento > Pesquisar",
+    "view.title" : "Capacidades por Gestor / Segmento > Editar",
+    "upload.title" : "Capacidades por Gestor / Segmento > Carregar arquivo",
+    "capacities.title" : "Capacidades",
+    "capacity.title" : "Capacidade máxima {{coverageValue}}",
+    "group" : "Grupo",
+    "collector" : "Gestor",
+    "collectorName" : "Nome do Gestor",
+    "segment" : "Segmento",
+    "coverage" : "Cobertura",
+    "capacity" : "Capacidade",
+    "fileUpload" : "Carregar arquivo",
+    "file" : "Arquivo ",
+    "file.placeholder" : "Escolha um arquivo",
+    "fileUploadSummary" : "Resumo de upload de arquivo",
+    "file.totalRecord" : "Total de registros:",
+    "file.processedRecords" : "Registros processados:",
+    "file.rejectedRecords" : "Registros rejeitados:"
+  },
+  "agenciesByQueue" : {
+    "search.title" : "Atribuição de filas de trabalho a Agências> Pesquisar",
+    "new.title" : "Atribuição de filas de trabalho a Agências > Incluir",
+    "view.title" : "Atribuição de filas de trabalho a Agências > Editar",
+    "modal.title" : "Escolha a Agência",
+    "legend" : "Agências",
+    "group" : "Grupo",
+    "queue" : "Fila de trabalho",
+    "agencyId" : "Id Agência",
+    "agencyName" : "Nome da Agência",
+    "sequence" : "Sequencial",
+    "maxAccounts" : "Número máximo de contas",
+    "percentage" : "Percentual",
+    "error.agency.duplicated" : "Já existe um registro com essa Agência",
+    "error.agency.atLeastOneRequired" : "É encessario pelo menos uma Agência",
+    "error.agency.percentageNotValid" : "A soma de todas as percentagens deve ser de 100%",
+    "percentageTitle" : {
+      "search.title" : "Atribuição de filas de trabalho de trabalho aAgências(%) > Pesquisar",
+      "new.title" : "Atribuição de filas de trabalho de trabalho a Agências (%) > Incluir",
+      "view.title" : "Atribuição de filas de trabalho de trabalho a Agências (%) > Editar"
+    }
+  },
+  "agencyCoverage" : {
+    "search.title" : "Catálogo Agências/ Cobertura",
+    "group" : "Grupo",
+    "agency" : "Agência",
+    "btn.select" : "Escolher",
+    "error" : {
+      "emptyGroup" : "Não há informação para o grupo informado",
+      "notSaved" : "Qualquer alteração sem salvar será perdida. Você quer continuar?",
+      "noAgencies" : "Nenhuma Agência, processo de atualização cancelado",
+      "noAgenciesCoverage" : "Não há cobertura, processo de atualiação cancelado",
+      "noAgenciesSegment" : "Nenhum segmento, processo de atualização cancelado"
+    }
+  },
+  "agencySegment" : {
+    "search.title" : "Catálogo Agência / Segmento"
+  },
+  "segmentation" : {
+    "pageTitle" : "Segmentação por Filas de trabalho > Pesquisar",
+    "queue" : "Fila de trabalho atribuída",
+    "numberOfAccounts" : "Quantidade de contas",
+    "delinquentAmount" : "Valor de atraso",
+    "balance" : "Saldo Total"
+  },
+  "manualAssignment" : {
+    "byFile" : {
+      "title" : "Distribuição Manual > Por Arquivo",
+      "file" : "Arquivo: ",
+      "button.placeholder" : "Escolher um arquivo",
+      "fileUpload" : "Upload de arquivo",
+      "summary" : {
+        "title" : "Resumo do arquivo",
+        "export" : "Exportar Arquivo",
+        "total" : "Total de contas:",
+        "assignable" : "Contas atribuíveis",
+        "nonAssignable" : "Contas não atribuíveis: "
+      }
+    },
+    "byCriteria" : {
+      "title" : "Distribuição Manual > Por critérios",
+      "newAgency" : "Agência destino",
+      "collector" : {
+        "newCollector" : "Novo gestor",
+        "placeholder" : "Gestor"
+      },
+      "accountsProcessed" : "Contas processadas",
+      "criteriaSubgrid" : {
+        "title" : "Critérios"
+      },
+      "resultsSubgrid" : {
+        "title" : "Resultados de pesquisa:",
+        "reassign" : "Reatribuir",
+        "group" : "Grupo",
+        "account" : "Conta",
+        "balance" : "Saldo",
+        "currentAgency" : "Agência atual",
+        "currentCollector" : "Gestor atual",
+        "customer" : "Cliente",
+        "name" : "Nome",
+        "days" : "Dias de atraso",
+        "totalAccounts" : "Total de contas",
+        "totalBalance" : "Saldo Total"
+      },
+      "error" : {
+        "trailingAndOr" : "E/OU inválido na ultima restrição",
+        "unmatchedParenthesis" : "Parêntese está faltando",
+        "multipleUdaTable" : "Não é possível escolher mais de uma tabela da UDA",
+        "functionCodeNotExist" : {
+          "forAllRecords" : "Impossível reatribuir. O código da função '{{functionCode}}' não existe para os grupos selecionados",
+          "forSomeRecords" : "O código de função '{{functionCode}}' não existe para alguns dos grupos selecionados. Esses grupos não serão incluídos"
+        }
+      }
+    }
+  },
+  "letterConfiguration" : {
+    "search.title" : "Configuração de Carta > Pesquisar",
+    "module" : "Módulo",
+    "letterCode" : "Código de carta",
+    "group" : "Grupo",
+    "createTitle" : "Configuração de Carta > Incluir",
+    "editTitle" : "Configuração de Carta > Editar",
+    "relatedFiles" : "Arquivos relacionados",
+    "insert.fail.pk" : "Uma configuração para este módulo, grupo e código já existe.",
+    "label.fileName" : "Nome do arquivo",
+    "fileName" : "Nome do arquivo",
+    "file.placeholder" : "Escolher um arquivo"
+  },
+  "collectorCoverage" : {
+    "search.title" : "Catálogo de Gestores / Cobertura",
+    "group" : "Grupo",
+    "collector" : "Gestor",
+    "error" : {
+      "emptyGroup" : "Não há informação para o grupo",
+      "notSaved" : "Qualquer alteração sem salvar será perdida. Você quer continuar?",
+      "noAgencies" : "Nenhuma Agência, processo de atualização será cancelado",
+      "noAgenciesCoverage" : "Não há cobertura, processo de atualização será cancelado",
+      "noAgenciesSegment" : "Nenhum segmento, processo de atualização será cancelado"
+    }
+  },
+  "collectorSegment" : {
+    "search.title" : "Catálogo De Gestor / Segmento"
+  },
+  "collectorByQueue" : {
+    "search.title" : "Atribuição de Filas de trabalho a Gestores (%) > Pesquisar",
+    "new.title" : "Atribuição de Filas de trabalho a Gestores (%) > Incluir",
+    "view.title" : "Atribuição de Filas de trabalho a Gestores (%) > Editar",
+    "collectorId" : "Id Gestor",
+    "collectorName" : "Nome do Gestor",
+    "maxAccounts" : "Número máximo de contas",
+    "sequence" : "Sequência",
+    "percentage" : "Percentual",
+    "queue" : "Fila de trabalho",
+    "group" : "Grupo",
+    "modal.title" : "Escolher Gestor",
+    "legend" : "Gestores",
+    "error.collector.duplicated" : "Já existe um registro com esse gestor",
+    "error.collector.atLeastOneRequired" : "Pelo menos um gestor é requirido",
+    "error.percentageNotValid" : "A soma de todos os percentuais deve ser 100%"
+  },
+  "typeOfAgreement" : {
+    "search.title" : "Tipos de acordos > Pesquisar",
+    "new.title" : "Tipos de acordos > Novo",
+    "edit.title" : "Tipos de acordos > Editar",
+    "agreementType" : "Tipo de acordo",
+    "group" : "Grupo",
+    "name" : "Nome",
+    "order" : "Ordem",
+    "numberOfWaivedPayments" : "Número de pagamento dispensados",
+    "numberOfFulfilledPayments" : "Número de pagamentos cumpridos",
+    "minimumDelinquentDays" : "Min. Dias de atraso",
+    "maximumDelinquentDays" : "Max. Dias de atraso",
+    "numberOfUnpaidPaymentsToBreakAgreement" : "Número de pagamentos não cumpridos",
+    "validStartPeriod" : "Data inical do período ",
+    "endDate" : "Data final do período",
+    "fulfilledNumberOfPaymentsForHostNotification" : "Quando não se cumpram “N\" pagamentos",
+    "periodicNotification" : "Notificação periódica",
+    "graceDays" : "Dias de carência",
+    "graceDaysInterestRate" : "Taxa de juros do período de carência",
+    "interestPaymentType" : "Tipo de pagamento de juros",
+    "interestRate" : "Taxa de juros",
+    "interestVat" : "Impostos  (%)",
+    "maximumDaysForInitialPayment" : "Máximo de dias para o pagamento inicial",
+    "maximumDaysForFinalPayment" : "Máximo de dias para o pagamento final",
+    "minimumPercentageApplied" : "% Mínimo para a entrada",
+    "maximumPercentageApplied" : "% Máximo para entrada",
+    "minimumInitialPayment" : "Pagamento mínimo da entrada",
+    "maximumNumberOfPayments" : "Quantidade máxima de pagamentos",
+    "validFrequency" : "Periodicidade de pagamentos",
+    "showInCyberSelfCure" : "Disponivel CyberSelfServe",
+    "cyberSelfCureMonthlyPeriods" : "Períodos mensais",
+    "addCollector" : "Incluir gestor",
+    "description.title" : "Descrição",
+    "arrears.title" : "Atrasos",
+    "hostSystemNotification.title" : "Notificação ao sistema Legado",
+    "interests.title" : "Juros",
+    "payment.title" : "Pagamento",
+    "cyberSelfCure.title" : "CyberSelfServe",
+    "invalidMonthlyPeriodAscendingOrder" : "Os números devem estar em ordem crescente",
+    "invalidMonthlyPeriodSyntax" : "Os números devem estar separados por vírgulas",
+    "invalidMonthlyPeriodRange" : "Os números devem estar no intervalo (0 a 999999)",
+    "validStartPeriodAfterEndDate" : "A data de início não pode ser posterior à data final",
+    "endDateBeforeValidStartPeriod" : "A data final não pode ser antes da data de início",
+    "periodicity.daily" : "Diária",
+    "periodicity.weekly" : "Semanal",
+    "periodicity.fortnightly" : "Quinzenal",
+    "periodicity.monthly" : "Mensal",
+    "interestPaymentTypes.noInterest" : "Sem juros",
+    "interestPaymentTypes.fixedRate" : "Taxa fixa",
+    "interestPaymentTypes.increasingRate" : "Taxa Incremental",
+    "interestPaymentTypes.decreasingRate" : "Taxa Redução",
+    "error.delinquentDays.minimum" : "O valor selecionado não pode ser maior que o número máximo de dias de atraso",
+    "error.delinquentDays.maximum" : "O valor selecionado não pode ser menor que o número mínimo de dias de atraso\n",
+    "error.percentage.minimum" : "% Mínimo aplicado não pode ser maior que o máximo% aplicado",
+    "error.percentage.maximum" : "% Máximo aplicado não pode ser menor que o mínimo%  aplicado",
+    "showGroupUpdate.modal.title" : "Os campos de desconto já foram capturados",
+    "showGroupUpdate.modal.message" : "Qualquer alteração no grupo eliminará todos os registros nos campos de desconto. Você quer continuar?",
+    "validFrequency.error": "É necessário pelo menos uma frequência válida",
+    "validQueue" : {
+      "subgridTitle" : "Filas de trabalho válidas",
+      "modalTitle" : "Fila de trabalho",
+      "grid.queue" : "Fila de trabalho",
+      "dropdown.queue" : "Fila de trabalho",
+      "error.alreadyInGrid" : "A mesma fila de tralho já existe",
+      "error.required" : "É necessário pelo menos uma fila de trabalho válida"
+    },
+    "discountField" : {
+      "legend.title" : "Campos de desconto",
+      "modal.title" : "Campos de desconto",
+      "field" : "Campo",
+      "fieldName" : "Nome do campo",
+      "discount1" : "Desconto 1",
+      "discount2" : "Desconto 2",
+      "discount3" : "Desconto 3",
+      "discount4" : "Desconto 4",
+      "discount5" : "Desconto 5",
+      "discount6" : "Desconto 6",
+      "calculation" : "Cálculo",
+      "applicationOrder" : "Ordem de aplicação",
+      "error" : {
+        "alreadyInGrid" : "O mesmo campo de desconto já existe",
+        "required" : "É necessário ao menos um campo de desconto",
+        "lessThanPreviousField" : "O valor do desconto é menor que o valor prévio de desconto"
+      }
+    },
+    "collector" : {
+      "search.title" : "Tipos de acordo > Gestores",
+      "name" : "Nome do acordo",
+      "agreementType" : "Tipo de acordo",
+      "collectors" : "Gestores",
+      "collector" : "Gestor",
+      "facultyLevel" : "Nível de alçada",
+      "modal" : {
+        "delete" : "Está seguro de eliminar esta fila?",
+        "title" : "Gestor"
+      }
+    }
+  },
+  "auditLog" : {
+    "search.title" : "Registro de auditoría > Pesquisar",
+    "new.title" : "Registro de auditoría > Incluir",
+    "view.title" : "Registro de auditoría > Ver",
+    "path" : "Trilha",
+    "method" : "Método",
+    "date" : "Data",
+    "user" : "Gestor",
+    "ip" : "IP",
+    "record" : "Registro",
+    "legend" : "Resumo",
+    "error.notValidSearchDateOperation" : "O filtro de data não pôde ser aplicado",
+    "error.notValidFilters" : "Os filtros não puderam ser aplicados, há um ou mais erros nos filtros"
+  },
+  "transfer" : {
+    "supervisorReview" : {
+      "search.title" : "Revisão do supervisor"
+    },
+    "clerkReview" : {
+      "search.title" : "Revisão do auxiliar"
+    },
+    "group" : "Grupo",
+    "account" : "Conta",
+    "customer" : "Cliente",
+    "name" : "Nome",
+    "queue" : "Fila de trabalho",
+    "sequence" : "Sequência",
+    "product" : "Produto",
+    "delinquencyDays" : "Dias de atraso",
+    "balance" : "Saldo"
+  },
+  "welcome" : "Bem-vindo",
+  "letterQueues" : {
+    "search.title" : "Filas de trabalho de cartas > pesquisar",
+    "new.title" : "Filas de trabalhi de cartas > incluir",
+    "view.title" : "Filas de trabajo de cartas > Ver",
+    "queue" : "Fila de trabalho",
+    "collector" : "Gestor",
+    "sendTo" : "Enviar a",
+    "waitingDays" : "Dias de espera",
+    "letterCode" : "Código de carta",
+    "group" : "Grupo",
+    "comment" : "Comentários",
+    "letterType" : "Tipo de carta",
+    "letterType.blank" : "",
+    "letterType.pdf" : "PDF",
+    "letterType.text" : "Texto",
+    "create.fail" : "Uma linha de trabalho de carta já existe para esse grupo, linha de trabalho, código de ação, código de resultado, código de letra."
+  },
+  "languages" : {
+    "enGB" : "Inglês (GB)",
+    "enUS" : "Inglês (US)",
+    "spMX" : "Espanhol (MX)",
+    "ptBR" : "Português (BR)"
+  },
+  "emailCampaign" : {
+    "search.title" : "Campanhas de E-Mail > Pesquisar",
+    "new.title" : "Campanhas de E-Mail > Incluir",
+    "view.title" : "Campanhas de E-Mail > Editar",
+    "emailCampaignId" : "Id",
+    "emailCampaignGroup" : "Grupo",
+    "emailCampaignName" : "Campanha",
+    "emailCampaignStatus" : "Estado",
+    "emailCampaignDate" : "Data",
+    "emailCampaignFrequency" : "Frequência",
+    "emailCampaignTemplate" : "Template",
+    "emailCampaignLettercode" : "Código de Carta",
+    "emailCampaignInsertAction" : "Incluir atividade",
+    "criteria" : {
+      "field" : "Campo",
+      "operator" : "Operador",
+      "value" : "Valor",
+      "andOr" : "E/OU"
+    },
+    "status" : {
+      "active" : "Ativo",
+      "inactive" : "Inativo"
+    },
+    "frequency" : {
+      "daily" : "Diário",
+      "weekly" : "Semanal",
+      "monthly" : "Mensal"
+    },
+    "action" : {
+      "sent" : "Enviados",
+      "read" : "Lidos",
+      "errors" : "Com Erro"
+    },
+    "day" : "Dia",
+    "error" : {
+      "isRequiredAtLeastOneCriteria" : "É requirido pelo menos um critério de pesquisa",
+      "brackets" : "Falta parenteses",
+      "trailingAndOr" : "E/OU inválido no último critério",
+      "notSaved" : "Toda a informação relativa ao grupo será reestabelcida. Isso inclui código de carta, critérios de pesquisa e template CyberFields. Deseja continuar?",
+      "notFound" : "Ao exportar estatísticas, não foi encontrada a campanha de E-mail.",
+      "group" : "É necessário escolher um grupo",
+      "template" : "O template não deve estar vazia",
+      "accountNotFound" : "Conta com e-mail não encontrado",
+      "sendEmail" : "Erro ao enviar e-mail",
+      "imageNotFound" : "Imagem para e-mail não encontrado",
+      "parametersNotFound" : "Parâmetros para e-mail no encontrados"
+    },
+    "template" : "Template",
+    "cyberfield" : {
+      "title" : "CyberFinancial Field",
+      "field" : "Campo",
+      "format" : "Formato",
+      "formattype" : {
+        "noformat" : "Sem formato",
+        "currency" : "Moeda",
+        "number" : "Número",
+        "shortdate" : "Data curta",
+        "longdate" : "Data longa",
+        "shortdatewithtime" : "Data curta com hora"
+      }
+    },
+    "cyberImage" : {
+      "title" : "CyberFinancial  buscar arquivo",
+      "fileSection" : "Seção de arquivo",
+      "preview" : "Pré-vizualização",
+      "check" : "Escolher",
+      "label.fileName" : "Nome do arquivo",
+      "file.placeholder" : "Escolher um arquivo",
+      "insert.fail.pk" : "Este arquivo já existe",
+      "fail.filename" : "Erro ao incluir o arquivo"
+    },
+    "statistics" : {
+      "title" : "Campanha de e-mail > Estatisticas",
+      "date" : "Data",
+      "total" : "Enviados",
+      "delivered" : "Entregues",
+      "read" : "Lidos",
+      "errors" : "Não lidos"
+    },
+    "testSectionModal" : {
+      "id" : "Id",
+      "campaign" : "Campanha",
+      "group" : "Grupo",
+      "account" : "Conta",
+      "email" : "E-mail",
+      "send" : "Enviar",
+      "titleEmail" : "Testes de campanhas de e-mail",
+      "titleSms" : "Teste de Campanhas de SMS",
+      "success" : "Teste enviado com sucesso"
+    }
+  },
+  "constraintComponent" : {
+    "title" : "Critério de seleção",
+    "field" : "Campo",
+    "operator" : "Operador",
+    "value" : "Valor",
+    "tableField" : "Campo de tabela",
+    "and.or" : "E/OU",
+    "selectParenthesis" : "Selecionar parenteses",
+    "fieldTypeCombo.value" : "Valor",
+    "fieldTypeCombo.table" : "Campo  da tabela"
+  },
+  "jobProgress" : {
+    "progressLabel" : {
+      "processing" : "Procesando",
+      "finished" : "Finalizado",
+      "error" : "Error"
+    },
+    "startProcessing" : "Início de processo",
+    "processingSuccess" : "Processo finalizado",
+    "processingError" : "Falha no processo"
+  },
+  "smsCampaign" : {
+    "search.title" : "Campanha de SMS > Pesquisar",
+    "new.title" : "Campanha de SMS > Incluir",
+    "view.title" : "Campanha de SMS > Editar",
+    "id" : "Id",
+    "smsId" : "SMS Id",
+    "group" : "Grupo",
+    "campaignName" : "Campanha",
+    "smsCampaignStatus" : "Status",
+    "startDate" : "Data",
+    "smsCampaignFrequency" : "Frequência",
+    "campaignTemplate" : "Template",
+    "letterCode" : "Código de Carta",
+    "activity" : "Incluir atividade",
+    "day" : "Dia",
+    "status" : {
+      "active" : "Ativo",
+      "inactive" : "Inativo"
+    },
+    "action" : {
+      "sent" : "Enviado",
+      "read" : "Lido",
+      "errors" : "Erro"
+    },
+    "criteria" : {
+      "field" : "Campo",
+      "operator" : "Operador",
+      "value" : "Valor",
+      "andOr" : "E/OU"
+    },
+    "statistics" : {
+      "title" : "Campanhas de SMS > Estatísitica",
+      "date" : "Data",
+      "total" : "Enviados",
+      "delivered" : "Entregues",
+      "read" : "Lidos",
+      "errors" : "Não lidos"
+    },
+    "error" : {
+      "notFound" : "Campanha de SMS não encontrada para exportar estatísticas",
+      "accountNotFound" : "Conta não encontrada",
+      "twilioApiException" : "Ocorreu um erro de Twilio ao executar o serviço",
+      "insertingStatistics" : "Ocorreu um erro ao incluir as estatísticas"
+    },
+    "countryCode" : "Código de país",
+    "phoneNumber" : "Número de telefone"
+  },
+  "caseInformation" : {
+    "tab" : {
+      "caseStages" : "Etapas do caso",
+      "associatedAccounts" : "Contas associadas",
+      "activities" : "Atividades",
+      "collateral" : "Garantia",
+      "related" : "Agente relacionado",
+      "documents" : "Documentos"
+    },
+    "headerTitle" : "Informação do caso",
+    "commonHeader" : {
+      "caseNumber" : "Número do caso: ",
+      "caseType" : "Tipo de caso: ",
+      "plaintiff" : "Demandante: ",
+      "defendant" : "Réu",
+      "lawyer" : "Advogado",
+      "supervisorLawyer" : "Advogado Supervisor: "
+    },
+    "associatedAccounts" : {
+      "group" : "Grupo",
+      "account" : "Conta",
+      "client" : "Cliente",
+      "status" : "Status",
+      "collector" : "Gestor",
+      "supervisor" : "Supervisor",
+      "supervisorComment" : "Comentários do Supervisor",
+      "statusActive" : "conta ativa",
+      "statusReleased" : "Publicado",
+      "statusSatisfied" : "Satisfeito",
+      "statusWriteOff" : "Solicitado por escrito"
+    }
+  },
+  "agreementAuthorization" : {
+    "search.title" : "Autorização de acordo > Pesquisar",
+    "group" : "Grupo",
+    "account" : "Conta",
+    "name" : "Nome",
+    "agreementLevel" : "Nível de acordo",
+    "authorizationLevel" : "Nível de autorização",
+    "exception" : "Exceção",
+    "amountToPay" : "Valor a pagar",
+    "faculty" : "Opcional",
+    "approve" : "Aprovar",
+    "cancel" : "Cancelar",
+    "escalate" : "Escalar",
+    "modal" : {
+      "escalate" : {
+        "title" : "Autorização de acordo",
+        "confirm" : "Confirmar",
+        "cancel" : "Cancelar",
+        "label" : "Nível de alçada"
+      }
+    }
+  },
+  "agreementDetails" : {
+    "title" : "Detalhes do acordo",
+    "discount.grid" : {
+      "title" : "Desconto",
+      "field" : "Campo",
+      "amount" : "Valor",
+      "maxPercentage" : "%Máximo",
+      "discountPercentage" : "% Desconto",
+      "totalWithDiscount" : "Total de desconto"
+    },
+    "paymentSchedule.grid" : {
+      "title" : "Calendário de pagamentos",
+      "initialDate" : "Data de início",
+      "endDate" : "Dada final",
+      "interest" : "Juros ",
+      "amount" : "Valor"
+    },
+    "negotiation.fieldset" : {
+      "title" : "Negociações/Acordos",
+      "negotiationType" : "Tipo de negociação",
+      "amountToPay" : "Valor a pagar: ",
+      "status" : "Status",
+      "authorizationDate" : "Datas de autorização"
+    }
+  },
+  "agreementCancellation" : {
+    "search.title" : "Cancelamento de acordo > Pesquisar",
+    "group" : "Grupo",
+    "account" : "Conta ",
+    "name" : "Nome",
+    "exception" : "Exceção",
+    "amountToPay" : "Valor a pagar",
+    "approve" : "Aprovar",
+    "reject" : "Não aprovar"
+  },
+  "agreementCommon" : {
+    "errors" : {
+      "insufficientFacultyLevel" : "É necessário um nível de alçada maior para {{ action }} este acordo",
+      "undefinedAuthorizationLevel" : "Impossível {{ action }} acordos com um nível de autorização indefinido",
+      "insufficientFacultyForEscalation" : "Somente usúarios com um nível de alçada {{ agreementLevel }} podem escalonar um acordo com nível {{ agreementLevel }}"
+    },
+    "modalMessage" : "Está seguro de {{ action }} isto?",
+    "successMessage" : "Acordo  {{ action }} com sucesso."
+  },
+  "scriptsByQueue" : {
+    "search.title" : "Script por fila de trabalho > Pesquisar",
+    "create.title" : "Script por fila de trabalho > Novo",
+    "edit.title" : "Script por fila de trabalho > Editar",
+    "queue" : "Fila de trabalho",
+    "description" : "Descrição",
+    "error" : {
+      "exists.queue" : "Já existe um script cadastrado para essa fila de trabalho"
+    }
+  },
+  "profile" : {
+    "search.title" : "Perfil > Pesquisar",
+    "new.title" : "Perfil > Incluir",
+    "view.title" : "Perfil > Editar",
+    "id" : "Id",
+    "collid" : "Perfil",
+    "name" : "Nome",
+    "type" : "Tipo",
+    "users" : "Gestor",
+    "add" : "Incluir",
+    "userTypes" : {
+      "normal" : "Padrão",
+      "supervisor" : "Supervisor"
+    },
+    "error" : {
+      "isRequiredAtSupervisorCollector" : "Pelo menos um supervisor é requirido",
+      "isRequiredAtNormalCollector" : "Pelo menos um gestor tipo padrão é necessário"
+    },
+    "adduser" : {
+      "title" : "Incluir gestor",
+      "type" : "Tipo",
+      "user" : "Gestor",
+      "add" : "Incluir"
+    }
+  },
+  "controller" : {
+    "create.fail" : "Ocorreu um erro ao criar a tarefa de controle",
+    "update.fail" : "Ocorreu um erro ao atualizar a tarefa de  controle\n",
+    "delete.fail" : "Ocorreu um erro ao apagar a tarefa falha"
+  },
+  "workflowProcess" : {
+    "search.title" : "Processos > Pesquisar",
+    "new.title" : "Processos > Incluir",
+    "view.title" : "Procesos > Editar",
+    "id" : "Id",
+    "name" : "Nome",
+    "type" : "Tipo",
+    "profileId" : "Perfil",
+    "typeModal" : {
+      "label" : "Existem códigos de carta estabelecidos para tarefas de atividade e eles serão redefinidos, você quer alterar o tipo?"
+    },
+    "service" : {
+      "createCopy.ok" : "O registro foi copiado com sucesso"
+    },
+    "error" : {
+      "hasProcessRunning" : "Este processo está em processamento.  Deseja continuar?",
+      "hasProcessRunningEdit" : "Este processo está em processamento. Deseja salvar uma cópia do processo?"
+    },
+    "tab" : {
+      "variables" : {
+        "legend" : "Variáveis",
+        "number" : "Número",
+        "name" : "Nome",
+        "table" : "Tabela",
+        "field" : "Campo",
+        "mapToField" : "Mapear o campo",
+        "mapToFormat" : "Formato",
+        "value" : "Valor",
+        "modal.title" : "Inserir variável",
+        "modal.edit" : "Editar variável",
+        "formatType" : {
+          "text" : "Texto",
+          "ids" : "Ids",
+          "date" : "Data",
+          "timestamp" : "hora do evento",
+          "number" : "Número",
+          "decimal" : "Decimal",
+          "currency" : "Moeda"
+        },
+        "error" : {
+          "duplicated" : "Já existe um registro com esse número de variável",
+          "isUsedByForm" : "A variável esta sendo usada por um campo de um formulário. Eliminar o campo de formulário para continuar?",
+          "isUsedByDiagram" : "A variavél esta sendo utilizada por alguma tarefa de serviços no Workflow. Eliminar a variável do Workflow para continuar?",
+          "invalidSizeParameters" : "Erro ao criar os parâmetros genéricos. Tamanho do parâmetro não esperado.",
+          "mapToFieldFormat" : "O formato do campo mapeado não é correto."
+        }
+      },
+      "form" : {
+        "legend" : "Formulário",
+        "fields" : "Campos de objeto",
+        "name" : "Nome",
+        "modal" : {
+          "add" : "Inserir Objeto",
+          "edit" : "Editar Objeto",
+          "label" : "Nome"
+        },
+        "error" : {
+          "empty" : "O nome não deveria estar vazio",
+          "duplicated" : "Já existe um objeto com esse nome",
+          "isUsedByDiagram" : "O objeto está sendo utilizado por alguma tarefa de usuário no Workflow. Eliminar o objeto do Workflow para continuar?"
+        }
+      },
+      "queues" : {
+        "legend" : "Filas de trabalho",
+        "modal.title" : "Inserir filas de trabalho",
+        "modal.label" : "Filas de trabalho",
+        "error" : {
+          "duplicated" : "Já existe um registro com essa fila de trabalho",
+          "typeAssets" : "Os ativos não permitem filas de trabalho"
+        }
+      },
+      "field" : {
+        "label" : "Etiqueta",
+        "edit" : "Editar Campo",
+        "add" : "Inserir Campo",
+        "id" : "Id",
+        "tooltip" : "Dica de uso",
+        "default" : "Valor padrão",
+        "maxLength" : "Tamanho máximo",
+        "required.yes" : "Sim",
+        "required.no" : "Não",
+        "required" : "Necessário",
+        "readonly" : "Somente leitura",
+        "relatedValue" : "Lista de Valores",
+        "relatedspecialvalue" : "Lista de Valores especiais",
+        "variable" : "Variável",
+        "visualtype" : {
+          "legend" : "Formatação",
+          "textbox" : "Caixa de texto",
+          "combobox" : "Lista de Opções",
+          "numberbox" : "Número",
+          "currencybox" : "Moeda",
+          "emailbox" : "E-Mail",
+          "textarea" : "Caixa de texto",
+          "datebox" : "Data"
+        },
+        "error" : {
+          "duplicated" : "Já existe um campo de formato com esse nome"
+        }
+      },
+      "formsandqueues" : {
+        "legend" : "Formas & Filas de trabalho"
+      },
+      "diagram" : {
+        "legend" : "Workflow",
+        "details" : {
+          "label" : "Detalhes",
+          "eventStart" : "Início de Evento",
+          "eventEnd" : "Final de Evento",
+          "subtype" : "Sub Tipo",
+          "name" : "Nome",
+          "delayTimer" : "Data definida",
+          "expire" : "Expira em",
+          "gatewayInclusive" : "Inclusiva",
+          "gatewayExclusive" : "Exclusiva",
+          "gatewayParallel" : "Paralela",
+          "condition" : "Condição",
+          "script" : "Script",
+          "activityScript" : "Tarefa de script",
+          "assignPolicy" : "Política de atribuição",
+          "activityUser" : "Tarefa de usuário",
+          "activityService" : "Tarefa de serviços",
+          "sla" : "SLA",
+          "minutes" : "Minutos",
+          "deadline" : "Data limite",
+          "setParameter" : "Estabelecer Parâmetros",
+          "service" : "Serviço",
+          "parameter" : {
+            "newValue" : "Novo valor",
+            "transactionsAmount" : "Valor de transação como ",
+            "transactionCode" : "Código de transação",
+            "fixedAmount" : "Valor da transação",
+            "databaseField" : "Campo da base de dados",
+            "variableValue" : "Valor variável",
+            "decisionNetworkLabel" : "Rede de decisão",
+            "decisionNetwork" : {
+              "decisionNetwork1" : "Rede de decisão 1",
+              "decisionNetwork2" : "Rede de decisão 2",
+              "decisionNetwork3" : "Rede de decisão 3",
+              "decisionNetwork4" : "Rede de decisão 4",
+              "decisionNetwork5" : "Rede de decisão 5",
+              "decisionNetwork6" : "Rede de decisão 6",
+              "labelDecision1" : "Etiqueta Rede de decisão 1",
+              "labelDecision2" : "Etiqueta Rede de decisão 2",
+              "labelDecision3" : "Etiqueta Rede de decisão 3",
+              "labelDecision4" : "Etiqueta Rede de decisão 4",
+              "labelDecision5" : "Etiqueta Rede de decisão 5",
+              "labelDecision6" : "Etiqueta Rede de decisão 6"
+            },
+            "letterCode" : "Código de Carta"
+          },
+          "delayTimer.options" : {
+            "date" : "Data",
+            "interval" : "Intervalo"
+          },
+          "time.options" : {
+            "minute" : "Minutos",
+            "hour" : "Horas",
+            "day" : "Dias"
+          },
+          "processTypeRequired" : "Deve ser selecionado o tipo de processo para que as tarefas do serviço sejam mostradas\n",
+          "assignPolicy.options" : {
+            "profile" : "Perfil",
+            "leastTasksMember" : "Membro com menos tarefas",
+            "nextMember" : "Próximo membro"
+          }
+        },
+        "error" : {
+          "invalidNodeName" : "Nome do nó não é válido",
+          "serviceIdInvalid" : "Id do serviço não é válido para os parâmetros não genéricos",
+          "invalidEvent" : "O workflow deve ter um evento de início e um evento de finalização",
+          "invalidLinks" : "O WorkFlow deve ter uma conexão de entrada e de saída",
+          "invalidConnectEventStartEventEnd" : "O evento de início não deve conectar-se com o evento fim",
+          "invalidEventStartInputLinks" : "O evento de início não deve ter conexões de entrada",
+          "invalidEventStartOutputLinks" : "O evento de inicial deve ter pelo menos uma conexão de saída",
+          "invalidEventStartConnectGateway" : "O evento inicial não pode-se conectar com o nó Gateway",
+          "invalidEventEndInputLinks" : "O evento fim deve conter ao menos uma conexão de entrada",
+          "invalidEventEndOutputLinks" : "O evento final não deve ser conectado a nenhum nó",
+          "invalidDetailFields" : "{{nodeSubtype}}: {{nodeName}} é inválido"
+        },
+        "nonGenericParameter" : {
+          "parameterName" : "nome",
+          "parameterDataType" : "Tipo de Data",
+          "parameterType" : "Tipo de parâmetro",
+          "fieldValueForGrid" : "Campo",
+          "types" : {
+            "constant" : "Constante",
+            "databaseField" : "Campo em base de dados",
+            "function" : "Função "
+          },
+          "modalTitle" : "Parâmetro"
+        }
+      }
+    }
+  },
+  "legalDocumentsRequired" : {
+    "search.title" : "Documentos jurídicos requeridos > Pesquisar",
+    "new.title" : "Documentos jurídicos requeridos > Novo",
+    "view.title" : "Documentos jurídicos requeridos> Editar",
+    "group" : "Grupo",
+    "sequence" : "Sequência",
+    "description" : "Descrição",
+    "required" : "Requerido",
+    "documentId" : "Identificador",
+    "error" : {
+      "groupSequenceDuplicate" : "Não pode haver um grupo e sequência duplicados",
+      "groupIdentifierDuplicate" : "Não pode haver um identificador e um grupo duplicados"
+    }
+  },
+  "caseLawyerType" : {
+    "search.title" : "Casos por tipo de processo judicial e advogado > Pesquisar",
+    "supervisorLawyer" : "Advogado Supervisor",
+    "lawyer" : "Advogado litigante",
+    "caseType" : "Tipo de processo judicial",
+    "stage" : "Etapa",
+    "caseNumber" : "Processo judicial",
+    "amount" : "Valor",
+    "currency" : "Moeda",
+    "placeholder" : {
+      "supervisorLawyer" : "Advogado Supervisor",
+      "lawFirm" : "Escritório de Advocacia",
+      "lawyer" : "Advogado",
+      "externalLawyer" : "Advogado externo",
+      "caseType" : "Tipo de processo jurídico",
+      "stage" : "Etapa"
+    }
+  },
+  "expense" : {
+    "type" : "Tipo",
+    "subType" : "Subtipo",
+    "description" : "Descrição",
+    "amount" : "Valor",
+    "date" : "Data ",
+    "collector" : "Gestor",
+    "invoiceNumber" : "Nota fiscal número:",
+    "expenses" : "Gastos",
+    "number" : "Número: ",
+    "phase" : "Fase: "
+  },
+  "legalStage" : {
+    "number" : "Número",
+    "phase" : "Fase",
+    "startDate" : "Data de iníco",
+    "endDate" : "Data final",
+    "days" : "Dias"
+  },
+  "legalReview" : {
+    "search.title" : "Revisão de jurídico",
+    "group" : "Grupo",
+    "account" : "Conta",
+    "customer" : "Cliente",
+    "name" : "Nome",
+    "queue" : "Fila de trabalho",
+    "sequence" : "Sequência",
+    "product" : "Produto",
+    "delinquentDays" : "Dias de atraso",
+    "balance" : "Saldo"
+  },
+  "parametersByGroup" : {
+    "search.title" : "Parâmetros por grupo > Buscar",
+    "new.title" : "Parâmetros por grupo > Incluir",
+    "edit.title" : "Parâmetros por grupo > Editar",
+    "group" : "Grupo",
+    "lawsuitType" : "Tipo de demanda judicial",
+    "agency" : "Agência",
+    "dossierID" : "ID Expediente",
+    "error" : {
+      "lawsuitType.already.exist" : "O tipo da demanda já existe"
+    }
+  },
+  "queryCollectionProgress" : {
+    "totals" : "Totais",
+    "byQueue" : {
+      "title" : "Progressão de cobrança por fila de trabalho > Pesquisar",
+      "group" : "Grupo",
+      "queue" : "Fila de trabalho",
+      "description" : "Descrição",
+      "totalAccounts" : "Total de contas",
+      "totalAmount" : "Valor",
+      "workedAccounts" : "Contas de contas trabalhadas",
+      "workedAmount" : "Valor",
+      "workedAccountsPct" : "% Contas trabalhadas",
+      "workedAmountPct" : "% Valor",
+      "promisesToPayAccounts" : "Total de contas com promessa de pagamento",
+      "promisesToPayAmount" : "Valor",
+      "promisesToPayAccountsPct" : "% de contas com promessa de pagamento",
+      "promisesToPayAmountPct" : "% Valor",
+      "collector" : "Gestor",
+      "parentHeader" : {
+        "total" : "Total",
+        "workedAccounts" : "Contas trabalhadas",
+        "promisesToPay" : "Promessas de pagamento"
+      },
+      "lastActivity" : "Última atividade"
+    },
+    "byCollector" : {
+      "title" : "Progressão da cobança por gestor > Pesquisar",
+      "collector" : "Gestor",
+      "supervisor" : "Supervisor",
+      "lastActivity" : "Última atividade",
+      "queue" : "Fila de trabalho",
+      "total" : "Total",
+      "noAccounts" : "Número de contas",
+      "account" : "Valor",
+      "percentageAccounts" : "% contas",
+      "percentageAmount" : "% Valor",
+      "parentHeader" : {
+        "ppVSWorkedAccounts" : "Promessa de pagamento vs contas trabalhadas",
+        "workedAccounts" : "Contas trabalhadas",
+        "promisesToPay" : "Promesas de pagamento"
+      }
+    }
+  },
+  "parametersTransferQueue" : {
+    "search.title" : "Parâmetros para encaminhamento para fila de trabalho > Pesquisar",
+    "new.title" : "Parâmetros para encaminhamento para fila de trabalho > Incluir",
+    "view.title" : "Parâmetros para encaminhamento para fila de trabalho > Editar",
+    "queue" : "Fila de trabalho",
+    "legalSupervisor" : "Supervisor Legal",
+    "description" : "Descrição",
+    "collector" : "Gestor"
+  },
+  "customDropdown" : {
+    "balanceTitle" : "Saldo atual",
+    "amountTitle" : "Valor em atraso",
+    "daysTitle" : "Dias de atraso",
+    "between1" : "Entre",
+    "between2" : "e",
+    "greaterThan" : "Maior ou igual a",
+    "lessThan" : "Menor que ou igual a"
+  },
+  "asynchronousJob" : {
+    "search.title" : "Gestão de trabalho assíncrono > Buscar",
+    "jobId" : "Id",
+    "jobName" : "Nome",
+    "jobTotalRecords" : "Total",
+    "jobProcessedRecords" : "Processados",
+    "jobRejectedRecords" : "Rejeitados",
+    "jobStatusFlag" : "Status",
+    "jobUser" : "Usuário",
+    "jobCreationDate" : "Data",
+    "running" : "Processando",
+    "finished" : "Finalizado",
+    "error" : "Error",
+    "warning" : "Alerta",
+    "modal" : {
+      "title" : "Detalhe do trabalho",
+      "id" : "Id",
+      "name" : "Nome",
+      "outputFilePath" : "Rota do arquivo de saída",
+      "status" : "Status",
+      "user" : "Usuário",
+      "date" : "Data",
+      "records" : "Arquivos",
+      "total" : "Total",
+      "processed" : "Processados",
+      "rejected" : "Rejeitados"
+    }
+  },
+  "legalAlert" : {
+    "search.title" : "Alertas jurídicos > Pesquisar",
+    "filters" : "Filtros",
+    "placeHolders" : {
+      "collectors" : "Gestores",
+      "processType" : "Tipo de Processo jurídico",
+      "alertType" : "Tipo de Alerta",
+      "alertStatus" : "Status de Alerta"
+    },
+    "status" : {
+      "notReviewed" : "Não revisado",
+      "reviewed" : "Revisado"
+    },
+    "alertCreated" : "Alerta Criado",
+    "alertReviewed" : "Alerta Revisado",
+    "between" : "Entre",
+    "and" : "e",
+    "searchResults" : "Resultados de pesquisa",
+    "grid" : {
+      "status" : "Status",
+      "reviewDate" : "Data de revisão",
+      "caseNo" : "Processo",
+      "collector" : "Gestor",
+      "fileNumber" : "Expediente",
+      "supervisorLawyer" : "Advogado Supervisor",
+      "lawFirm" : "Despacho",
+      "responsibleLawyer" : "Advogado Litigante",
+      "country" : "País",
+      "court" : "Vara",
+      "alertType" : "Tipo de Alerta",
+      "defendant" : "Demandado",
+      "creationDate" : "Data de criação"
+    },
+    "modal.contentLabel" : "Está seguro que deseja marcar esse alerta jurídico como revisado?",
+    "error" : {
+      "notFound" : "Alerta jurídico não encontrada",
+      "markAsReviewed" : "Ocorreu um erro ao marcar o alerta jurídico com revisado"
+    },
+    "markAsReviewed.ok" : "Sucesso ao marcar o alerta jurídico como revisado"
+  },
+  "agenciesLookup" : {
+    "search" : {
+      "title" : "Pesquisa de agências > Pesquisar",
+      "agencyId" : "Agência",
+      "agencyName" : "Nome das agência",
+      "agencyType" : "Tipo",
+      "allocation" : "Tipo de atribuição",
+      "parentAgency" : "Agência mãe"
+    },
+    "detailsByAgency" : {
+      "list.title" : "Detalhe da agência",
+      "group" : "Grupo",
+      "account" : "Conta",
+      "customer" : "Cliente",
+      "name" : "Nome",
+      "agency" : "Agência",
+      "sequency" : "Sequência",
+      "product" : "Produto",
+      "delinquencyDays" : "Dias de atraso",
+      "balance" : "Saldo",
+      "accountsFound" : "Contas encontradas",
+      "averageDelinquencyDays" : "Média de dias de inadimplência ",
+      "assignDate" : "Data de distribuição"
+    }
+  },
+  "parametersTransferQueueCases" : {
+    "search.title" : "Parâmetros para prorrogação de filas de trabalho - Casos > Pesquisar",
+    "new.title" : "Parâmetros para prorrogação de filas de trabalho - Casos > Incluir",
+    "view.title" : "Parâmetros para prorrogação de filas de trabalho- Casos > Editar",
+    "queue" : "Filas de trabalho",
+    "legalSupervisor" : "Supervisor jurídico",
+    "description" : "Descrição"
+  },
+  "assetTypeDefinition" : {
+    "search.title" : "Definição do tipo de ativo > Pesquisar",
+    "view.title" : "Definição do tipo de ativo > Editar",
+    "assetTypeId" : "Tipo de ativo",
+    "description" : "Descrição",
+    "historicAddresses" : "Endereço anterior",
+    "new.title" : "Definição do tipo de ativo > Novo",
+    "actorsTypes" : "Tipos de Atores",
+    "userDefinedField" : {
+      "tab.title" : "Campos definidos pelo usuário",
+      "modal.title" : "Campo definido pelo usuário",
+      "name" : "Nome",
+      "label" : "Etiqueta",
+      "required" : "Requerido",
+      "associatedLov" : "LOV Associado (Lista de valores)",
+      "fieldType" : "Tipo de campo"
+    },
+    "task" : {
+      "tab.title" : "Tarefas",
+      "modal.title" : "Tarefa",
+      "description" : "Descrição",
+      "frequency" : "Frequência",
+      "maxAmount" : "Valor máximo permitido",
+      "daysToAlert" : "Dias para o alerta",
+      "responsibleActor" : "Responsável"
+    },
+    "budgetItem" : {
+      "tab.title" : "Item de orçamento",
+      "modal.title" : "Item de orçamento",
+      "item" : "Item",
+      "description" : "Descrição",
+      "frequency" : "Frequência",
+      "type" : "Tipo",
+      "amount" : "Valor",
+      "percent" : "Percentual",
+      "followUp" : "FollowUp"
+    }
+  },
+  "recoveryPackage" : {
+    "search.title" : "Lote de venda > Pesquisar",
+    "new.title" : "Lote de venda > Incluir",
+    "view.title" : "Lote de venda  > Editar",
+    "packageId" : "Lote",
+    "description" : "Descrição",
+    "creationDate" : "Data de geração",
+    "sellerId" : "Vendedor",
+    "buyerId" : "Cessionário",
+    "calculationDate" : "Data de corte",
+    "liquidationDate" : "Data de liquidação",
+    "deliveryDate" : "Data de entrega",
+    "status" : "Status lote",
+    "numberOfAccounts" : "Número de contas",
+    "amount" : "Valor:",
+    "numberOfReturnedAccounts" : "Número de contas devolvidas:",
+    "amountOfReturnedAccounts" : "Valor das contas devolvidas:",
+    "group" : "Grupo",
+    "archiveColumns" : "Coluna de arquivamento (cópia do arquivo)",
+    "accountSummary" : "Resumo de contas",
+    "archiveField" : {
+      "table" : "Tabela",
+      "column" : "Coluna",
+      "description" : "Descrição",
+      "type" : "Tipo",
+      "modal.title" : "Incluir Colunas arquivo (cópia do arquivo)",
+      "modal.edit" : "Editar Colunas Arquivo (cópia do arquivo)",
+      "modal.field" : "Campo"
+    },
+    "uploadSalePrice" : {
+      "title" : "Atualizar preço de venda"
+    },
+    "modal.changeGroup" : "Suas alterações não foram salvas. Se você alterar de \"Grupo\", a tabela de colunas será esvaziada. Deseja continuar?",
+    "modal.confirm.upload" : "O lote da conta já contém algumas contas. Se você deseja continuar, as informações anteriores serão substituídas e os arquivos e ofertas serão excluídos. Você quer continuar?",
+    "modal.wait.process" : "Você não pode fechar a janela até que o processo termine.",
+    "success.delete" : "Os dados no lote da conta foram atualizados.",
+    "warning.preventUpload" : "Você não pode atualizar o preço de venda se você não tiver informações",
+    "exportAccounts.preventExport" : "Você não pode exportar o arquivo de conta se não tiver informações",
+    "exportAccounts.fileExport" : "Arquivo baixado com sucesso",
+    "error" : {
+      "exportAccounts" : "O ID do lote não encontrou contas para exportar",
+      "archiveColumn" : {
+        "create.fail" : "Ocorreu um erro com o serviço da Columna Fotografia(cópia do arquivo)",
+        "create.save" : "Pelo menos uma coluna de arquivo é necessária.",
+        "duplicated" : "Esta coluna de arquivo já foi adicionada"
+      },
+      "criteria" : {
+        "trailingAndOr" : "E / OU Inválido nos últimos critérios de seleção",
+        "unmatchedParenthesis" : "Parênteses não combinados",
+        "multipleUdaTable" : "Você não pode selecionar mais de uma tabela do UDA",
+        "recoveryPackageDetail" : "Erro no processo de  arquivamento do lote de detalhes",
+        "recoveryPackageDetailDelete" : "Erro em apagar os detalhes do arquivo de conta",
+        "updateAmount" : "Erro ao atualizar o valor do lote"
+      },
+      "file" : {
+        "groupHeader" : "O grupo deve conter um cabeçalho de grupo",
+        "accountHeader" : "O grupo deve conter um cabeçalho de conta",
+        "nonexistentGroup" : "O grupo não existe no banco de dados"
+      }
+    },
+    "uploadAccount" : {
+      "title" : "Upload de contas",
+      "file" : "Arquivo",
+      "criteria" : "Critério",
+      "results" : "Resultados",
+      "group" : "Grupo",
+      "account" : "Conta",
+      "balance" : "Saldo transferido",
+      "currentAgency" : "Agência",
+      "customer" : "Cliente",
+      "name" : "Nome",
+      "delinquencyDay" : "Dias de atraso",
+      "totalAccounts" : "Total de contas",
+      "totalBalance" : "Saldo total transferido",
+      "accountProcessed" : "Contas processadas",
+      "close" : "Finalizar",
+      "process" : "Processar"
+    },
+    "button" : {
+      "placeholder" : "Selecionar arquivo",
+      "upload" : "UpLoad de contas",
+      "export" : "Exportar contas",
+      "uploadSalesPrice" : "Atualizar preço de vendas",
+      "archiveInformation" : "Informação do arquivo"
+    },
+    "tabEdit" : {
+      "titleAccounts" : "Contas",
+      "titleOffers" : " Oferta",
+      "titleModalAccounts" : "Atualizar status de conta",
+      "accounts" : {
+        "packageId" : "Lote",
+        "group" : "Grupo",
+        "account" : "Conta",
+        "debtorName" : "Nome",
+        "status" : "Status",
+        "currentBalance" : "Saldo transferido",
+        "delinquentDays" : "Dias",
+        "packageDetailStatus" : "Status",
+        "salePriceAmount" : "Preço"
+      }
+    },
+    "summary" : {
+      "title" : "Resumo do arquivo",
+      "export" : "Exportar arquivo",
+      "total" : "Total de contas:",
+      "assignable" : "Contas processadas:",
+      "nonAssignable" : "Contas não distribuídas"
+    },
+    "offers" : {
+      "buyer" : "Comprador",
+      "offerDate" : "Data da oferta",
+      "status" : "Status",
+      "amount" : "Valor"
+    },
+    "modalOffer" : {
+      "title" : "Oferta",
+      "errors" : {
+        "duplicateOfferBuyer" : "Já existe uma oferta com o mesmo comprador e data"
+      }
+    },
+    "archiveInformation" : {
+      "modal.title" : "Geração de uma cópia do arquivo"
+    }
+  },
+  "areaCode" : {
+    "search.title" : "Códigos de Área > Pesquisar",
+    "new.title" : "Códigos de Área > Incluir",
+    "view.title" : "Códigos de Área > Visualizar",
+    "areaCode" : "Código de Área",
+    "state" : "Estado",
+    "county" : "Município",
+    "neighborhood" : "Barrio",
+    "phoneLength" : "Número de dígitos do telefone",
+    "error.duplicated" : "Código de área já existente",
+    "byFile" : {
+      "title" : "Códigos de Área > Carregar",
+      "file" : "Arquivo: ",
+      "button.placeholder" : "Selecionar um arquivo",
+      "fileUpload" : "Carregar um arquivo",
+      "back" : "Voltar"
+    },
+    "summary" : {
+      "title" : "Resumo do arquivo",
+      "export" : "Exportar arquivo",
+      "total" : "Quantidade total de registros:",
+      "updated" : "Registros Atualizados: ",
+      "rejected" : "Registros Rejeitados: "
+    }
+  },
+  "transactionsDefinitions" : {
+    "search.title" : "Definição de Transações > Pesquisar",
+    "new.title" : "Definição de Transações > Novo",
+    "edit.title" : "Definição de Transações > Editar",
+    "code" : "Código",
+    "description" : "Descrição",
+    "sequence" : "Sequência",
+    "online" : "Online",
+    "calculation" : "Cálculo",
+    "percentage" : "Percentagem",
+    "reverseTransaction" : "Reverter transação",
+    "field" : "Campo",
+    "additionalTransactions" : "Transações adicionais",
+    "error" : {
+      "fail.pk" : "O código já existe"
+    }
+  },
+  "userSettings" : {
+    "title" : "Ajustes de usuário",
+    "name" : "Nome de usuário",
+    "language" : "Idioma"
+  },
+  "customerAccountsDistribution" : {
+    "byAgency" : {
+      "search.title" : "Distribuição de contas de clientes por agências > Pesquisar",
+      "customer" : "Cliente",
+      "agency" : "Agência",
+      "agenciesPerCustomer" : "Agências por Cliente",
+      "accountsPerCustomer" : "Contas por Cliente",
+      "assignedAmountPerCustomer" : "Valor distribuído por cliente",
+      "filterLeft" : "Obter clientes com maior ou igual a",
+      "filterRight" : "Agências"
+    }
+  },
+  "locksByQueue" : {
+    "title" : "Bloqueios por filas de trabalho"
+  },
+  "buyerSellerCatalog" : {
+    "search.title" : "Catálogo de Compradores/Vendedores > Pesquisar",
+    "new.title" : "Catálogo de Compradores/Vendedores > Novo",
+    "view.title" : "Catálogo de Compradores/Vendedores > Visualizar",
+    "id" : "ID",
+    "actorType" : "Comprador/Vendedor",
+    "buyer" : "Comprador",
+    "seller" : "Vendedor",
+    "actorFullName" : "Nome",
+    "companyName" : "Nome da empresa",
+    "type" : "Tipo",
+    "taxId" : "Id Impostos",
+    "status" : {
+      "label" : "Status",
+      "active" : "Ativo",
+      "inactive" : "Inativo"
+    }
+  },
+  "detailsTabs" : {
+    "contract" : {
+      "title" : "Contrato",
+      "initialDate" : "Data inicial",
+      "cancelDate" : "Data de cancelamento",
+      "cancelReason" : "Motivo de cancelamento",
+      "observation1" : "Observação  1",
+      "observation2" : "Observação 2",
+      "observation3" : "Observação 3",
+      "error" : {
+        "cancelDateEarlierThanInitialDate" : "A data de cancelamento do contrato não pode ser anterior à data inicial",
+        "cancelReasonMandatory" : "O motivo do cancelamento não pode estar vazio se a data de cancelamento contiver valor"
+      }
+    },
+    "address" : {
+      "title" : "Endereço",
+      "address" : "Endereço (Rua , Avenida, Estrada, preça, lote  etc)",
+      "address1" : "Complemento de endereço 1 (Número/Complemento)",
+      "address2" : "Complemento de endereço 2 ",
+      "address3" : "Complemento de endereço 3",
+      "state" : "Estado",
+      "city" : "Cidade",
+      "zip" : "Código Postal",
+      "phone" : {
+        "title" : "Telefone",
+        "area" : "DDD",
+        "landLine" : "Número",
+        "ext" : "Extenção"
+      },
+      "fax" : {
+        "title" : "Fax",
+        "area" : "DDD",
+        "landLine" : "Número",
+        "ext" : "Extenção"
+      }
+    },
+    "contacts" : {
+      "title" : "Contatos",
+      "modal.title" : "Contato",
+      "name" : "Nome",
+      "area" : "DDD",
+      "contactType" : "Tipo de contato",
+      "phone" : {
+        "title" : "Telefone",
+        "area" : "DDD",
+        "landLine" : "Número",
+        "ext" : "Extenção"
+      },
+      "mobile" : {
+        "title" : "Celular",
+        "area" : "DDD",
+        "number" : "Número"
+      },
+      "email" : "E-Mail",
+      "error" : {
+        "isDuplicate" : "Já existe outro elemento com o mesmo nome e tipo de contato",
+        "requiredContact" : "É necessário um telefone, celular ou e-mail",
+        "incompleteTelephone" : "É necessário inserir o DDD para o número de telefone",
+        "incompleteMobile" : "É necessário inserir o DDD para o número de celular"
+      }
+    }
+  },
+  "addressLocator" : {
+    "search.title" : "Geolocalização de endereços > Pesquisar",
+    "view.title" : "Geolocalização de endereços > Editar",
+    "locate" : "Localizar",
+    "locate.modal.title" : "Geolocalização em progresso",
+    "group" : "Grupo",
+    "account" : "Conta",
+    "addressId" : "Endereço",
+    "addressType" : "Tipo de endereço",
+    "address" : "Endereço",
+    "line1" : "Rua com número",
+    "line2" : "Bairro",
+    "line3" : "Município",
+    "state" : "Estado",
+    "city" : "Cidade",
+    "zip" : "Código postal",
+    "longitude" : "Longitude",
+    "latitude" : "Latitude",
+    "addressTypeLabels" : {
+      "main" : "Endereço principal",
+      "business" : "Endereço de trabalho",
+      "additional" : "Endereço adicional"
+    },
+    "withoutLocationFlag" : "Não geolocalizada",
+    "locationFlag" : {
+      "without" : "Endereço não geolocalizado",
+      "with" : "Endereço geolocalizado"
+    },
+    "individualLocate" : {
+      "locate" : "Localizar",
+      "modalContent" : {
+        "multipleLocations" : "Vários locais foram encontrados ao fazer a localização, selecione um no mapa.",
+        "noLocationResults" : "O endereço não pode ser geolocalizado. Você quer localizá-lo manualmente?"
+      },
+      "error" : {
+        "multipleLocationsInMap" : "Vários locais no mapa, selecione um.",
+        "googleError" : "Erro da Google Geolocation API: {{errorMessage}}"
+      }
+    },
+    "accountsProcessed" : "Contas processadas",
+    "addressLocated" : "Endereços localizados",
+    "close" : "Finalizar",
+    "massiveLocatorConfirmRun" : "Os endereços já foram localizados. Você quer continuar?"
+    }
+  }
+}

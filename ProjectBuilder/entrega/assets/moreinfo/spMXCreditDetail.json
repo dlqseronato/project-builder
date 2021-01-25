@@ -1,0 +1,84 @@
+{
+  "group": "6",
+  "rows": [
+    {
+      "sections": [
+        {
+          "size": "6",
+          "title": "Dynamic fields",
+          "labelWidth": "4",
+          "contentWidth": "8",
+          "contents": [
+            {
+              "label": "ES - Pay amount (C)",
+              "field": "dmppamt",
+              "format": "C"
+            },
+            {
+              "label": "ES - Pay amount (C2)",
+              "field": "dmppamt",
+              "format": "C2"
+            },
+            {
+              "label": "ES - Pay amount (C4)",
+              "field": "dmppamt",
+              "format": "C4"
+            },
+            {
+              "label": "ES - Num (D)",
+              "field": "dmseqno",
+              "format": "D"
+            },
+            {
+              "label": "ES - Num (D2)",
+              "field": "dmssnum",
+              "format": "D2"
+            },
+            {
+              "label": "ES - Num (D4)",
+              "field": "dmseqno",
+              "format": "D4"
+            }
+          ]
+        },
+        {
+          "size": "6",
+          "title": "Section 2",
+          "labelWidth": "4",
+          "contentWidth": "8",
+          "contents": [
+            {
+              "label": "ES - Label 1",
+              "field": "dmlabel1"
+            },
+            {
+              "label": "ES - No. Kept",
+              "field": "dmppkept",
+              "format": "I"
+            },
+            {
+              "label": "ES - No. Broken",
+              "field": "dmppbrok",
+              "format": "I"
+            },
+            {
+              "label": "ES - Made Date",
+              "field": "dmppmade",
+              "format": "DA"
+            },
+            {
+              "label": "ES - Due Time",
+              "field": "dmppdue",
+              "format": "DT"
+            },
+            {
+              "label": "ES - LOV Office",
+              "field": "dmprvoff",
+              "format": "LOV~EXPTYPE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

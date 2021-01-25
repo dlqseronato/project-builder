@@ -1,0 +1,13 @@
+ANT_PATH="C:\Program Files\NetBeans 8.2 RC\extide\ant\bin"
+SERVER="C:\diego.seronato\UTILIDADES\wildfly13"
+UI_CAMINHO="C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\AVON\conppwPadrao-UI"
+JV_CAMINHO="C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\AVON\conppwpadrao-jv"
+COMPILAR_TELA=cadastrometas
+
+UI_DASHBOARD="\dist\dashboard"
+UI_ASSETS="\src\assets"
+JV_WEB="\conppwPadraoC9-war\web"
+JV_DIST="\dist"
+SERVER_BIN="\bin"
+SERVER_DEPLOY="\standalone\deployments"
+SERVER_ASSETS="\standalone\deployments\conppwPadraoC9.ear\conppwPadraoC9-war.war\assets"

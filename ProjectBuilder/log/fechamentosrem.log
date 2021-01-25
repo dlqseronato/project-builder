@@ -1,0 +1,133 @@
+07/01/2021 15:15:17,03 - fechamentosrem - INICIO 
+07/01/2021 15:15:17,14 - fechamentosrem - INFORMACAO - Removendo arquivos dist\fechamentosrem 
+07/01/2021 15:15:17,36 - fechamentosrem - INFORMACAO - Inicio tentativa de build numero 1 
+07/01/2021 15:15:39,07 - fechamentosrem - 07/01/2021 15:15:17,03 - fechamentosrem - INICIO  
+07/01/2021 15:15:39,07 - fechamentosrem - 07/01/2021 15:15:17,14 - fechamentosrem - INFORMACAO - Removendo arquivos dist\fechamentosrem  
+07/01/2021 15:15:39,07 - fechamentosrem - 07/01/2021 15:15:17,36 - fechamentosrem - INFORMACAO - Inicio tentativa de build numero 1  
+07/01/2021 15:15:39,07 - fechamentosrem - > conppw-padrao-c9-ui@9.0.0 ng C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI 
+07/01/2021 15:15:39,07 - fechamentosrem - > ng "build" "fechamentosrem" 
+07/01/2021 15:15:39,07 - fechamentosrem - Building Angular Package 
+07/01/2021 15:15:39,07 - fechamentosrem - Building entry point 'fechamentosrem' 
+07/01/2021 15:15:39,07 - fechamentosrem - Compiling TypeScript sources through ngc 
+07/01/2021 15:15:39,07 - fechamentosrem - Browserslist: caniuse-lite is outdated. Please run next command `npm update` 
+07/01/2021 15:15:39,07 - fechamentosrem - Bundling to FESM2015 
+07/01/2021 15:15:39,07 - fechamentosrem - 'QueryList' is imported from external module '@angular/core' but never used 
+07/01/2021 15:15:39,07 - fechamentosrem - Bundling to FESM5 
+07/01/2021 15:15:39,07 - fechamentosrem - 'QueryList' is imported from external module '@angular/core' but never used 
+07/01/2021 15:15:39,07 - fechamentosrem - Bundling to UMD 
+07/01/2021 15:15:39,07 - fechamentosrem - No name was provided for external module 'angular2-jwt' in output.globals – guessing 'angular2Jwt' 
+07/01/2021 15:15:39,07 - fechamentosrem - Minifying UMD bundle 
+07/01/2021 15:15:39,07 - fechamentosrem - WARN: Dropping unused function argument Eb [0:635,29] 
+07/01/2021 15:15:39,07 - fechamentosrem - WARN: Side effects in initialization of unused variable Kb [0:666,20] 
+07/01/2021 15:15:39,07 - fechamentosrem - WARN: Dropping unused function argument Zb [0:748,29] 
+07/01/2021 15:15:39,07 - fechamentosrem - WARN: Dropping duplicated definition of variable Xc [0:1233,24] 
+07/01/2021 15:15:39,07 - fechamentosrem - WARN: Dropping duplicated definition of variable Yc [0:1245,33] 
+07/01/2021 15:15:39,07 - fechamentosrem - WARN: Dropping unused variable C_cliente [0:846,8] 
+07/01/2021 15:15:39,07 - fechamentosrem - WARN: Dropping unused variable C_projectName [0:846,8] 
+07/01/2021 15:15:39,07 - fechamentosrem - Copying declaration files 
+07/01/2021 15:15:39,07 - fechamentosrem - Writing package metadata 
+07/01/2021 15:15:39,07 - fechamentosrem - Removing scripts section in package.json as it's considered a potential security vulnerability. 
+07/01/2021 15:15:39,07 - fechamentosrem - Built fechamentosrem 
+07/01/2021 15:15:39,07 - fechamentosrem - Built Angular Package 
+07/01/2021 15:15:39,07 - fechamentosrem -  - from: C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\projects\fechamentosrem 
+07/01/2021 15:15:39,07 - fechamentosrem -  - to:   C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\dist\fechamentosrem 
+07/01/2021 15:15:39,48 - fechamentosrem - SUCESSO - TERMO NAO ENCONTRADO 
+07/01/2021 15:15:39,63 - fechamentosrem - SUCESSO - Build realizado com sucesso 
+07/01/2021 15:15:39,93 - fechamentosrem - SUCESSO - TERMO NAO ENCONTRADO 
+07/01/2021 15:15:40,53 - fechamentosrem - INFORMACAO - Move Bundles - Iniciando fechamentosrem 
+07/01/2021 15:15:40,63 - fechamentosrem - INFORMACAO - Move Bundles - Removendo arquivos *fechamentosrem* de "\src\assets" 
+Arquivo excluído - C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\src\assets\external-fechamentosrem.js
+Arquivo excluído - C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\src\assets\fechamentosrem.umd.js.map
+07/01/2021 15:15:40,74 - fechamentosrem - INFORMACAO - Move Bundles - Tentativa 1 
+07/01/2021 15:15:41,07 - fechamentosrem - 07/01/2021 15:15:17,03 - fechamentosrem - INICIO  
+07/01/2021 15:15:41,07 - fechamentosrem - 07/01/2021 15:15:17,14 - fechamentosrem - INFORMACAO - Removendo arquivos dist\fechamentosrem  
+07/01/2021 15:15:41,07 - fechamentosrem - 07/01/2021 15:15:17,36 - fechamentosrem - INFORMACAO - Inicio tentativa de build numero 1  
+07/01/2021 15:15:41,07 - fechamentosrem - > conppw-padrao-c9-ui@9.0.0 ng C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI 
+07/01/2021 15:15:41,07 - fechamentosrem - > ng "build" "fechamentosrem" 
+07/01/2021 15:15:41,07 - fechamentosrem - Building Angular Package 
+07/01/2021 15:15:41,07 - fechamentosrem - Building entry point 'fechamentosrem' 
+07/01/2021 15:15:41,07 - fechamentosrem - Compiling TypeScript sources through ngc 
+07/01/2021 15:15:41,07 - fechamentosrem - Browserslist: caniuse-lite is outdated. Please run next command `npm update` 
+07/01/2021 15:15:41,07 - fechamentosrem - Bundling to FESM2015 
+07/01/2021 15:15:41,07 - fechamentosrem - 'QueryList' is imported from external module '@angular/core' but never used 
+07/01/2021 15:15:41,07 - fechamentosrem - Bundling to FESM5 
+07/01/2021 15:15:41,07 - fechamentosrem - 'QueryList' is imported from external module '@angular/core' but never used 
+07/01/2021 15:15:41,07 - fechamentosrem - Bundling to UMD 
+07/01/2021 15:15:41,07 - fechamentosrem - No name was provided for external module 'angular2-jwt' in output.globals – guessing 'angular2Jwt' 
+07/01/2021 15:15:41,07 - fechamentosrem - Minifying UMD bundle 
+07/01/2021 15:15:41,07 - fechamentosrem - WARN: Dropping unused function argument Eb [0:635,29] 
+07/01/2021 15:15:41,07 - fechamentosrem - WARN: Side effects in initialization of unused variable Kb [0:666,20] 
+07/01/2021 15:15:41,07 - fechamentosrem - WARN: Dropping unused function argument Zb [0:748,29] 
+07/01/2021 15:15:41,07 - fechamentosrem - WARN: Dropping duplicated definition of variable Xc [0:1233,24] 
+07/01/2021 15:15:41,07 - fechamentosrem - WARN: Dropping duplicated definition of variable Yc [0:1245,33] 
+07/01/2021 15:15:41,07 - fechamentosrem - WARN: Dropping unused variable C_cliente [0:846,8] 
+07/01/2021 15:15:41,07 - fechamentosrem - WARN: Dropping unused variable C_projectName [0:846,8] 
+07/01/2021 15:15:41,07 - fechamentosrem - Copying declaration files 
+07/01/2021 15:15:41,07 - fechamentosrem - Writing package metadata 
+07/01/2021 15:15:41,07 - fechamentosrem - Removing scripts section in package.json as it's considered a potential security vulnerability. 
+07/01/2021 15:15:41,07 - fechamentosrem - Built fechamentosrem 
+07/01/2021 15:15:41,07 - fechamentosrem - Built Angular Package 
+07/01/2021 15:15:41,07 - fechamentosrem -  - from: C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\projects\fechamentosrem 
+07/01/2021 15:15:41,07 - fechamentosrem -  - to:   C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\dist\fechamentosrem 
+07/01/2021 15:15:41,07 - fechamentosrem - 07/01/2021 15:15:39,48 - fechamentosrem - SUCESSO - TERMO NAO ENCONTRADO  
+07/01/2021 15:15:41,07 - fechamentosrem - 07/01/2021 15:15:39,63 - fechamentosrem - SUCESSO - Build realizado com sucesso  
+07/01/2021 15:15:41,07 - fechamentosrem - 07/01/2021 15:15:39,93 - fechamentosrem - SUCESSO - TERMO NAO ENCONTRADO  
+07/01/2021 15:15:41,07 - fechamentosrem - 07/01/2021 15:15:40,53 - fechamentosrem - INFORMACAO - Move Bundles - Iniciando fechamentosrem  
+07/01/2021 15:15:41,07 - fechamentosrem - 07/01/2021 15:15:40,63 - fechamentosrem - INFORMACAO - Move Bundles - Removendo arquivos *fechamentosrem* de "\src\assets"  
+07/01/2021 15:15:41,07 - fechamentosrem - 07/01/2021 15:15:40,74 - fechamentosrem - INFORMACAO - Move Bundles - Tentativa 1  
+07/01/2021 15:15:41,07 - fechamentosrem - C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Constru��o\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\dist\fechamentosrem\bundles\external-fechamentosrem.js -> C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Constru��o\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\src\assets\external-fechamentosrem.js 
+07/01/2021 15:15:41,07 - fechamentosrem - 1 arquivo(s) copiado(s) 
+07/01/2021 15:15:41,07 - fechamentosrem - C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Constru��o\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\dist\fechamentosrem\bundles\fechamentosrem.umd.js.map -> C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Constru��o\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\src\assets\fechamentosrem.umd.js.map 
+07/01/2021 15:15:41,07 - fechamentosrem - 1 arquivo(s) copiado(s) 
+07/01/2021 15:15:41,49 - fechamentosrem - SUCESSO - TERMO NAO ENCONTRADO 
+07/01/2021 15:15:41,64 - fechamentosrem - SUCESSO - Move Bundles - Finalizado com sucesso 
+07/01/2021 15:15:41,92 - fechamentosrem - SUCESSO - TERMO NAO ENCONTRADO 
+07/01/2021 15:16:34,44 - fechamentosrem - SUCESSO - Build realizado com sucesso 
+07/01/2021 15:16:35,44 - fechamentosrem - INFORMACAO - Inicio tentativa de copia numero 1 
+07/01/2021 15:16:37,23 - fechamentosrem - 07/01/2021 15:15:17,03 - fechamentosrem - INICIO  
+07/01/2021 15:16:37,23 - fechamentosrem - 07/01/2021 15:15:17,14 - fechamentosrem - INFORMACAO - Removendo arquivos dist\fechamentosrem  
+07/01/2021 15:16:37,23 - fechamentosrem - 07/01/2021 15:15:17,36 - fechamentosrem - INFORMACAO - Inicio tentativa de build numero 1  
+07/01/2021 15:16:37,23 - fechamentosrem - > conppw-padrao-c9-ui@9.0.0 ng C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI 
+07/01/2021 15:16:37,23 - fechamentosrem - > ng "build" "fechamentosrem" 
+07/01/2021 15:16:37,23 - fechamentosrem - Building Angular Package 
+07/01/2021 15:16:37,23 - fechamentosrem - Building entry point 'fechamentosrem' 
+07/01/2021 15:16:37,23 - fechamentosrem - Compiling TypeScript sources through ngc 
+07/01/2021 15:16:37,23 - fechamentosrem - Browserslist: caniuse-lite is outdated. Please run next command `npm update` 
+07/01/2021 15:16:37,23 - fechamentosrem - Bundling to FESM2015 
+07/01/2021 15:16:37,23 - fechamentosrem - 'QueryList' is imported from external module '@angular/core' but never used 
+07/01/2021 15:16:37,23 - fechamentosrem - Bundling to FESM5 
+07/01/2021 15:16:37,23 - fechamentosrem - 'QueryList' is imported from external module '@angular/core' but never used 
+07/01/2021 15:16:37,23 - fechamentosrem - Bundling to UMD 
+07/01/2021 15:16:37,23 - fechamentosrem - No name was provided for external module 'angular2-jwt' in output.globals – guessing 'angular2Jwt' 
+07/01/2021 15:16:37,23 - fechamentosrem - Minifying UMD bundle 
+07/01/2021 15:16:37,23 - fechamentosrem - WARN: Dropping unused function argument Eb [0:635,29] 
+07/01/2021 15:16:37,23 - fechamentosrem - WARN: Side effects in initialization of unused variable Kb [0:666,20] 
+07/01/2021 15:16:37,23 - fechamentosrem - WARN: Dropping unused function argument Zb [0:748,29] 
+07/01/2021 15:16:37,23 - fechamentosrem - WARN: Dropping duplicated definition of variable Xc [0:1233,24] 
+07/01/2021 15:16:37,23 - fechamentosrem - WARN: Dropping duplicated definition of variable Yc [0:1245,33] 
+07/01/2021 15:16:37,23 - fechamentosrem - WARN: Dropping unused variable C_cliente [0:846,8] 
+07/01/2021 15:16:37,23 - fechamentosrem - WARN: Dropping unused variable C_projectName [0:846,8] 
+07/01/2021 15:16:37,23 - fechamentosrem - Copying declaration files 
+07/01/2021 15:16:37,23 - fechamentosrem - Writing package metadata 
+07/01/2021 15:16:37,23 - fechamentosrem - Removing scripts section in package.json as it's considered a potential security vulnerability. 
+07/01/2021 15:16:37,23 - fechamentosrem - Built fechamentosrem 
+07/01/2021 15:16:37,23 - fechamentosrem - Built Angular Package 
+07/01/2021 15:16:37,23 - fechamentosrem -  - from: C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\projects\fechamentosrem 
+07/01/2021 15:16:37,23 - fechamentosrem -  - to:   C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Construção\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\dist\fechamentosrem 
+07/01/2021 15:16:37,23 - fechamentosrem - 07/01/2021 15:15:39,48 - fechamentosrem - SUCESSO - TERMO NAO ENCONTRADO  
+07/01/2021 15:16:37,23 - fechamentosrem - 07/01/2021 15:15:39,63 - fechamentosrem - SUCESSO - Build realizado com sucesso  
+07/01/2021 15:16:37,23 - fechamentosrem - 07/01/2021 15:15:39,93 - fechamentosrem - SUCESSO - TERMO NAO ENCONTRADO  
+07/01/2021 15:16:37,23 - fechamentosrem - 07/01/2021 15:15:40,53 - fechamentosrem - INFORMACAO - Move Bundles - Iniciando fechamentosrem  
+07/01/2021 15:16:37,23 - fechamentosrem - 07/01/2021 15:15:40,63 - fechamentosrem - INFORMACAO - Move Bundles - Removendo arquivos *fechamentosrem* de "\src\assets"  
+07/01/2021 15:16:37,23 - fechamentosrem - 07/01/2021 15:15:40,74 - fechamentosrem - INFORMACAO - Move Bundles - Tentativa 1  
+07/01/2021 15:16:37,23 - fechamentosrem - C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Constru��o\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\dist\fechamentosrem\bundles\external-fechamentosrem.js -> C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Constru��o\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\src\assets\external-fechamentosrem.js 
+07/01/2021 15:16:37,23 - fechamentosrem - 1 arquivo(s) copiado(s) 
+07/01/2021 15:16:37,23 - fechamentosrem - C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Constru��o\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\dist\fechamentosrem\bundles\fechamentosrem.umd.js.map -> C:\diego.seronato\PROJETOS_SVN_NOVO\MIGRACAO_VERSAO\3 - Constru��o\PacotesCustomizados\RIACHUELO\conppwPadrao-UI\src\assets\fechamentosrem.umd.js.map 
+07/01/2021 15:16:37,23 - fechamentosrem - 1 arquivo(s) copiado(s) 
+07/01/2021 15:16:37,23 - fechamentosrem - 07/01/2021 15:15:41,49 - fechamentosrem - SUCESSO - TERMO NAO ENCONTRADO  
+07/01/2021 15:16:37,23 - fechamentosrem - 07/01/2021 15:15:41,64 - fechamentosrem - SUCESSO - Move Bundles - Finalizado com sucesso  
+07/01/2021 15:16:37,23 - fechamentosrem - 07/01/2021 15:15:41,92 - fechamentosrem - SUCESSO - TERMO NAO ENCONTRADO  
+07/01/2021 15:16:37,23 - fechamentosrem - 07/01/2021 15:16:34,44 - fechamentosrem - SUCESSO - Build realizado com sucesso  
+07/01/2021 15:16:37,23 - fechamentosrem - 07/01/2021 15:16:35,44 - fechamentosrem - INFORMACAO - Inicio tentativa de copia numero 1  
+07/01/2021 15:16:37,65 - fechamentosrem - SUCESSO - TERMO NAO ENCONTRADO 
+07/01/2021 15:16:37,79 - fechamentosrem - SUCESSO - Copia realizada com sucesso 

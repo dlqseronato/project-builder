@@ -1,0 +1,121 @@
+{
+  "tabTitle": "ES - New Case Details",
+  "rows": [
+    {
+      "sections": [
+        {
+          "size": "6",
+          "title": "ES - Currency and Decimal fields",
+          "labelWidth": "4",
+          "contentWidth": "8",
+          "contents": [
+            {
+              "label": "ES - Amount (C)",
+              "field": "celwstamt",
+              "format": "C"
+            },
+            {
+              "label": "ES - Amount (C2)",
+              "field": "celwstamt",
+              "format": "C2"
+            },
+            {
+              "label": "ES - Amount (C4)",
+              "field": "celwstamt",
+              "format": "C4"
+            },
+            {
+              "label": "ES - Branch (D)",
+              "field": "celwstamt",
+              "format": "D"
+            },
+            {
+              "label": "ES - Branch (D2)",
+              "field": "celwstamt",
+              "format": "D2"
+            },
+            {
+              "label": "ES - Branch (D4)",
+              "field": "celwstamt",
+              "format": "D4"
+            }
+          ]
+        },
+        {
+          "size": "6",
+          "title": "ES - Text and date fields",
+          "labelWidth": "4",
+          "contentWidth": "8",
+          "contents": [
+            {
+              "label": "ES - File Number",
+              "field": "CEDOSSIERID"
+            },
+            {
+              "label": "ES - Court id",
+              "field": "CECRTID",
+              "format": "C2"
+            },
+            {
+              "label": "ES - Additional expenses (C2)",
+              "field": "CEEXPACC",
+              "format": "C2"
+            },
+            {
+              "label": "ES - Last activity date (DA)",
+              "field": "CELSTACT",
+              "format": "DA"
+            },
+            {
+              "label": "ES - Date of the demand (DT)",
+              "field": "CELWSTDT",
+              "format": "DT"
+            },
+            {
+              "label": "ES - Next contact date (DT)",
+              "field": "CENXTCON",
+              "format": "DT"
+            }
+          ]
+        },
+        {
+          "size": "6",
+          "title": "ES - Case UDA fields",
+          "labelWidth": "4",
+          "contentWidth": "8",
+          "contents": [
+            {
+              "label": "ES - Decimal",
+              "field": "CUDECIMAL",
+              "format": "D"
+            },
+            {
+              "label": "ES - Decimal (D3)",
+              "field": "CUDECIMAL",
+              "format": "D3"
+            },
+            {
+              "label": "ES - Date (DT)",
+              "field": "CUDATE",
+              "format": "DT"
+            },
+            {
+              "label": "ES - Date (DA)",
+              "field": "CUDATE",
+              "format": "DA"
+            },
+            {
+              "label": "ES - LOV",
+              "field": "CULOV"
+            },
+            {
+              "label": "ES - LOV Office",
+              "field": "CULOV",
+              "format": "LOV~EXPTYPE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

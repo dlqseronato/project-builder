@@ -1,0 +1,88 @@
+{
+  "group": "6",
+  "rows": [
+    {
+      "sections": [
+        {
+          "size": "6",
+          "title": "Dynamic fields",
+          "labelWidth": "4",
+          "contentWidth": "8",
+          "contents": [
+            {
+              "label": "Pay amount (C)",
+              "field": "dmppamt",
+              "format": "C"
+            },
+            {
+              "label": "Pay amount (C2)",
+              "field": "dmppamt",
+              "format": "C2"
+            },
+            {
+              "label": "Pay amount (C4)",
+              "field": "dmppamt",
+              "format": "C4"
+            },
+            {
+              "label": "Num (D)",
+              "field": "dmssnum",
+              "format": "D"
+            },
+            {
+              "label": "Num (D2)",
+              "field": "dmssnum",
+              "format": "D2"
+            },
+            {
+              "label": "Num (D4)",
+              "field": "dmssnum",
+              "format": "D4"
+            }
+          ]
+        },
+        {
+          "size": "6",
+          "title": "Section 2",
+          "labelWidth": "4",
+          "contentWidth": "8",
+          "contents": [
+            {
+              "label": "Label 1",
+              "field": "dmlabel1"
+            },
+            {
+              "label": "Label 2",
+              "field": "dmlabel2"
+            },
+            {
+              "label": "No. Kept",
+              "field": "dmppkept",
+              "format": "I"
+            },
+            {
+              "label": "No. Broken",
+              "field": "dmppbrok",
+              "format": "I"
+            },
+            {
+              "label": "Made Date",
+              "field": "dmppmade",
+              "format": "DA"
+            },
+            {
+              "label": "Due Time",
+              "field": "dmppdue",
+              "format": "DT"
+            },
+            {
+              "label": "LOV Office",
+              "field": "dmofficr",
+              "format": "LOV~VPCLL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "dateFormat": "MM/DD/YYYY",
+  "dateTimeFormat": "MM/dd/yyyy HH:mm:ss",
+  "calendarDateFormat": "mm/dd/yyyy",
+  "calendarDateTimeFormat": "MM/dd/yyyy hh:ii:ss",
+  "gridFormat": "MM/dd/yyyy",
+  "weekStart": 0,
+  "decimal_separator": ".",
+  "thousands_separator": ",",
+  "proper_locale_name": "en-US"
+}

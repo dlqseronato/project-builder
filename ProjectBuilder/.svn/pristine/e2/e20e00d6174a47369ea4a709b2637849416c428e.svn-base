@@ -1,0 +1,38 @@
+@ECHO OFF
+set PATH_BUILDER=%1
+set TELA=%2
+set UI_BUNDLES="\dist\%TELA%\bundles"
+for /f "tokens=1* delims=;" %%x in (      
+        'type %PATH_BUILDER%\config\config.properties'
+       ) do (
+			SET %%x
+       )
+call cmd /c %PATH_BUILDER%\bin\Logger %PATH_BUILDER% %TELA% "Move Bundles - Iniciando %TELA%" 3
+cd %UI_CAMINHO%%UI_BUNDLES%
+ren "%TELA%.umd.min.js" "external-%TELA%.js" >> %PATH_BUILDER%\log\%TELA%.log
+cd %UI_CAMINHO%%UI_ASSETS%
+call cmd /c %PATH_BUILDER%\bin\Logger %PATH_BUILDER% %TELA% "Move Bundles - Removendo arquivos *%TELA%* de %UI_ASSETS%" 3
+erase /q/f/s *%TELA%* >> %PATH_BUILDER%\log\%TELA%.log 2>&1
+SET /a INDEX = 1
+:WHILE
+	call cmd /c %PATH_BUILDER%\bin\Logger %PATH_BUILDER% %TELA% "Move Bundles - Tentativa %INDEX%" 3
+	xcopy /y/f/c %UI_CAMINHO%%UI_BUNDLES%\external-%TELA%.js %UI_CAMINHO%%UI_ASSETS% >> %PATH_BUILDER%\tmp\%TELA%.tmp 2>&1
+	xcopy /y/f/c %UI_CAMINHO%%UI_BUNDLES%\%TELA%.umd.min.js.map %UI_CAMINHO%%UI_ASSETS% >> %PATH_BUILDER%\tmp\%TELA%.tmp 2>&1
+	call cmd /c %PATH_BUILDER%\bin\Logger %PATH_BUILDER% %TELA% "" 30
+	call cmd /c %PATH_BUILDER%\bin\Logger %PATH_BUILDER% %TELA% "Acesso negado" 21
+	ECHO ERRORLEVEL=%ERRORLEVEL%
+	IF %ERRORLEVEL% EQU 0 (
+		call cmd /c %PATH_BUILDER%\bin\Logger %PATH_BUILDER% %TELA% "Move Bundles - Finalizado com sucesso" 2
+		EXIT /B 0
+	) ELSE (
+		call cmd /c %PATH_BUILDER%\bin\Logger %PATH_BUILDER% %TELA% "Move Bundles - Falhou: %ERRORLEVEL%" 1
+	)
+:ENDWHILE
+	IF %INDEX% LEQ 3 (
+		call cmd /c %PATH_BUILDER%\bin\Logger %PATH_BUILDER% %TELA% "" 5
+		SET /a INDEX = INDEX + 1  
+		CALL :WHILE
+	) ELSE (
+		call cmd /c %PATH_BUILDER%\bin\Logger %PATH_BUILDER% %TELA% "Move Bundles - Cancelado. Falhou 3 vezes consecutivas." 1
+		EXIT /B 1
+	)
